@@ -1,5 +1,5 @@
 x='gcactagctttgataggggcgggcgtg'
-y='g'
+
 def ntCenter(seq,letter):
     ind = []
     for i in range(len(seq)):
@@ -8,6 +8,7 @@ def ntCenter(seq,letter):
     center = sum(ind)/len(ind)
     center = int(center)
     dist = round(((0.5 * len(seq)) - center) / len(seq),2)
-    return center, dist
+    return letter, center, dist
 
-ntCenter(x,y)
+for nt in 'acgt':
+    ntCenter(x,nt)
