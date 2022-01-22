@@ -1,0 +1,8 @@
+FILE: PNA Flu Mortality USA.csv
+Processed by JSteinbecker, 2021-01-21
+Accessed from: CDC
+
+
+--------
+SELECT a1,a4,a5,a6,a7,a8,a9,a10,a11 WHERE a1 == "National"
+--------
