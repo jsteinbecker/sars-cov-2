@@ -1,6 +1,3 @@
-----------------------------------------------------------------
-### SELECT a1,a4,a5,a6,a7,a8,a9,a10,a11 WHERE a1 == "National" ###
-----------------------------------------------------------------
 geoid,age,season,MMWR Year/Week,Deaths from influenza,Deaths from pneumonia,Deaths from pneumonia and influenza,All Deaths,Pecent of deaths due to pneumonia or influenza
 National,65 years and older,2017-18,201744,27,2588,2615,39463,6.6264602286
 National,All,2017-18,201744,36,3214,3250,53679,6.0545092122
