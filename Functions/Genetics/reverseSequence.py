@@ -5,5 +5,3 @@ def reverseSequence (seq: str):
 
 
 
-s1 = "actgattgat"
-reverseSequence(s1)  # `tagttagtca``

@@ -1,6 +1,6 @@
 x='gcactagctttgataggggcgggcgtg'
 
-def ntCenter(seq):
+def ntCenter(seq,nts,displaytype = True):
     """
     FUNCTION WILL RETURN AN ARRAY WITH VALUES:
     NUCLEOTIDE, 
@@ -9,7 +9,7 @@ def ntCenter(seq):
     """
     centers = []
 
-    for nt in 'acgt':
+    for nt in nts:
         ind = []
         
         for i in range(len(seq)):
@@ -22,6 +22,12 @@ def ntCenter(seq):
         dist = round(((0.5 * len(seq)) - center) / len(seq),2)
         centers.append([nt,center,dist])
 
-    return centers
+    if displaytype == True:
+        out = ""
+        for x in centers:
 
-print(ntCenter(x))
+            print(f'{x[0]}: Center= {x[1]}, {int(x[2]*100)}% from true center')
+            
+    if displaytype == False:
+
+        return centers
