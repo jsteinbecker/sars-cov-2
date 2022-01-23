@@ -1,11 +1,11 @@
 x='gcactagctttgataggggcgggcgtg'
 
 def ntCenter(seq,nts,displaytype = True):
-    """
-    FUNCTION WILL RETURN AN ARRAY WITH VALUES:
-    NUCLEOTIDE, 
-    AVERAGE POSITION IN CHAIN, AND 
-    %DISTANCE TO THE TRUE CENTER
+    """FUNCTION WILL RETURN AN ARRAY WITH VALUES:
+    
+         - NUCLEOTIDE, 
+         - AVERAGE POSITION IN CHAIN, AND 
+         - % DISTANCE TO THE TRUE CENTER
     """
     centers = []
 

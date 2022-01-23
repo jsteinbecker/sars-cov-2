@@ -1,0 +1,3325 @@
+iso_code,date,indicator,value
+USA,2020-07-15,Daily ICU occupancy,9245.0
+USA,2020-07-15,Daily ICU occupancy per million,27.77
+USA,2020-07-15,Daily hospital occupancy,33755.0
+USA,2020-07-15,Daily hospital occupancy per million,101.392
+USA,2020-07-16,Daily ICU occupancy,9797.0
+USA,2020-07-16,Daily ICU occupancy per million,29.428
+USA,2020-07-16,Daily hospital occupancy,38532.0
+USA,2020-07-16,Daily hospital occupancy per million,115.741
+USA,2020-07-17,Daily ICU occupancy,10700.0
+USA,2020-07-17,Daily ICU occupancy per million,32.14
+USA,2020-07-17,Daily hospital occupancy,40057.0
+USA,2020-07-17,Daily hospital occupancy per million,120.322
+USA,2020-07-18,Daily ICU occupancy,10963.0
+USA,2020-07-18,Daily ICU occupancy per million,32.93
+USA,2020-07-18,Daily hospital occupancy,40372.0
+USA,2020-07-18,Daily hospital occupancy per million,121.268
+USA,2020-07-19,Daily ICU occupancy,10271.0
+USA,2020-07-19,Daily ICU occupancy per million,30.852
+USA,2020-07-19,Daily hospital occupancy,37895.0
+USA,2020-07-19,Daily hospital occupancy per million,113.828
+USA,2020-07-20,Daily ICU occupancy,11291.0
+USA,2020-07-20,Daily ICU occupancy per million,33.916
+USA,2020-07-20,Daily hospital occupancy,41136.0
+USA,2020-07-20,Daily hospital occupancy per million,123.563
+USA,2020-07-21,Daily ICU occupancy,11458.0
+USA,2020-07-21,Daily ICU occupancy per million,34.417
+USA,2020-07-21,Daily hospital occupancy,42192.0
+USA,2020-07-21,Daily hospital occupancy per million,126.735
+USA,2020-07-21,Weekly new hospital admissions,30554.0
+USA,2020-07-21,Weekly new hospital admissions per million,91.777
+USA,2020-07-22,Daily ICU occupancy,12487.0
+USA,2020-07-22,Daily ICU occupancy per million,37.508
+USA,2020-07-22,Daily hospital occupancy,46104.0
+USA,2020-07-22,Daily hospital occupancy per million,138.486
+USA,2020-07-22,Weekly new hospital admissions,31354.0
+USA,2020-07-22,Weekly new hospital admissions per million,94.18
+USA,2020-07-23,Daily ICU occupancy,13910.0
+USA,2020-07-23,Daily ICU occupancy per million,41.782
+USA,2020-07-23,Daily hospital occupancy,47821.0
+USA,2020-07-23,Daily hospital occupancy per million,143.643
+USA,2020-07-23,Weekly new hospital admissions,31680.0
+USA,2020-07-23,Weekly new hospital admissions per million,95.159
+USA,2020-07-24,Daily ICU occupancy,13623.0
+USA,2020-07-24,Daily ICU occupancy per million,40.92
+USA,2020-07-24,Daily hospital occupancy,46734.0
+USA,2020-07-24,Daily hospital occupancy per million,140.378
+USA,2020-07-24,Weekly new hospital admissions,31871.0
+USA,2020-07-24,Weekly new hospital admissions per million,95.733
+USA,2020-07-25,Daily ICU occupancy,14398.0
+USA,2020-07-25,Daily ICU occupancy per million,43.248
+USA,2020-07-25,Daily hospital occupancy,51815.0
+USA,2020-07-25,Daily hospital occupancy per million,155.64
+USA,2020-07-25,Weekly new hospital admissions,32805.0
+USA,2020-07-25,Weekly new hospital admissions per million,98.539
+USA,2020-07-26,Daily ICU occupancy,12400.0
+USA,2020-07-26,Daily ICU occupancy per million,37.247
+USA,2020-07-26,Daily hospital occupancy,43102.0
+USA,2020-07-26,Daily hospital occupancy per million,129.468
+USA,2020-07-26,Weekly new hospital admissions,33649.0
+USA,2020-07-26,Weekly new hospital admissions per million,101.074
+USA,2020-07-27,Daily ICU occupancy,14233.0
+USA,2020-07-27,Daily ICU occupancy per million,42.753
+USA,2020-07-27,Daily hospital occupancy,47176.0
+USA,2020-07-27,Daily hospital occupancy per million,141.706
+USA,2020-07-27,Weekly new hospital admissions,34620.0
+USA,2020-07-27,Weekly new hospital admissions per million,103.99
+USA,2020-07-28,Daily ICU occupancy,14583.0
+USA,2020-07-28,Daily ICU occupancy per million,43.804
+USA,2020-07-28,Daily hospital occupancy,48118.0
+USA,2020-07-28,Daily hospital occupancy per million,144.535
+USA,2020-07-28,Weekly new hospital admissions,35635.0
+USA,2020-07-28,Weekly new hospital admissions per million,107.039
+USA,2020-07-29,Daily ICU occupancy,14025.0
+USA,2020-07-29,Daily ICU occupancy per million,42.128
+USA,2020-07-29,Daily hospital occupancy,45624.0
+USA,2020-07-29,Daily hospital occupancy per million,137.044
+USA,2020-07-29,Weekly new hospital admissions,36275.0
+USA,2020-07-29,Weekly new hospital admissions per million,108.962
+USA,2020-07-30,Daily ICU occupancy,14659.0
+USA,2020-07-30,Daily ICU occupancy per million,44.032
+USA,2020-07-30,Daily hospital occupancy,46842.0
+USA,2020-07-30,Daily hospital occupancy per million,140.703
+USA,2020-07-30,Weekly new hospital admissions,36801.0
+USA,2020-07-30,Weekly new hospital admissions per million,110.542
+USA,2020-07-31,Daily ICU occupancy,14609.0
+USA,2020-07-31,Daily ICU occupancy per million,43.882
+USA,2020-07-31,Daily hospital occupancy,46160.0
+USA,2020-07-31,Daily hospital occupancy per million,138.654
+USA,2020-07-31,Weekly new hospital admissions,38022.0
+USA,2020-07-31,Weekly new hospital admissions per million,114.209
+USA,2020-08-01,Daily ICU occupancy,14400.0
+USA,2020-08-01,Daily ICU occupancy per million,43.254
+USA,2020-08-01,Daily hospital occupancy,50413.0
+USA,2020-08-01,Daily hospital occupancy per million,151.429
+USA,2020-08-01,Weekly new hospital admissions,38575.0
+USA,2020-08-01,Weekly new hospital admissions per million,115.87
+USA,2020-08-02,Daily ICU occupancy,14053.0
+USA,2020-08-02,Daily ICU occupancy per million,42.212
+USA,2020-08-02,Daily hospital occupancy,50232.0
+USA,2020-08-02,Daily hospital occupancy per million,150.885
+USA,2020-08-02,Weekly new hospital admissions,38563.0
+USA,2020-08-02,Weekly new hospital admissions per million,115.834
+USA,2020-08-03,Daily ICU occupancy,14250.0
+USA,2020-08-03,Daily ICU occupancy per million,42.804
+USA,2020-08-03,Daily hospital occupancy,45305.0
+USA,2020-08-03,Daily hospital occupancy per million,136.086
+USA,2020-08-03,Weekly new hospital admissions,38049.0
+USA,2020-08-03,Weekly new hospital admissions per million,114.29
+USA,2020-08-04,Daily ICU occupancy,14119.0
+USA,2020-08-04,Daily ICU occupancy per million,42.41
+USA,2020-08-04,Daily hospital occupancy,45147.0
+USA,2020-08-04,Daily hospital occupancy per million,135.611
+USA,2020-08-04,Weekly new hospital admissions,37014.0
+USA,2020-08-04,Weekly new hospital admissions per million,111.182
+USA,2020-08-05,Daily ICU occupancy,14062.0
+USA,2020-08-05,Daily ICU occupancy per million,42.239
+USA,2020-08-05,Daily hospital occupancy,44671.0
+USA,2020-08-05,Daily hospital occupancy per million,134.181
+USA,2020-08-05,Weekly new hospital admissions,36597.0
+USA,2020-08-05,Weekly new hospital admissions per million,109.929
+USA,2020-08-06,Daily ICU occupancy,13885.0
+USA,2020-08-06,Daily ICU occupancy per million,41.707
+USA,2020-08-06,Daily hospital occupancy,43884.0
+USA,2020-08-06,Daily hospital occupancy per million,131.817
+USA,2020-08-06,Weekly new hospital admissions,36120.0
+USA,2020-08-06,Weekly new hospital admissions per million,108.496
+USA,2020-08-07,Daily ICU occupancy,13767.0
+USA,2020-08-07,Daily ICU occupancy per million,41.353
+USA,2020-08-07,Daily hospital occupancy,43203.0
+USA,2020-08-07,Daily hospital occupancy per million,129.772
+USA,2020-08-07,Weekly new hospital admissions,34750.0
+USA,2020-08-07,Weekly new hospital admissions per million,104.381
+USA,2020-08-08,Daily ICU occupancy,13356.0
+USA,2020-08-08,Daily ICU occupancy per million,40.118
+USA,2020-08-08,Daily hospital occupancy,41584.0
+USA,2020-08-08,Daily hospital occupancy per million,124.909
+USA,2020-08-08,Weekly new hospital admissions,33370.0
+USA,2020-08-08,Weekly new hospital admissions per million,100.236
+USA,2020-08-09,Daily ICU occupancy,13163.0
+USA,2020-08-09,Daily ICU occupancy per million,39.539
+USA,2020-08-09,Daily hospital occupancy,41472.0
+USA,2020-08-09,Daily hospital occupancy per million,124.572
+USA,2020-08-09,Weekly new hospital admissions,33016.0
+USA,2020-08-09,Weekly new hospital admissions per million,99.172
+USA,2020-08-10,Daily ICU occupancy,13183.0
+USA,2020-08-10,Daily ICU occupancy per million,39.599
+USA,2020-08-10,Daily hospital occupancy,42074.0
+USA,2020-08-10,Daily hospital occupancy per million,126.381
+USA,2020-08-10,Weekly new hospital admissions,32635.0
+USA,2020-08-10,Weekly new hospital admissions per million,98.028
+USA,2020-08-11,Daily ICU occupancy,13060.0
+USA,2020-08-11,Daily ICU occupancy per million,39.229
+USA,2020-08-11,Daily hospital occupancy,41650.0
+USA,2020-08-11,Daily hospital occupancy per million,125.107
+USA,2020-08-11,Weekly new hospital admissions,32365.0
+USA,2020-08-11,Weekly new hospital admissions per million,97.217
+USA,2020-08-12,Daily ICU occupancy,12870.0
+USA,2020-08-12,Daily ICU occupancy per million,38.659
+USA,2020-08-12,Daily hospital occupancy,41826.0
+USA,2020-08-12,Daily hospital occupancy per million,125.636
+USA,2020-08-12,Weekly new hospital admissions,31978.0
+USA,2020-08-12,Weekly new hospital admissions per million,96.055
+USA,2020-08-13,Daily ICU occupancy,12680.0
+USA,2020-08-13,Daily ICU occupancy per million,38.088
+USA,2020-08-13,Daily hospital occupancy,41252.0
+USA,2020-08-13,Daily hospital occupancy per million,123.911
+USA,2020-08-13,Weekly new hospital admissions,31664.0
+USA,2020-08-13,Weekly new hospital admissions per million,95.111
+USA,2020-08-14,Daily ICU occupancy,12516.0
+USA,2020-08-14,Daily ICU occupancy per million,37.595
+USA,2020-08-14,Daily hospital occupancy,39993.0
+USA,2020-08-14,Daily hospital occupancy per million,120.13
+USA,2020-08-14,Weekly new hospital admissions,31574.0
+USA,2020-08-14,Weekly new hospital admissions per million,94.841
+USA,2020-08-15,Daily ICU occupancy,12246.0
+USA,2020-08-15,Daily ICU occupancy per million,36.784
+USA,2020-08-15,Daily hospital occupancy,38696.0
+USA,2020-08-15,Daily hospital occupancy per million,116.234
+USA,2020-08-15,Weekly new hospital admissions,31660.0
+USA,2020-08-15,Weekly new hospital admissions per million,95.099
+USA,2020-08-16,Daily ICU occupancy,11991.0
+USA,2020-08-16,Daily ICU occupancy per million,36.018
+USA,2020-08-16,Daily hospital occupancy,38848.0
+USA,2020-08-16,Daily hospital occupancy per million,116.69
+USA,2020-08-16,Weekly new hospital admissions,31685.0
+USA,2020-08-16,Weekly new hospital admissions per million,95.174
+USA,2020-08-17,Daily ICU occupancy,11971.0
+USA,2020-08-17,Daily ICU occupancy per million,35.958
+USA,2020-08-17,Daily hospital occupancy,39047.0
+USA,2020-08-17,Daily hospital occupancy per million,117.288
+USA,2020-08-17,Weekly new hospital admissions,32170.0
+USA,2020-08-17,Weekly new hospital admissions per million,96.631
+USA,2020-08-18,Daily ICU occupancy,11960.0
+USA,2020-08-18,Daily ICU occupancy per million,35.925
+USA,2020-08-18,Daily hospital occupancy,38909.0
+USA,2020-08-18,Daily hospital occupancy per million,116.874
+USA,2020-08-18,Weekly new hospital admissions,32120.0
+USA,2020-08-18,Weekly new hospital admissions per million,96.481
+USA,2020-08-19,Daily ICU occupancy,11575.0
+USA,2020-08-19,Daily ICU occupancy per million,34.769
+USA,2020-08-19,Daily hospital occupancy,38016.0
+USA,2020-08-19,Daily hospital occupancy per million,114.191
+USA,2020-08-19,Weekly new hospital admissions,31937.0
+USA,2020-08-19,Weekly new hospital admissions per million,95.931
+USA,2020-08-20,Daily ICU occupancy,11266.0
+USA,2020-08-20,Daily ICU occupancy per million,33.84
+USA,2020-08-20,Daily hospital occupancy,37331.0
+USA,2020-08-20,Daily hospital occupancy per million,112.134
+USA,2020-08-20,Weekly new hospital admissions,31762.0
+USA,2020-08-20,Weekly new hospital admissions per million,95.406
+USA,2020-08-21,Daily ICU occupancy,11031.0
+USA,2020-08-21,Daily ICU occupancy per million,33.135
+USA,2020-08-21,Daily hospital occupancy,35986.0
+USA,2020-08-21,Daily hospital occupancy per million,108.094
+USA,2020-08-21,Weekly new hospital admissions,31106.0
+USA,2020-08-21,Weekly new hospital admissions per million,93.435
+USA,2020-08-22,Daily ICU occupancy,10779.0
+USA,2020-08-22,Daily ICU occupancy per million,32.378
+USA,2020-08-22,Daily hospital occupancy,34885.0
+USA,2020-08-22,Daily hospital occupancy per million,104.786
+USA,2020-08-22,Weekly new hospital admissions,30886.0
+USA,2020-08-22,Weekly new hospital admissions per million,92.774
+USA,2020-08-23,Daily ICU occupancy,10738.0
+USA,2020-08-23,Daily ICU occupancy per million,32.254
+USA,2020-08-23,Daily hospital occupancy,34606.0
+USA,2020-08-23,Daily hospital occupancy per million,103.948
+USA,2020-08-23,Weekly new hospital admissions,30417.0
+USA,2020-08-23,Weekly new hospital admissions per million,91.366
+USA,2020-08-24,Daily ICU occupancy,10696.0
+USA,2020-08-24,Daily ICU occupancy per million,32.128
+USA,2020-08-24,Daily hospital occupancy,34798.0
+USA,2020-08-24,Daily hospital occupancy per million,104.525
+USA,2020-08-24,Weekly new hospital admissions,29607.0
+USA,2020-08-24,Weekly new hospital admissions per million,88.933
+USA,2020-08-25,Daily ICU occupancy,10608.0
+USA,2020-08-25,Daily ICU occupancy per million,31.864
+USA,2020-08-25,Daily hospital occupancy,34489.0
+USA,2020-08-25,Daily hospital occupancy per million,103.597
+USA,2020-08-25,Weekly new hospital admissions,29230.0
+USA,2020-08-25,Weekly new hospital admissions per million,87.8
+USA,2020-08-26,Daily ICU occupancy,10388.0
+USA,2020-08-26,Daily ICU occupancy per million,31.203
+USA,2020-08-26,Daily hospital occupancy,33634.0
+USA,2020-08-26,Daily hospital occupancy per million,101.029
+USA,2020-08-26,Weekly new hospital admissions,29376.0
+USA,2020-08-26,Weekly new hospital admissions per million,88.239
+USA,2020-08-27,Daily ICU occupancy,9909.0
+USA,2020-08-27,Daily ICU occupancy per million,29.764
+USA,2020-08-27,Daily hospital occupancy,33295.0
+USA,2020-08-27,Daily hospital occupancy per million,100.01
+USA,2020-08-27,Weekly new hospital admissions,29132.0
+USA,2020-08-27,Weekly new hospital admissions per million,87.506
+USA,2020-08-28,Daily ICU occupancy,9887.0
+USA,2020-08-28,Daily ICU occupancy per million,29.698
+USA,2020-08-28,Daily hospital occupancy,31909.0
+USA,2020-08-28,Daily hospital occupancy per million,95.847
+USA,2020-08-28,Weekly new hospital admissions,29626.0
+USA,2020-08-28,Weekly new hospital admissions per million,88.99
+USA,2020-08-29,Daily ICU occupancy,9697.0
+USA,2020-08-29,Daily ICU occupancy per million,29.128
+USA,2020-08-29,Daily hospital occupancy,31178.0
+USA,2020-08-29,Daily hospital occupancy per million,93.652
+USA,2020-08-29,Weekly new hospital admissions,29717.0
+USA,2020-08-29,Weekly new hospital admissions per million,89.263
+USA,2020-08-30,Daily ICU occupancy,9549.0
+USA,2020-08-30,Daily ICU occupancy per million,28.683
+USA,2020-08-30,Daily hospital occupancy,31074.0
+USA,2020-08-30,Daily hospital occupancy per million,93.339
+USA,2020-08-30,Weekly new hospital admissions,29928.0
+USA,2020-08-30,Weekly new hospital admissions per million,89.897
+USA,2020-08-31,Daily ICU occupancy,9513.0
+USA,2020-08-31,Daily ICU occupancy per million,28.575
+USA,2020-08-31,Daily hospital occupancy,31406.0
+USA,2020-08-31,Daily hospital occupancy per million,94.336
+USA,2020-08-31,Weekly new hospital admissions,30063.0
+USA,2020-08-31,Weekly new hospital admissions per million,90.302
+USA,2020-09-01,Daily ICU occupancy,9477.0
+USA,2020-09-01,Daily ICU occupancy per million,28.467
+USA,2020-09-01,Daily hospital occupancy,31129.0
+USA,2020-09-01,Daily hospital occupancy per million,93.504
+USA,2020-09-01,Weekly new hospital admissions,29818.0
+USA,2020-09-01,Weekly new hospital admissions per million,89.566
+USA,2020-09-02,Daily ICU occupancy,9367.0
+USA,2020-09-02,Daily ICU occupancy per million,28.136
+USA,2020-09-02,Daily hospital occupancy,30839.0
+USA,2020-09-02,Daily hospital occupancy per million,92.633
+USA,2020-09-02,Weekly new hospital admissions,29477.0
+USA,2020-09-02,Weekly new hospital admissions per million,88.542
+USA,2020-09-03,Daily ICU occupancy,9239.0
+USA,2020-09-03,Daily ICU occupancy per million,27.752
+USA,2020-09-03,Daily hospital occupancy,30312.0
+USA,2020-09-03,Daily hospital occupancy per million,91.05
+USA,2020-09-03,Weekly new hospital admissions,29144.0
+USA,2020-09-03,Weekly new hospital admissions per million,87.542
+USA,2020-09-04,Daily ICU occupancy,9231.0
+USA,2020-09-04,Daily ICU occupancy per million,27.728
+USA,2020-09-04,Daily hospital occupancy,29892.0
+USA,2020-09-04,Daily hospital occupancy per million,89.789
+USA,2020-09-04,Weekly new hospital admissions,28542.0
+USA,2020-09-04,Weekly new hospital admissions per million,85.734
+USA,2020-09-05,Daily ICU occupancy,9091.0
+USA,2020-09-05,Daily ICU occupancy per million,27.307
+USA,2020-09-05,Daily hospital occupancy,28844.0
+USA,2020-09-05,Daily hospital occupancy per million,86.641
+USA,2020-09-05,Weekly new hospital admissions,27699.0
+USA,2020-09-05,Weekly new hospital admissions per million,83.201
+USA,2020-09-06,Daily ICU occupancy,9010.0
+USA,2020-09-06,Daily ICU occupancy per million,27.064
+USA,2020-09-06,Daily hospital occupancy,28368.0
+USA,2020-09-06,Daily hospital occupancy per million,85.211
+USA,2020-09-06,Weekly new hospital admissions,27096.0
+USA,2020-09-06,Weekly new hospital admissions per million,81.39
+USA,2020-09-07,Daily ICU occupancy,8974.0
+USA,2020-09-07,Daily ICU occupancy per million,26.956
+USA,2020-09-07,Daily hospital occupancy,28588.0
+USA,2020-09-07,Daily hospital occupancy per million,85.872
+USA,2020-09-07,Weekly new hospital admissions,26610.0
+USA,2020-09-07,Weekly new hospital admissions per million,79.93
+USA,2020-09-08,Daily ICU occupancy,8974.0
+USA,2020-09-08,Daily ICU occupancy per million,26.956
+USA,2020-09-08,Daily hospital occupancy,28961.0
+USA,2020-09-08,Daily hospital occupancy per million,86.992
+USA,2020-09-08,Weekly new hospital admissions,26154.0
+USA,2020-09-08,Weekly new hospital admissions per million,78.561
+USA,2020-09-09,Daily ICU occupancy,8787.0
+USA,2020-09-09,Daily ICU occupancy per million,26.394
+USA,2020-09-09,Daily hospital occupancy,28781.0
+USA,2020-09-09,Daily hospital occupancy per million,86.451
+USA,2020-09-09,Weekly new hospital admissions,26620.0
+USA,2020-09-09,Weekly new hospital admissions per million,79.96
+USA,2020-09-10,Daily ICU occupancy,8592.0
+USA,2020-09-10,Daily ICU occupancy per million,25.808
+USA,2020-09-10,Daily hospital occupancy,28070.0
+USA,2020-09-10,Daily hospital occupancy per million,84.316
+USA,2020-09-10,Weekly new hospital admissions,27278.0
+USA,2020-09-10,Weekly new hospital admissions per million,81.937
+USA,2020-09-11,Daily ICU occupancy,8532.0
+USA,2020-09-11,Daily ICU occupancy per million,25.628
+USA,2020-09-11,Daily hospital occupancy,27370.0
+USA,2020-09-11,Daily hospital occupancy per million,82.213
+USA,2020-09-11,Weekly new hospital admissions,27679.0
+USA,2020-09-11,Weekly new hospital admissions per million,83.141
+USA,2020-09-12,Daily ICU occupancy,8312.0
+USA,2020-09-12,Daily ICU occupancy per million,24.967
+USA,2020-09-12,Daily hospital occupancy,26510.0
+USA,2020-09-12,Daily hospital occupancy per million,79.63
+USA,2020-09-12,Weekly new hospital admissions,27966.0
+USA,2020-09-12,Weekly new hospital admissions per million,84.003
+USA,2020-09-13,Daily ICU occupancy,8261.0
+USA,2020-09-13,Daily ICU occupancy per million,24.814
+USA,2020-09-13,Daily hospital occupancy,26329.0
+USA,2020-09-13,Daily hospital occupancy per million,79.086
+USA,2020-09-13,Weekly new hospital admissions,28408.0
+USA,2020-09-13,Weekly new hospital admissions per million,85.331
+USA,2020-09-14,Daily ICU occupancy,8267.0
+USA,2020-09-14,Daily ICU occupancy per million,24.832
+USA,2020-09-14,Daily hospital occupancy,26795.0
+USA,2020-09-14,Daily hospital occupancy per million,80.486
+USA,2020-09-14,Weekly new hospital admissions,28036.0
+USA,2020-09-14,Weekly new hospital admissions per million,84.214
+USA,2020-09-15,Daily ICU occupancy,8161.0
+USA,2020-09-15,Daily ICU occupancy per million,24.514
+USA,2020-09-15,Daily hospital occupancy,26941.0
+USA,2020-09-15,Daily hospital occupancy per million,80.925
+USA,2020-09-15,Weekly new hospital admissions,28261.0
+USA,2020-09-15,Weekly new hospital admissions per million,84.89
+USA,2020-09-16,Daily ICU occupancy,8075.0
+USA,2020-09-16,Daily ICU occupancy per million,24.255
+USA,2020-09-16,Daily hospital occupancy,26381.0
+USA,2020-09-16,Daily hospital occupancy per million,79.242
+USA,2020-09-16,Weekly new hospital admissions,27194.0
+USA,2020-09-16,Weekly new hospital admissions per million,81.684
+USA,2020-09-17,Daily ICU occupancy,8026.0
+USA,2020-09-17,Daily ICU occupancy per million,24.108
+USA,2020-09-17,Daily hospital occupancy,26093.0
+USA,2020-09-17,Daily hospital occupancy per million,78.377
+USA,2020-09-17,Weekly new hospital admissions,26260.0
+USA,2020-09-17,Weekly new hospital admissions per million,78.879
+USA,2020-09-18,Daily ICU occupancy,7971.0
+USA,2020-09-18,Daily ICU occupancy per million,23.943
+USA,2020-09-18,Daily hospital occupancy,25839.0
+USA,2020-09-18,Daily hospital occupancy per million,77.614
+USA,2020-09-18,Weekly new hospital admissions,25322.0
+USA,2020-09-18,Weekly new hospital admissions per million,76.061
+USA,2020-09-19,Daily ICU occupancy,7834.0
+USA,2020-09-19,Daily ICU occupancy per million,23.532
+USA,2020-09-19,Daily hospital occupancy,25489.0
+USA,2020-09-19,Daily hospital occupancy per million,76.563
+USA,2020-09-19,Weekly new hospital admissions,24703.0
+USA,2020-09-19,Weekly new hospital admissions per million,74.202
+USA,2020-09-20,Daily ICU occupancy,7842.0
+USA,2020-09-20,Daily ICU occupancy per million,23.556
+USA,2020-09-20,Daily hospital occupancy,25553.0
+USA,2020-09-20,Daily hospital occupancy per million,76.755
+USA,2020-09-20,Weekly new hospital admissions,24025.0
+USA,2020-09-20,Weekly new hospital admissions per million,72.166
+USA,2020-09-21,Daily ICU occupancy,7857.0
+USA,2020-09-21,Daily ICU occupancy per million,23.601
+USA,2020-09-21,Daily hospital occupancy,26386.0
+USA,2020-09-21,Daily hospital occupancy per million,79.257
+USA,2020-09-21,Weekly new hospital admissions,24194.0
+USA,2020-09-21,Weekly new hospital admissions per million,72.673
+USA,2020-09-22,Daily ICU occupancy,7862.0
+USA,2020-09-22,Daily ICU occupancy per million,23.616
+USA,2020-09-22,Daily hospital occupancy,26440.0
+USA,2020-09-22,Daily hospital occupancy per million,79.42
+USA,2020-09-22,Weekly new hospital admissions,24049.0
+USA,2020-09-22,Weekly new hospital admissions per million,72.238
+USA,2020-09-23,Daily ICU occupancy,7861.0
+USA,2020-09-23,Daily ICU occupancy per million,23.613
+USA,2020-09-23,Daily hospital occupancy,26483.0
+USA,2020-09-23,Daily hospital occupancy per million,79.549
+USA,2020-09-23,Weekly new hospital admissions,24261.0
+USA,2020-09-23,Weekly new hospital admissions per million,72.874
+USA,2020-09-24,Daily ICU occupancy,7830.0
+USA,2020-09-24,Daily ICU occupancy per million,23.52
+USA,2020-09-24,Daily hospital occupancy,26406.0
+USA,2020-09-24,Daily hospital occupancy per million,79.318
+USA,2020-09-24,Weekly new hospital admissions,24269.0
+USA,2020-09-24,Weekly new hospital admissions per million,72.898
+USA,2020-09-25,Daily ICU occupancy,7813.0
+USA,2020-09-25,Daily ICU occupancy per million,23.468
+USA,2020-09-25,Daily hospital occupancy,26274.0
+USA,2020-09-25,Daily hospital occupancy per million,78.921
+USA,2020-09-25,Weekly new hospital admissions,24383.0
+USA,2020-09-25,Weekly new hospital admissions per million,73.241
+USA,2020-09-26,Daily ICU occupancy,7796.0
+USA,2020-09-26,Daily ICU occupancy per million,23.417
+USA,2020-09-26,Daily hospital occupancy,25903.0
+USA,2020-09-26,Daily hospital occupancy per million,77.807
+USA,2020-09-26,Weekly new hospital admissions,24658.0
+USA,2020-09-26,Weekly new hospital admissions per million,74.067
+USA,2020-09-27,Daily ICU occupancy,8067.0
+USA,2020-09-27,Daily ICU occupancy per million,24.231
+USA,2020-09-27,Daily hospital occupancy,25970.0
+USA,2020-09-27,Daily hospital occupancy per million,78.008
+USA,2020-09-27,Weekly new hospital admissions,24876.0
+USA,2020-09-27,Weekly new hospital admissions per million,74.722
+USA,2020-09-28,Daily ICU occupancy,7915.0
+USA,2020-09-28,Daily ICU occupancy per million,23.775
+USA,2020-09-28,Daily hospital occupancy,27021.0
+USA,2020-09-28,Daily hospital occupancy per million,81.165
+USA,2020-09-28,Weekly new hospital admissions,25357.0
+USA,2020-09-28,Weekly new hospital admissions per million,76.167
+USA,2020-09-29,Daily ICU occupancy,8043.0
+USA,2020-09-29,Daily ICU occupancy per million,24.159
+USA,2020-09-29,Daily hospital occupancy,27506.0
+USA,2020-09-29,Daily hospital occupancy per million,82.622
+USA,2020-09-29,Weekly new hospital admissions,25713.0
+USA,2020-09-29,Weekly new hospital admissions per million,77.236
+USA,2020-09-30,Daily ICU occupancy,8070.0
+USA,2020-09-30,Daily ICU occupancy per million,24.24
+USA,2020-09-30,Daily hospital occupancy,27668.0
+USA,2020-09-30,Daily hospital occupancy per million,83.108
+USA,2020-09-30,Weekly new hospital admissions,26016.0
+USA,2020-09-30,Weekly new hospital admissions per million,78.146
+USA,2020-10-01,Daily ICU occupancy,8005.0
+USA,2020-10-01,Daily ICU occupancy per million,24.045
+USA,2020-10-01,Daily hospital occupancy,27477.0
+USA,2020-10-01,Daily hospital occupancy per million,82.535
+USA,2020-10-01,Weekly new hospital admissions,26473.0
+USA,2020-10-01,Weekly new hospital admissions per million,79.519
+USA,2020-10-02,Daily ICU occupancy,7957.0
+USA,2020-10-02,Daily ICU occupancy per million,23.901
+USA,2020-10-02,Daily hospital occupancy,27408.0
+USA,2020-10-02,Daily hospital occupancy per million,82.327
+USA,2020-10-02,Weekly new hospital admissions,26723.0
+USA,2020-10-02,Weekly new hospital admissions per million,80.27
+USA,2020-10-03,Daily ICU occupancy,7964.0
+USA,2020-10-03,Daily ICU occupancy per million,23.922
+USA,2020-10-03,Daily hospital occupancy,27271.0
+USA,2020-10-03,Daily hospital occupancy per million,81.916
+USA,2020-10-03,Weekly new hospital admissions,27244.0
+USA,2020-10-03,Weekly new hospital admissions per million,81.835
+USA,2020-10-04,Daily ICU occupancy,8119.0
+USA,2020-10-04,Daily ICU occupancy per million,24.388
+USA,2020-10-04,Daily hospital occupancy,27871.0
+USA,2020-10-04,Daily hospital occupancy per million,83.718
+USA,2020-10-04,Weekly new hospital admissions,27606.0
+USA,2020-10-04,Weekly new hospital admissions per million,82.922
+USA,2020-10-05,Daily ICU occupancy,8332.0
+USA,2020-10-05,Daily ICU occupancy per million,25.027
+USA,2020-10-05,Daily hospital occupancy,28956.0
+USA,2020-10-05,Daily hospital occupancy per million,86.977
+USA,2020-10-05,Weekly new hospital admissions,28493.0
+USA,2020-10-05,Weekly new hospital admissions per million,85.586
+USA,2020-10-06,Daily ICU occupancy,8571.0
+USA,2020-10-06,Daily ICU occupancy per million,25.745
+USA,2020-10-06,Daily hospital occupancy,30005.0
+USA,2020-10-06,Daily hospital occupancy per million,90.128
+USA,2020-10-06,Weekly new hospital admissions,29770.0
+USA,2020-10-06,Weekly new hospital admissions per million,89.422
+USA,2020-10-07,Daily ICU occupancy,8638.0
+USA,2020-10-07,Daily ICU occupancy per million,25.947
+USA,2020-10-07,Daily hospital occupancy,30542.0
+USA,2020-10-07,Daily hospital occupancy per million,91.741
+USA,2020-10-07,Weekly new hospital admissions,30590.0
+USA,2020-10-07,Weekly new hospital admissions per million,91.885
+USA,2020-10-08,Daily ICU occupancy,8624.0
+USA,2020-10-08,Daily ICU occupancy per million,25.905
+USA,2020-10-08,Daily hospital occupancy,31014.0
+USA,2020-10-08,Daily hospital occupancy per million,93.159
+USA,2020-10-08,Weekly new hospital admissions,31385.0
+USA,2020-10-08,Weekly new hospital admissions per million,94.273
+USA,2020-10-09,Daily ICU occupancy,8723.0
+USA,2020-10-09,Daily ICU occupancy per million,26.202
+USA,2020-10-09,Daily hospital occupancy,31206.0
+USA,2020-10-09,Daily hospital occupancy per million,93.736
+USA,2020-10-09,Weekly new hospital admissions,32250.0
+USA,2020-10-09,Weekly new hospital admissions per million,96.872
+USA,2020-10-10,Daily ICU occupancy,8730.0
+USA,2020-10-10,Daily ICU occupancy per million,26.223
+USA,2020-10-10,Daily hospital occupancy,30982.0
+USA,2020-10-10,Daily hospital occupancy per million,93.063
+USA,2020-10-10,Weekly new hospital admissions,32788.0
+USA,2020-10-10,Weekly new hospital admissions per million,98.488
+USA,2020-10-11,Daily ICU occupancy,8819.0
+USA,2020-10-11,Daily ICU occupancy per million,26.49
+USA,2020-10-11,Daily hospital occupancy,31430.0
+USA,2020-10-11,Daily hospital occupancy per million,94.408
+USA,2020-10-11,Weekly new hospital admissions,33669.0
+USA,2020-10-11,Weekly new hospital admissions per million,101.134
+USA,2020-10-12,Daily ICU occupancy,9057.0
+USA,2020-10-12,Daily ICU occupancy per million,27.205
+USA,2020-10-12,Daily hospital occupancy,32779.0
+USA,2020-10-12,Daily hospital occupancy per million,98.461
+USA,2020-10-12,Weekly new hospital admissions,33745.0
+USA,2020-10-12,Weekly new hospital admissions per million,101.362
+USA,2020-10-13,Daily ICU occupancy,9411.0
+USA,2020-10-13,Daily ICU occupancy per million,28.268
+USA,2020-10-13,Daily hospital occupancy,33506.0
+USA,2020-10-13,Daily hospital occupancy per million,100.644
+USA,2020-10-13,Weekly new hospital admissions,33796.0
+USA,2020-10-13,Weekly new hospital admissions per million,101.515
+USA,2020-10-14,Daily ICU occupancy,9303.0
+USA,2020-10-14,Daily ICU occupancy per million,27.944
+USA,2020-10-14,Daily hospital occupancy,33935.0
+USA,2020-10-14,Daily hospital occupancy per million,101.933
+USA,2020-10-14,Weekly new hospital admissions,34342.0
+USA,2020-10-14,Weekly new hospital admissions per million,103.155
+USA,2020-10-15,Daily ICU occupancy,9478.0
+USA,2020-10-15,Daily ICU occupancy per million,28.47
+USA,2020-10-15,Daily hospital occupancy,34387.0
+USA,2020-10-15,Daily hospital occupancy per million,103.291
+USA,2020-10-15,Weekly new hospital admissions,34787.0
+USA,2020-10-15,Weekly new hospital admissions per million,104.492
+USA,2020-10-16,Daily ICU occupancy,9538.0
+USA,2020-10-16,Daily ICU occupancy per million,28.65
+USA,2020-10-16,Daily hospital occupancy,34639.0
+USA,2020-10-16,Daily hospital occupancy per million,104.048
+USA,2020-10-16,Weekly new hospital admissions,35603.0
+USA,2020-10-16,Weekly new hospital admissions per million,106.943
+USA,2020-10-17,Daily ICU occupancy,9516.0
+USA,2020-10-17,Daily ICU occupancy per million,28.584
+USA,2020-10-17,Daily hospital occupancy,34319.0
+USA,2020-10-17,Daily hospital occupancy per million,103.086
+USA,2020-10-17,Weekly new hospital admissions,36370.0
+USA,2020-10-17,Weekly new hospital admissions per million,109.247
+USA,2020-10-18,Daily ICU occupancy,9725.0
+USA,2020-10-18,Daily ICU occupancy per million,29.212
+USA,2020-10-18,Daily hospital occupancy,35011.0
+USA,2020-10-18,Daily hospital occupancy per million,105.165
+USA,2020-10-18,Weekly new hospital admissions,36997.0
+USA,2020-10-18,Weekly new hospital admissions per million,111.13
+USA,2020-10-19,Daily ICU occupancy,10075.0
+USA,2020-10-19,Daily ICU occupancy per million,30.263
+USA,2020-10-19,Daily hospital occupancy,36431.0
+USA,2020-10-19,Daily hospital occupancy per million,109.43
+USA,2020-10-19,Weekly new hospital admissions,37558.0
+USA,2020-10-19,Weekly new hospital admissions per million,112.816
+USA,2020-10-20,Daily ICU occupancy,10215.0
+USA,2020-10-20,Daily ICU occupancy per million,30.684
+USA,2020-10-20,Daily hospital occupancy,37411.0
+USA,2020-10-20,Daily hospital occupancy per million,112.374
+USA,2020-10-20,Weekly new hospital admissions,38328.0
+USA,2020-10-20,Weekly new hospital admissions per million,115.128
+USA,2020-10-21,Daily ICU occupancy,10453.0
+USA,2020-10-21,Daily ICU occupancy per million,31.398
+USA,2020-10-21,Daily hospital occupancy,38138.0
+USA,2020-10-21,Daily hospital occupancy per million,114.558
+USA,2020-10-21,Weekly new hospital admissions,38973.0
+USA,2020-10-21,Weekly new hospital admissions per million,117.066
+USA,2020-10-22,Daily ICU occupancy,10650.0
+USA,2020-10-22,Daily ICU occupancy per million,31.99
+USA,2020-10-22,Daily hospital occupancy,38848.0
+USA,2020-10-22,Daily hospital occupancy per million,116.69
+USA,2020-10-22,Weekly new hospital admissions,39853.0
+USA,2020-10-22,Weekly new hospital admissions per million,119.709
+USA,2020-10-23,Daily ICU occupancy,10711.0
+USA,2020-10-23,Daily ICU occupancy per million,32.173
+USA,2020-10-23,Daily hospital occupancy,39074.0
+USA,2020-10-23,Daily hospital occupancy per million,117.369
+USA,2020-10-23,Weekly new hospital admissions,40410.0
+USA,2020-10-23,Weekly new hospital admissions per million,121.382
+USA,2020-10-24,Daily ICU occupancy,10714.0
+USA,2020-10-24,Daily ICU occupancy per million,32.182
+USA,2020-10-24,Daily hospital occupancy,39350.0
+USA,2020-10-24,Daily hospital occupancy per million,118.198
+USA,2020-10-24,Weekly new hospital admissions,41143.0
+USA,2020-10-24,Weekly new hospital admissions per million,123.584
+USA,2020-10-25,Daily ICU occupancy,10853.0
+USA,2020-10-25,Daily ICU occupancy per million,32.6
+USA,2020-10-25,Daily hospital occupancy,39984.0
+USA,2020-10-25,Daily hospital occupancy per million,120.103
+USA,2020-10-25,Weekly new hospital admissions,41400.0
+USA,2020-10-25,Weekly new hospital admissions per million,124.356
+USA,2020-10-26,Daily ICU occupancy,11111.0
+USA,2020-10-26,Daily ICU occupancy per million,33.375
+USA,2020-10-26,Daily hospital occupancy,41336.0
+USA,2020-10-26,Daily hospital occupancy per million,124.164
+USA,2020-10-26,Weekly new hospital admissions,41724.0
+USA,2020-10-26,Weekly new hospital admissions per million,125.329
+USA,2020-10-27,Daily ICU occupancy,11431.0
+USA,2020-10-27,Daily ICU occupancy per million,34.336
+USA,2020-10-27,Daily hospital occupancy,42272.0
+USA,2020-10-27,Daily hospital occupancy per million,126.975
+USA,2020-10-27,Weekly new hospital admissions,42148.0
+USA,2020-10-27,Weekly new hospital admissions per million,126.603
+USA,2020-10-28,Daily ICU occupancy,11660.0
+USA,2020-10-28,Daily ICU occupancy per million,35.024
+USA,2020-10-28,Daily hospital occupancy,43483.0
+USA,2020-10-28,Daily hospital occupancy per million,130.613
+USA,2020-10-28,Weekly new hospital admissions,43167.0
+USA,2020-10-28,Weekly new hospital admissions per million,129.664
+USA,2020-10-29,Daily ICU occupancy,11826.0
+USA,2020-10-29,Daily ICU occupancy per million,35.523
+USA,2020-10-29,Daily hospital occupancy,44163.0
+USA,2020-10-29,Daily hospital occupancy per million,132.655
+USA,2020-10-29,Weekly new hospital admissions,44180.0
+USA,2020-10-29,Weekly new hospital admissions per million,132.707
+USA,2020-10-30,Daily ICU occupancy,11853.0
+USA,2020-10-30,Daily ICU occupancy per million,35.604
+USA,2020-10-30,Daily hospital occupancy,45072.0
+USA,2020-10-30,Daily hospital occupancy per million,135.386
+USA,2020-10-30,Weekly new hospital admissions,45481.0
+USA,2020-10-30,Weekly new hospital admissions per million,136.614
+USA,2020-10-31,Daily ICU occupancy,11903.0
+USA,2020-10-31,Daily ICU occupancy per million,35.754
+USA,2020-10-31,Daily hospital occupancy,45099.0
+USA,2020-10-31,Daily hospital occupancy per million,135.467
+USA,2020-10-31,Weekly new hospital admissions,46116.0
+USA,2020-10-31,Weekly new hospital admissions per million,138.522
+USA,2020-11-01,Daily ICU occupancy,12131.0
+USA,2020-11-01,Daily ICU occupancy per million,36.439
+USA,2020-11-01,Daily hospital occupancy,46048.0
+USA,2020-11-01,Daily hospital occupancy per million,138.318
+USA,2020-11-01,Weekly new hospital admissions,47038.0
+USA,2020-11-01,Weekly new hospital admissions per million,141.291
+USA,2020-11-02,Daily ICU occupancy,12594.0
+USA,2020-11-02,Daily ICU occupancy per million,37.829
+USA,2020-11-02,Daily hospital occupancy,47933.0
+USA,2020-11-02,Daily hospital occupancy per million,143.98
+USA,2020-11-02,Weekly new hospital admissions,48328.0
+USA,2020-11-02,Weekly new hospital admissions per million,145.166
+USA,2020-11-03,Daily ICU occupancy,12909.0
+USA,2020-11-03,Daily ICU occupancy per million,38.776
+USA,2020-11-03,Daily hospital occupancy,49021.0
+USA,2020-11-03,Daily hospital occupancy per million,147.248
+USA,2020-11-03,Weekly new hospital admissions,49617.0
+USA,2020-11-03,Weekly new hospital admissions per million,149.038
+USA,2020-11-04,Daily ICU occupancy,13003.0
+USA,2020-11-04,Daily ICU occupancy per million,39.058
+USA,2020-11-04,Daily hospital occupancy,50465.0
+USA,2020-11-04,Daily hospital occupancy per million,151.585
+USA,2020-11-04,Weekly new hospital admissions,50685.0
+USA,2020-11-04,Weekly new hospital admissions per million,152.246
+USA,2020-11-05,Daily ICU occupancy,13228.0
+USA,2020-11-05,Daily ICU occupancy per million,39.734
+USA,2020-11-05,Daily hospital occupancy,51785.0
+USA,2020-11-05,Daily hospital occupancy per million,155.55
+USA,2020-11-05,Weekly new hospital admissions,51991.0
+USA,2020-11-05,Weekly new hospital admissions per million,156.169
+USA,2020-11-06,Daily ICU occupancy,13357.0
+USA,2020-11-06,Daily ICU occupancy per million,40.121
+USA,2020-11-06,Daily hospital occupancy,52838.0
+USA,2020-11-06,Daily hospital occupancy per million,158.713
+USA,2020-11-06,Weekly new hospital admissions,53366.0
+USA,2020-11-06,Weekly new hospital admissions per million,160.299
+USA,2020-11-07,Daily ICU occupancy,13479.0
+USA,2020-11-07,Daily ICU occupancy per million,40.488
+USA,2020-11-07,Daily hospital occupancy,53817.0
+USA,2020-11-07,Daily hospital occupancy per million,161.654
+USA,2020-11-07,Weekly new hospital admissions,55446.0
+USA,2020-11-07,Weekly new hospital admissions per million,166.547
+USA,2020-11-08,Daily ICU occupancy,14008.0
+USA,2020-11-08,Daily ICU occupancy per million,42.077
+USA,2020-11-08,Daily hospital occupancy,55711.0
+USA,2020-11-08,Daily hospital occupancy per million,167.343
+USA,2020-11-08,Weekly new hospital admissions,57415.0
+USA,2020-11-08,Weekly new hospital admissions per million,172.461
+USA,2020-11-09,Daily ICU occupancy,14409.0
+USA,2020-11-09,Daily ICU occupancy per million,43.281
+USA,2020-11-09,Daily hospital occupancy,58481.0
+USA,2020-11-09,Daily hospital occupancy per million,175.663
+USA,2020-11-09,Weekly new hospital admissions,59223.0
+USA,2020-11-09,Weekly new hospital admissions per million,177.892
+USA,2020-11-10,Daily ICU occupancy,14835.0
+USA,2020-11-10,Daily ICU occupancy per million,44.561
+USA,2020-11-10,Daily hospital occupancy,61415.0
+USA,2020-11-10,Daily hospital occupancy per million,184.476
+USA,2020-11-10,Weekly new hospital admissions,61656.0
+USA,2020-11-10,Weekly new hospital admissions per million,185.2
+USA,2020-11-11,Daily ICU occupancy,15116.0
+USA,2020-11-11,Daily ICU occupancy per million,45.405
+USA,2020-11-11,Daily hospital occupancy,63329.0
+USA,2020-11-11,Daily hospital occupancy per million,190.226
+USA,2020-11-11,Weekly new hospital admissions,64015.0
+USA,2020-11-11,Weekly new hospital admissions per million,192.286
+USA,2020-11-12,Daily ICU occupancy,15592.0
+USA,2020-11-12,Daily ICU occupancy per million,46.835
+USA,2020-11-12,Daily hospital occupancy,65199.0
+USA,2020-11-12,Daily hospital occupancy per million,195.843
+USA,2020-11-12,Weekly new hospital admissions,66110.0
+USA,2020-11-12,Weekly new hospital admissions per million,198.579
+USA,2020-11-13,Daily ICU occupancy,15870.0
+USA,2020-11-13,Daily ICU occupancy per million,47.67
+USA,2020-11-13,Daily hospital occupancy,66117.0
+USA,2020-11-13,Daily hospital occupancy per million,198.6
+USA,2020-11-13,Weekly new hospital admissions,68041.0
+USA,2020-11-13,Weekly new hospital admissions per million,204.379
+USA,2020-11-14,Daily ICU occupancy,16238.0
+USA,2020-11-14,Daily ICU occupancy per million,48.775
+USA,2020-11-14,Daily hospital occupancy,67215.0
+USA,2020-11-14,Daily hospital occupancy per million,201.898
+USA,2020-11-14,Weekly new hospital admissions,69820.0
+USA,2020-11-14,Weekly new hospital admissions per million,209.723
+USA,2020-11-15,Daily ICU occupancy,16808.0
+USA,2020-11-15,Daily ICU occupancy per million,50.487
+USA,2020-11-15,Daily hospital occupancy,69513.0
+USA,2020-11-15,Daily hospital occupancy per million,208.801
+USA,2020-11-15,Weekly new hospital admissions,71645.0
+USA,2020-11-15,Weekly new hospital admissions per million,215.205
+USA,2020-11-16,Daily ICU occupancy,17538.0
+USA,2020-11-16,Daily ICU occupancy per million,52.68
+USA,2020-11-16,Daily hospital occupancy,73098.0
+USA,2020-11-16,Daily hospital occupancy per million,219.57
+USA,2020-11-16,Weekly new hospital admissions,73396.0
+USA,2020-11-16,Weekly new hospital admissions per million,220.465
+USA,2020-11-17,Daily ICU occupancy,18088.0
+USA,2020-11-17,Daily ICU occupancy per million,54.332
+USA,2020-11-17,Daily hospital occupancy,75496.0
+USA,2020-11-17,Daily hospital occupancy per million,226.773
+USA,2020-11-17,Weekly new hospital admissions,75258.0
+USA,2020-11-17,Weekly new hospital admissions per million,226.058
+USA,2020-11-18,Daily ICU occupancy,18331.0
+USA,2020-11-18,Daily ICU occupancy per million,55.062
+USA,2020-11-18,Daily hospital occupancy,77317.0
+USA,2020-11-18,Daily hospital occupancy per million,232.242
+USA,2020-11-18,Weekly new hospital admissions,76928.0
+USA,2020-11-18,Weekly new hospital admissions per million,231.074
+USA,2020-11-19,Daily ICU occupancy,18742.0
+USA,2020-11-19,Daily ICU occupancy per million,56.297
+USA,2020-11-19,Daily hospital occupancy,78341.0
+USA,2020-11-19,Daily hospital occupancy per million,235.318
+USA,2020-11-19,Weekly new hospital admissions,78514.0
+USA,2020-11-19,Weekly new hospital admissions per million,235.838
+USA,2020-11-20,Daily ICU occupancy,18916.0
+USA,2020-11-20,Daily ICU occupancy per million,56.819
+USA,2020-11-20,Daily hospital occupancy,79734.0
+USA,2020-11-20,Daily hospital occupancy per million,239.503
+USA,2020-11-20,Weekly new hospital admissions,80283.0
+USA,2020-11-20,Weekly new hospital admissions per million,241.152
+USA,2020-11-21,Daily ICU occupancy,19091.0
+USA,2020-11-21,Daily ICU occupancy per million,57.345
+USA,2020-11-21,Daily hospital occupancy,79858.0
+USA,2020-11-21,Daily hospital occupancy per million,239.875
+USA,2020-11-21,Weekly new hospital admissions,81657.0
+USA,2020-11-21,Weekly new hospital admissions per million,245.279
+USA,2020-11-22,Daily ICU occupancy,19658.0
+USA,2020-11-22,Daily ICU occupancy per million,59.048
+USA,2020-11-22,Daily hospital occupancy,81792.0
+USA,2020-11-22,Daily hospital occupancy per million,245.684
+USA,2020-11-22,Weekly new hospital admissions,82545.0
+USA,2020-11-22,Weekly new hospital admissions per million,247.946
+USA,2020-11-23,Daily ICU occupancy,20176.0
+USA,2020-11-23,Daily ICU occupancy per million,60.604
+USA,2020-11-23,Daily hospital occupancy,84173.0
+USA,2020-11-23,Daily hospital occupancy per million,252.836
+USA,2020-11-23,Weekly new hospital admissions,83417.0
+USA,2020-11-23,Weekly new hospital admissions per million,250.565
+USA,2020-11-24,Daily ICU occupancy,20572.0
+USA,2020-11-24,Daily ICU occupancy per million,61.794
+USA,2020-11-24,Daily hospital occupancy,86039.0
+USA,2020-11-24,Daily hospital occupancy per million,258.441
+USA,2020-11-24,Weekly new hospital admissions,84715.0
+USA,2020-11-24,Weekly new hospital admissions per million,254.464
+USA,2020-11-25,Daily ICU occupancy,20831.0
+USA,2020-11-25,Daily ICU occupancy per million,62.572
+USA,2020-11-25,Daily hospital occupancy,87121.0
+USA,2020-11-25,Daily hospital occupancy per million,261.691
+USA,2020-11-25,Weekly new hospital admissions,85845.0
+USA,2020-11-25,Weekly new hospital admissions per million,257.859
+USA,2020-11-26,Daily ICU occupancy,21025.0
+USA,2020-11-26,Daily ICU occupancy per million,63.154
+USA,2020-11-26,Daily hospital occupancy,86550.0
+USA,2020-11-26,Daily hospital occupancy per million,259.976
+USA,2020-11-26,Weekly new hospital admissions,86419.0
+USA,2020-11-26,Weekly new hospital admissions per million,259.583
+USA,2020-11-27,Daily ICU occupancy,21327.0
+USA,2020-11-27,Daily ICU occupancy per million,64.061
+USA,2020-11-27,Daily hospital occupancy,88100.0
+USA,2020-11-27,Daily hospital occupancy per million,264.632
+USA,2020-11-27,Weekly new hospital admissions,85020.0
+USA,2020-11-27,Weekly new hospital admissions per million,255.38
+USA,2020-11-28,Daily ICU occupancy,21483.0
+USA,2020-11-28,Daily ICU occupancy per million,64.53
+USA,2020-11-28,Daily hospital occupancy,89600.0
+USA,2020-11-28,Daily hospital occupancy per million,269.138
+USA,2020-11-28,Weekly new hospital admissions,85974.0
+USA,2020-11-28,Weekly new hospital admissions per million,258.246
+USA,2020-11-29,Daily ICU occupancy,21919.0
+USA,2020-11-29,Daily ICU occupancy per million,65.84
+USA,2020-11-29,Daily hospital occupancy,92448.0
+USA,2020-11-29,Daily hospital occupancy per million,277.692
+USA,2020-11-29,Weekly new hospital admissions,87382.0
+USA,2020-11-29,Weekly new hospital admissions per million,262.475
+USA,2020-11-30,Daily ICU occupancy,22500.0
+USA,2020-11-30,Daily ICU occupancy per million,67.585
+USA,2020-11-30,Daily hospital occupancy,95095.0
+USA,2020-11-30,Daily hospital occupancy per million,285.643
+USA,2020-11-30,Weekly new hospital admissions,88259.0
+USA,2020-11-30,Weekly new hospital admissions per million,265.11
+USA,2020-12-01,Daily ICU occupancy,22868.0
+USA,2020-12-01,Daily ICU occupancy per million,68.69
+USA,2020-12-01,Daily hospital occupancy,96673.0
+USA,2020-12-01,Daily hospital occupancy per million,290.383
+USA,2020-12-01,Weekly new hospital admissions,89208.0
+USA,2020-12-01,Weekly new hospital admissions per million,267.96
+USA,2020-12-02,Daily ICU occupancy,22962.0
+USA,2020-12-02,Daily ICU occupancy per million,68.973
+USA,2020-12-02,Daily hospital occupancy,97838.0
+USA,2020-12-02,Daily hospital occupancy per million,293.883
+USA,2020-12-02,Weekly new hospital admissions,89902.0
+USA,2020-12-02,Weekly new hospital admissions per million,270.045
+USA,2020-12-03,Daily ICU occupancy,23043.0
+USA,2020-12-03,Daily ICU occupancy per million,69.216
+USA,2020-12-03,Daily hospital occupancy,97849.0
+USA,2020-12-03,Daily hospital occupancy per million,293.916
+USA,2020-12-03,Weekly new hospital admissions,91087.0
+USA,2020-12-03,Weekly new hospital admissions per million,273.604
+USA,2020-12-04,Daily ICU occupancy,23123.0
+USA,2020-12-04,Daily ICU occupancy per million,69.456
+USA,2020-12-04,Daily hospital occupancy,98140.0
+USA,2020-12-04,Daily hospital occupancy per million,294.79
+USA,2020-12-04,Weekly new hospital admissions,94018.0
+USA,2020-12-04,Weekly new hospital admissions per million,282.408
+USA,2020-12-05,Daily ICU occupancy,23172.0
+USA,2020-12-05,Daily ICU occupancy per million,69.603
+USA,2020-12-05,Daily hospital occupancy,97246.0
+USA,2020-12-05,Daily hospital occupancy per million,292.105
+USA,2020-12-05,Weekly new hospital admissions,94854.0
+USA,2020-12-05,Weekly new hospital admissions per million,284.92
+USA,2020-12-06,Daily ICU occupancy,23435.0
+USA,2020-12-06,Daily ICU occupancy per million,70.393
+USA,2020-12-06,Daily hospital occupancy,98653.0
+USA,2020-12-06,Daily hospital occupancy per million,296.331
+USA,2020-12-06,Weekly new hospital admissions,94877.0
+USA,2020-12-06,Weekly new hospital admissions per million,284.989
+USA,2020-12-07,Daily ICU occupancy,23892.0
+USA,2020-12-07,Daily ICU occupancy per million,71.766
+USA,2020-12-07,Daily hospital occupancy,101027.0
+USA,2020-12-07,Daily hospital occupancy per million,303.462
+USA,2020-12-07,Weekly new hospital admissions,95428.0
+USA,2020-12-07,Weekly new hospital admissions per million,286.644
+USA,2020-12-08,Daily ICU occupancy,24197.0
+USA,2020-12-08,Daily ICU occupancy per million,72.682
+USA,2020-12-08,Daily hospital occupancy,102304.0
+USA,2020-12-08,Daily hospital occupancy per million,307.298
+USA,2020-12-08,Weekly new hospital admissions,95762.0
+USA,2020-12-08,Weekly new hospital admissions per million,287.647
+USA,2020-12-09,Daily ICU occupancy,24612.0
+USA,2020-12-09,Daily ICU occupancy per million,73.929
+USA,2020-12-09,Daily hospital occupancy,104371.0
+USA,2020-12-09,Daily hospital occupancy per million,313.506
+USA,2020-12-09,Weekly new hospital admissions,96919.0
+USA,2020-12-09,Weekly new hospital admissions per million,291.122
+USA,2020-12-10,Daily ICU occupancy,24636.0
+USA,2020-12-10,Daily ICU occupancy per million,74.001
+USA,2020-12-10,Daily hospital occupancy,105048.0
+USA,2020-12-10,Daily hospital occupancy per million,315.54
+USA,2020-12-10,Weekly new hospital admissions,98268.0
+USA,2020-12-10,Weekly new hospital admissions per million,295.174
+USA,2020-12-11,Daily ICU occupancy,24747.0
+USA,2020-12-11,Daily ICU occupancy per million,74.334
+USA,2020-12-11,Daily hospital occupancy,105653.0
+USA,2020-12-11,Daily hospital occupancy per million,317.357
+USA,2020-12-11,Weekly new hospital admissions,99501.0
+USA,2020-12-11,Weekly new hospital admissions per million,298.878
+USA,2020-12-12,Daily ICU occupancy,24634.0
+USA,2020-12-12,Daily ICU occupancy per million,73.995
+USA,2020-12-12,Daily hospital occupancy,105358.0
+USA,2020-12-12,Daily hospital occupancy per million,316.471
+USA,2020-12-12,Weekly new hospital admissions,100640.0
+USA,2020-12-12,Weekly new hospital admissions per million,302.299
+USA,2020-12-13,Daily ICU occupancy,25074.0
+USA,2020-12-13,Daily ICU occupancy per million,75.317
+USA,2020-12-13,Daily hospital occupancy,107402.0
+USA,2020-12-13,Daily hospital occupancy per million,322.611
+USA,2020-12-13,Weekly new hospital admissions,101588.0
+USA,2020-12-13,Weekly new hospital admissions per million,305.147
+USA,2020-12-14,Daily ICU occupancy,25560.0
+USA,2020-12-14,Daily ICU occupancy per million,76.776
+USA,2020-12-14,Daily hospital occupancy,109689.0
+USA,2020-12-14,Daily hospital occupancy per million,329.48
+USA,2020-12-14,Weekly new hospital admissions,102441.0
+USA,2020-12-14,Weekly new hospital admissions per million,307.709
+USA,2020-12-15,Daily ICU occupancy,25812.0
+USA,2020-12-15,Daily ICU occupancy per million,77.533
+USA,2020-12-15,Daily hospital occupancy,110996.0
+USA,2020-12-15,Daily hospital occupancy per million,333.406
+USA,2020-12-15,Weekly new hospital admissions,103842.0
+USA,2020-12-15,Weekly new hospital admissions per million,311.917
+USA,2020-12-16,Daily ICU occupancy,25974.0
+USA,2020-12-16,Daily ICU occupancy per million,78.02
+USA,2020-12-16,Daily hospital occupancy,112009.0
+USA,2020-12-16,Daily hospital occupancy per million,336.449
+USA,2020-12-16,Weekly new hospital admissions,104315.0
+USA,2020-12-16,Weekly new hospital admissions per million,313.338
+USA,2020-12-17,Daily ICU occupancy,25894.0
+USA,2020-12-17,Daily ICU occupancy per million,77.78
+USA,2020-12-17,Daily hospital occupancy,112445.0
+USA,2020-12-17,Daily hospital occupancy per million,337.759
+USA,2020-12-17,Weekly new hospital admissions,104300.0
+USA,2020-12-17,Weekly new hospital admissions per million,313.293
+USA,2020-12-18,Daily ICU occupancy,25950.0
+USA,2020-12-18,Daily ICU occupancy per million,77.948
+USA,2020-12-18,Daily hospital occupancy,112114.0
+USA,2020-12-18,Daily hospital occupancy per million,336.765
+USA,2020-12-18,Weekly new hospital admissions,104298.0
+USA,2020-12-18,Weekly new hospital admissions per million,313.287
+USA,2020-12-19,Daily ICU occupancy,25805.0
+USA,2020-12-19,Daily ICU occupancy per million,77.512
+USA,2020-12-19,Daily hospital occupancy,111086.0
+USA,2020-12-19,Daily hospital occupancy per million,333.677
+USA,2020-12-19,Weekly new hospital admissions,104408.0
+USA,2020-12-19,Weekly new hospital admissions per million,313.618
+USA,2020-12-20,Daily ICU occupancy,26057.0
+USA,2020-12-20,Daily ICU occupancy per million,78.269
+USA,2020-12-20,Daily hospital occupancy,112401.0
+USA,2020-12-20,Daily hospital occupancy per million,337.627
+USA,2020-12-20,Weekly new hospital admissions,104869.0
+USA,2020-12-20,Weekly new hospital admissions per million,315.002
+USA,2020-12-21,Daily ICU occupancy,26431.0
+USA,2020-12-21,Daily ICU occupancy per million,79.393
+USA,2020-12-21,Daily hospital occupancy,114648.0
+USA,2020-12-21,Daily hospital occupancy per million,344.376
+USA,2020-12-21,Weekly new hospital admissions,105476.0
+USA,2020-12-21,Weekly new hospital admissions per million,316.826
+USA,2020-12-22,Daily ICU occupancy,26730.0
+USA,2020-12-22,Daily ICU occupancy per million,80.291
+USA,2020-12-22,Daily hospital occupancy,117527.0
+USA,2020-12-22,Daily hospital occupancy per million,353.024
+USA,2020-12-22,Weekly new hospital admissions,106056.0
+USA,2020-12-22,Weekly new hospital admissions per million,318.568
+USA,2020-12-23,Daily ICU occupancy,26928.0
+USA,2020-12-23,Daily ICU occupancy per million,80.885
+USA,2020-12-23,Daily hospital occupancy,118105.0
+USA,2020-12-23,Daily hospital occupancy per million,354.76
+USA,2020-12-23,Weekly new hospital admissions,106943.0
+USA,2020-12-23,Weekly new hospital admissions per million,321.232
+USA,2020-12-24,Daily ICU occupancy,26714.0
+USA,2020-12-24,Daily ICU occupancy per million,80.243
+USA,2020-12-24,Daily hospital occupancy,116273.0
+USA,2020-12-24,Daily hospital occupancy per million,349.257
+USA,2020-12-24,Weekly new hospital admissions,107497.0
+USA,2020-12-24,Weekly new hospital admissions per million,322.896
+USA,2020-12-25,Daily ICU occupancy,26559.0
+USA,2020-12-25,Daily ICU occupancy per million,79.777
+USA,2020-12-25,Daily hospital occupancy,113495.0
+USA,2020-12-25,Daily hospital occupancy per million,340.913
+USA,2020-12-25,Weekly new hospital admissions,106737.0
+USA,2020-12-25,Weekly new hospital admissions per million,320.613
+USA,2020-12-26,Daily ICU occupancy,26734.0
+USA,2020-12-26,Daily ICU occupancy per million,80.303
+USA,2020-12-26,Daily hospital occupancy,115520.0
+USA,2020-12-26,Daily hospital occupancy per million,346.995
+USA,2020-12-26,Weekly new hospital admissions,104936.0
+USA,2020-12-26,Weekly new hospital admissions per million,315.204
+USA,2020-12-27,Daily ICU occupancy,27063.0
+USA,2020-12-27,Daily ICU occupancy per million,81.291
+USA,2020-12-27,Daily hospital occupancy,118987.0
+USA,2020-12-27,Daily hospital occupancy per million,357.409
+USA,2020-12-27,Weekly new hospital admissions,106216.0
+USA,2020-12-27,Weekly new hospital admissions per million,319.048
+USA,2020-12-28,Daily ICU occupancy,27519.0
+USA,2020-12-28,Daily ICU occupancy per million,82.661
+USA,2020-12-28,Daily hospital occupancy,121424.0
+USA,2020-12-28,Daily hospital occupancy per million,364.73
+USA,2020-12-28,Weekly new hospital admissions,106869.0
+USA,2020-12-28,Weekly new hospital admissions per million,321.01
+USA,2020-12-29,Daily ICU occupancy,27782.0
+USA,2020-12-29,Daily ICU occupancy per million,83.451
+USA,2020-12-29,Daily hospital occupancy,122664.0
+USA,2020-12-29,Daily hospital occupancy per million,368.454
+USA,2020-12-29,Weekly new hospital admissions,106708.0
+USA,2020-12-29,Weekly new hospital admissions per million,320.526
+USA,2020-12-30,Daily ICU occupancy,27697.0
+USA,2020-12-30,Daily ICU occupancy per million,83.195
+USA,2020-12-30,Daily hospital occupancy,123921.0
+USA,2020-12-30,Daily hospital occupancy per million,372.23
+USA,2020-12-30,Weekly new hospital admissions,107060.0
+USA,2020-12-30,Weekly new hospital admissions per million,321.584
+USA,2020-12-31,Daily ICU occupancy,27748.0
+USA,2020-12-31,Daily ICU occupancy per million,83.349
+USA,2020-12-31,Daily hospital occupancy,123346.0
+USA,2020-12-31,Daily hospital occupancy per million,370.503
+USA,2020-12-31,Weekly new hospital admissions,108010.0
+USA,2020-12-31,Weekly new hospital admissions per million,324.437
+USA,2021-01-01,Daily ICU occupancy,27471.0
+USA,2021-01-01,Daily ICU occupancy per million,82.517
+USA,2021-01-01,Daily hospital occupancy,121053.0
+USA,2021-01-01,Daily hospital occupancy per million,363.615
+USA,2021-01-01,Weekly new hospital admissions,109535.0
+USA,2021-01-01,Weekly new hospital admissions per million,329.018
+USA,2021-01-02,Daily ICU occupancy,27614.0
+USA,2021-01-02,Daily ICU occupancy per million,82.946
+USA,2021-01-02,Daily hospital occupancy,122668.0
+USA,2021-01-02,Daily hospital occupancy per million,368.466
+USA,2021-01-02,Weekly new hospital admissions,111290.0
+USA,2021-01-02,Weekly new hospital admissions per million,334.289
+USA,2021-01-03,Daily ICU occupancy,28006.0
+USA,2021-01-03,Daily ICU occupancy per million,84.124
+USA,2021-01-03,Daily hospital occupancy,125595.0
+USA,2021-01-03,Daily hospital occupancy per million,377.258
+USA,2021-01-03,Weekly new hospital admissions,112069.0
+USA,2021-01-03,Weekly new hospital admissions per million,336.629
+USA,2021-01-04,Daily ICU occupancy,28266.0
+USA,2021-01-04,Daily ICU occupancy per million,84.905
+USA,2021-01-04,Daily hospital occupancy,127426.0
+USA,2021-01-04,Daily hospital occupancy per million,382.758
+USA,2021-01-04,Weekly new hospital admissions,112336.0
+USA,2021-01-04,Weekly new hospital admissions per million,337.431
+USA,2021-01-05,Daily ICU occupancy,28528.0
+USA,2021-01-05,Daily ICU occupancy per million,85.692
+USA,2021-01-05,Daily hospital occupancy,128858.0
+USA,2021-01-05,Daily hospital occupancy per million,387.06
+USA,2021-01-05,Weekly new hospital admissions,113829.0
+USA,2021-01-05,Weekly new hospital admissions per million,341.916
+USA,2021-01-06,Daily ICU occupancy,28608.0
+USA,2021-01-06,Daily ICU occupancy per million,85.932
+USA,2021-01-06,Daily hospital occupancy,129805.0
+USA,2021-01-06,Daily hospital occupancy per million,389.904
+USA,2021-01-06,Weekly new hospital admissions,114720.0
+USA,2021-01-06,Weekly new hospital admissions per million,344.592
+USA,2021-01-07,Daily ICU occupancy,28491.0
+USA,2021-01-07,Daily ICU occupancy per million,85.58
+USA,2021-01-07,Daily hospital occupancy,128819.0
+USA,2021-01-07,Daily hospital occupancy per million,386.943
+USA,2021-01-07,Weekly new hospital admissions,115039.0
+USA,2021-01-07,Weekly new hospital admissions per million,345.551
+USA,2021-01-08,Daily ICU occupancy,28365.0
+USA,2021-01-08,Daily ICU occupancy per million,85.202
+USA,2021-01-08,Daily hospital occupancy,127893.0
+USA,2021-01-08,Daily hospital occupancy per million,384.161
+USA,2021-01-08,Weekly new hospital admissions,116013.0
+USA,2021-01-08,Weekly new hospital admissions per million,348.476
+USA,2021-01-09,Daily ICU occupancy,28187.0
+USA,2021-01-09,Daily ICU occupancy per million,84.667
+USA,2021-01-09,Daily hospital occupancy,126426.0
+USA,2021-01-09,Daily hospital occupancy per million,379.755
+USA,2021-01-09,Weekly new hospital admissions,117656.0
+USA,2021-01-09,Weekly new hospital admissions per million,353.411
+USA,2021-01-10,Daily ICU occupancy,28370.0
+USA,2021-01-10,Daily ICU occupancy per million,85.217
+USA,2021-01-10,Daily hospital occupancy,126538.0
+USA,2021-01-10,Daily hospital occupancy per million,380.091
+USA,2021-01-10,Weekly new hospital admissions,116243.0
+USA,2021-01-10,Weekly new hospital admissions per million,349.167
+USA,2021-01-11,Daily ICU occupancy,28739.0
+USA,2021-01-11,Daily ICU occupancy per million,86.325
+USA,2021-01-11,Daily hospital occupancy,127639.0
+USA,2021-01-11,Daily hospital occupancy per million,383.398
+USA,2021-01-11,Weekly new hospital admissions,115308.0
+USA,2021-01-11,Weekly new hospital admissions per million,346.359
+USA,2021-01-12,Daily ICU occupancy,28891.0
+USA,2021-01-12,Daily ICU occupancy per million,86.782
+USA,2021-01-12,Daily hospital occupancy,127090.0
+USA,2021-01-12,Daily hospital occupancy per million,381.749
+USA,2021-01-12,Weekly new hospital admissions,113846.0
+USA,2021-01-12,Weekly new hospital admissions per million,341.967
+USA,2021-01-13,Daily ICU occupancy,28734.0
+USA,2021-01-13,Daily ICU occupancy per million,86.31
+USA,2021-01-13,Daily hospital occupancy,126585.0
+USA,2021-01-13,Daily hospital occupancy per million,380.232
+USA,2021-01-13,Weekly new hospital admissions,112599.0
+USA,2021-01-13,Weekly new hospital admissions per million,338.221
+USA,2021-01-14,Daily ICU occupancy,28527.0
+USA,2021-01-14,Daily ICU occupancy per million,85.689
+USA,2021-01-14,Daily hospital occupancy,133268.0
+USA,2021-01-14,Daily hospital occupancy per million,400.306
+USA,2021-01-14,Weekly new hospital admissions,111773.0
+USA,2021-01-14,Weekly new hospital admissions per million,335.74
+USA,2021-01-15,Daily ICU occupancy,28422.0
+USA,2021-01-15,Daily ICU occupancy per million,85.373
+USA,2021-01-15,Daily hospital occupancy,123790.0
+USA,2021-01-15,Daily hospital occupancy per million,371.837
+USA,2021-01-15,Weekly new hospital admissions,111022.0
+USA,2021-01-15,Weekly new hospital admissions per million,333.484
+USA,2021-01-16,Daily ICU occupancy,28120.0
+USA,2021-01-16,Daily ICU occupancy per million,84.466
+USA,2021-01-16,Daily hospital occupancy,121139.0
+USA,2021-01-16,Daily hospital occupancy per million,363.874
+USA,2021-01-16,Weekly new hospital admissions,109852.0
+USA,2021-01-16,Weekly new hospital admissions per million,329.97
+USA,2021-01-17,Daily ICU occupancy,27891.0
+USA,2021-01-17,Daily ICU occupancy per million,83.778
+USA,2021-01-17,Daily hospital occupancy,120835.0
+USA,2021-01-17,Daily hospital occupancy per million,362.96
+USA,2021-01-17,Weekly new hospital admissions,108767.0
+USA,2021-01-17,Weekly new hospital admissions per million,326.711
+USA,2021-01-18,Daily ICU occupancy,27831.0
+USA,2021-01-18,Daily ICU occupancy per million,83.598
+USA,2021-01-18,Daily hospital occupancy,120422.0
+USA,2021-01-18,Daily hospital occupancy per million,361.72
+USA,2021-01-18,Weekly new hospital admissions,107616.0
+USA,2021-01-18,Weekly new hospital admissions per million,323.254
+USA,2021-01-19,Daily ICU occupancy,27584.0
+USA,2021-01-19,Daily ICU occupancy per million,82.856
+USA,2021-01-19,Daily hospital occupancy,119383.0
+USA,2021-01-19,Daily hospital occupancy per million,358.599
+USA,2021-01-19,Weekly new hospital admissions,105530.0
+USA,2021-01-19,Weekly new hospital admissions per million,316.988
+USA,2021-01-20,Daily ICU occupancy,27003.0
+USA,2021-01-20,Daily ICU occupancy per million,81.111
+USA,2021-01-20,Daily hospital occupancy,117143.0
+USA,2021-01-20,Daily hospital occupancy per million,351.871
+USA,2021-01-20,Weekly new hospital admissions,103154.0
+USA,2021-01-20,Weekly new hospital admissions per million,309.851
+USA,2021-01-21,Daily ICU occupancy,26517.0
+USA,2021-01-21,Daily ICU occupancy per million,79.651
+USA,2021-01-21,Daily hospital occupancy,114100.0
+USA,2021-01-21,Daily hospital occupancy per million,342.73
+USA,2021-01-21,Weekly new hospital admissions,100805.0
+USA,2021-01-21,Weekly new hospital admissions per million,302.795
+USA,2021-01-22,Daily ICU occupancy,26006.0
+USA,2021-01-22,Daily ICU occupancy per million,78.116
+USA,2021-01-22,Daily hospital occupancy,111835.0
+USA,2021-01-22,Daily hospital occupancy per million,335.927
+USA,2021-01-22,Weekly new hospital admissions,98767.0
+USA,2021-01-22,Weekly new hospital admissions per million,296.673
+USA,2021-01-23,Daily ICU occupancy,25364.0
+USA,2021-01-23,Daily ICU occupancy per million,76.188
+USA,2021-01-23,Daily hospital occupancy,108126.0
+USA,2021-01-23,Daily hospital occupancy per million,324.786
+USA,2021-01-23,Weekly new hospital admissions,96481.0
+USA,2021-01-23,Weekly new hospital admissions per million,289.807
+USA,2021-01-24,Daily ICU occupancy,25121.0
+USA,2021-01-24,Daily ICU occupancy per million,75.458
+USA,2021-01-24,Daily hospital occupancy,107008.0
+USA,2021-01-24,Daily hospital occupancy per million,321.427
+USA,2021-01-24,Weekly new hospital admissions,94452.0
+USA,2021-01-24,Weekly new hospital admissions per million,283.712
+USA,2021-01-25,Daily ICU occupancy,25003.0
+USA,2021-01-25,Daily ICU occupancy per million,75.103
+USA,2021-01-25,Daily hospital occupancy,106268.0
+USA,2021-01-25,Daily hospital occupancy per million,319.205
+USA,2021-01-25,Weekly new hospital admissions,92178.0
+USA,2021-01-25,Weekly new hospital admissions per million,276.881
+USA,2021-01-26,Daily ICU occupancy,24897.0
+USA,2021-01-26,Daily ICU occupancy per million,74.785
+USA,2021-01-26,Daily hospital occupancy,104627.0
+USA,2021-01-26,Daily hospital occupancy per million,314.275
+USA,2021-01-26,Weekly new hospital admissions,90895.0
+USA,2021-01-26,Weekly new hospital admissions per million,273.028
+USA,2021-01-27,Daily ICU occupancy,24360.0
+USA,2021-01-27,Daily ICU occupancy per million,73.172
+USA,2021-01-27,Daily hospital occupancy,102664.0
+USA,2021-01-27,Daily hospital occupancy per million,308.379
+USA,2021-01-27,Weekly new hospital admissions,89328.0
+USA,2021-01-27,Weekly new hospital admissions per million,268.321
+USA,2021-01-28,Daily ICU occupancy,23786.0
+USA,2021-01-28,Daily ICU occupancy per million,71.448
+USA,2021-01-28,Daily hospital occupancy,100052.0
+USA,2021-01-28,Daily hospital occupancy per million,300.533
+USA,2021-01-28,Weekly new hospital admissions,87640.0
+USA,2021-01-28,Weekly new hospital admissions per million,263.25
+USA,2021-01-29,Daily ICU occupancy,23121.0
+USA,2021-01-29,Daily ICU occupancy per million,69.45
+USA,2021-01-29,Daily hospital occupancy,96111.0
+USA,2021-01-29,Daily hospital occupancy per million,288.695
+USA,2021-01-29,Weekly new hospital admissions,84648.0
+USA,2021-01-29,Weekly new hospital admissions per million,254.263
+USA,2021-01-30,Daily ICU occupancy,22708.0
+USA,2021-01-30,Daily ICU occupancy per million,68.21
+USA,2021-01-30,Daily hospital occupancy,92548.0
+USA,2021-01-30,Daily hospital occupancy per million,277.993
+USA,2021-01-30,Weekly new hospital admissions,82400.0
+USA,2021-01-30,Weekly new hospital admissions per million,247.511
+USA,2021-01-31,Daily ICU occupancy,22503.0
+USA,2021-01-31,Daily ICU occupancy per million,67.594
+USA,2021-01-31,Daily hospital occupancy,91438.0
+USA,2021-01-31,Daily hospital occupancy per million,274.659
+USA,2021-01-31,Weekly new hospital admissions,80527.0
+USA,2021-01-31,Weekly new hospital admissions per million,241.885
+USA,2021-02-01,Daily ICU occupancy,22230.0
+USA,2021-02-01,Daily ICU occupancy per million,66.774
+USA,2021-02-01,Daily hospital occupancy,90582.0
+USA,2021-02-01,Daily hospital occupancy per million,272.087
+USA,2021-02-01,Weekly new hospital admissions,79093.0
+USA,2021-02-01,Weekly new hospital admissions per million,237.577
+USA,2021-02-02,Daily ICU occupancy,21767.0
+USA,2021-02-02,Daily ICU occupancy per million,65.383
+USA,2021-02-02,Daily hospital occupancy,89004.0
+USA,2021-02-02,Daily hospital occupancy per million,267.347
+USA,2021-02-02,Weekly new hospital admissions,76508.0
+USA,2021-02-02,Weekly new hospital admissions per million,229.812
+USA,2021-02-03,Daily ICU occupancy,21405.0
+USA,2021-02-03,Daily ICU occupancy per million,64.296
+USA,2021-02-03,Daily hospital occupancy,87294.0
+USA,2021-02-03,Daily hospital occupancy per million,262.211
+USA,2021-02-03,Weekly new hospital admissions,74576.0
+USA,2021-02-03,Weekly new hospital admissions per million,224.009
+USA,2021-02-04,Daily ICU occupancy,20872.0
+USA,2021-02-04,Daily ICU occupancy per million,62.695
+USA,2021-02-04,Daily hospital occupancy,84604.0
+USA,2021-02-04,Daily hospital occupancy per million,254.131
+USA,2021-02-04,Weekly new hospital admissions,73011.0
+USA,2021-02-04,Weekly new hospital admissions per million,219.308
+USA,2021-02-05,Daily ICU occupancy,20354.0
+USA,2021-02-05,Daily ICU occupancy per million,61.139
+USA,2021-02-05,Daily hospital occupancy,82139.0
+USA,2021-02-05,Daily hospital occupancy per million,246.727
+USA,2021-02-05,Weekly new hospital admissions,71948.0
+USA,2021-02-05,Weekly new hospital admissions per million,216.115
+USA,2021-02-06,Daily ICU occupancy,19863.0
+USA,2021-02-06,Daily ICU occupancy per million,59.664
+USA,2021-02-06,Daily hospital occupancy,79113.0
+USA,2021-02-06,Daily hospital occupancy per million,237.637
+USA,2021-02-06,Weekly new hospital admissions,70719.0
+USA,2021-02-06,Weekly new hospital admissions per million,212.424
+USA,2021-02-07,Daily ICU occupancy,19377.0
+USA,2021-02-07,Daily ICU occupancy per million,58.204
+USA,2021-02-07,Daily hospital occupancy,77866.0
+USA,2021-02-07,Daily hospital occupancy per million,233.891
+USA,2021-02-07,Weekly new hospital admissions,69310.0
+USA,2021-02-07,Weekly new hospital admissions per million,208.191
+USA,2021-02-08,Daily ICU occupancy,19328.0
+USA,2021-02-08,Daily ICU occupancy per million,58.057
+USA,2021-02-08,Daily hospital occupancy,76870.0
+USA,2021-02-08,Daily hospital occupancy per million,230.9
+USA,2021-02-08,Weekly new hospital admissions,67660.0
+USA,2021-02-08,Weekly new hospital admissions per million,203.235
+USA,2021-02-09,Daily ICU occupancy,18929.0
+USA,2021-02-09,Daily ICU occupancy per million,56.858
+USA,2021-02-09,Daily hospital occupancy,75626.0
+USA,2021-02-09,Daily hospital occupancy per million,227.163
+USA,2021-02-09,Weekly new hospital admissions,66095.0
+USA,2021-02-09,Weekly new hospital admissions per million,198.534
+USA,2021-02-10,Daily ICU occupancy,18316.0
+USA,2021-02-10,Daily ICU occupancy per million,55.017
+USA,2021-02-10,Daily hospital occupancy,72859.0
+USA,2021-02-10,Daily hospital occupancy per million,218.852
+USA,2021-02-10,Weekly new hospital admissions,64192.0
+USA,2021-02-10,Weekly new hospital admissions per million,192.818
+USA,2021-02-11,Daily ICU occupancy,17714.0
+USA,2021-02-11,Daily ICU occupancy per million,53.209
+USA,2021-02-11,Daily hospital occupancy,70110.0
+USA,2021-02-11,Daily hospital occupancy per million,210.594
+USA,2021-02-11,Weekly new hospital admissions,61890.0
+USA,2021-02-11,Weekly new hospital admissions per million,185.903
+USA,2021-02-12,Daily ICU occupancy,17334.0
+USA,2021-02-12,Daily ICU occupancy per million,52.067
+USA,2021-02-12,Daily hospital occupancy,67539.0
+USA,2021-02-12,Daily hospital occupancy per million,202.872
+USA,2021-02-12,Weekly new hospital admissions,59678.0
+USA,2021-02-12,Weekly new hospital admissions per million,179.259
+USA,2021-02-13,Daily ICU occupancy,16865.0
+USA,2021-02-13,Daily ICU occupancy per million,50.659
+USA,2021-02-13,Daily hospital occupancy,64762.0
+USA,2021-02-13,Daily hospital occupancy per million,194.53
+USA,2021-02-13,Weekly new hospital admissions,57416.0
+USA,2021-02-13,Weekly new hospital admissions per million,172.464
+USA,2021-02-14,Daily ICU occupancy,16350.0
+USA,2021-02-14,Daily ICU occupancy per million,49.112
+USA,2021-02-14,Daily hospital occupancy,63300.0
+USA,2021-02-14,Daily hospital occupancy per million,190.139
+USA,2021-02-14,Weekly new hospital admissions,55811.0
+USA,2021-02-14,Weekly new hospital admissions per million,167.643
+USA,2021-02-15,Daily ICU occupancy,16227.0
+USA,2021-02-15,Daily ICU occupancy per million,48.742
+USA,2021-02-15,Daily hospital occupancy,62214.0
+USA,2021-02-15,Daily hospital occupancy per million,186.876
+USA,2021-02-15,Weekly new hospital admissions,54082.0
+USA,2021-02-15,Weekly new hospital admissions per million,162.45
+USA,2021-02-16,Daily ICU occupancy,15921.0
+USA,2021-02-16,Daily ICU occupancy per million,47.823
+USA,2021-02-16,Daily hospital occupancy,61504.0
+USA,2021-02-16,Daily hospital occupancy per million,184.744
+USA,2021-02-16,Weekly new hospital admissions,51999.0
+USA,2021-02-16,Weekly new hospital admissions per million,156.193
+USA,2021-02-17,Daily ICU occupancy,15579.0
+USA,2021-02-17,Daily ICU occupancy per million,46.796
+USA,2021-02-17,Daily hospital occupancy,62253.0
+USA,2021-02-17,Daily hospital occupancy per million,186.994
+USA,2021-02-17,Weekly new hospital admissions,50597.0
+USA,2021-02-17,Weekly new hospital admissions per million,151.982
+USA,2021-02-18,Daily ICU occupancy,15024.0
+USA,2021-02-18,Daily ICU occupancy per million,45.129
+USA,2021-02-18,Daily hospital occupancy,58309.0
+USA,2021-02-18,Daily hospital occupancy per million,175.147
+USA,2021-02-18,Weekly new hospital admissions,49186.0
+USA,2021-02-18,Weekly new hospital admissions per million,147.743
+USA,2021-02-19,Daily ICU occupancy,14492.0
+USA,2021-02-19,Daily ICU occupancy per million,43.531
+USA,2021-02-19,Daily hospital occupancy,56739.0
+USA,2021-02-19,Daily hospital occupancy per million,170.431
+USA,2021-02-19,Weekly new hospital admissions,47947.0
+USA,2021-02-19,Weekly new hospital admissions per million,144.022
+USA,2021-02-20,Daily ICU occupancy,14111.0
+USA,2021-02-20,Daily ICU occupancy per million,42.386
+USA,2021-02-20,Daily hospital occupancy,54402.0
+USA,2021-02-20,Daily hospital occupancy per million,163.411
+USA,2021-02-20,Weekly new hospital admissions,47109.0
+USA,2021-02-20,Weekly new hospital admissions per million,141.505
+USA,2021-02-21,Daily ICU occupancy,13724.0
+USA,2021-02-21,Daily ICU occupancy per million,41.224
+USA,2021-02-21,Daily hospital occupancy,53615.0
+USA,2021-02-21,Daily hospital occupancy per million,161.047
+USA,2021-02-21,Weekly new hospital admissions,46410.0
+USA,2021-02-21,Weekly new hospital admissions per million,139.405
+USA,2021-02-22,Daily ICU occupancy,13671.0
+USA,2021-02-22,Daily ICU occupancy per million,41.065
+USA,2021-02-22,Daily hospital occupancy,53026.0
+USA,2021-02-22,Daily hospital occupancy per million,159.278
+USA,2021-02-22,Weekly new hospital admissions,46232.0
+USA,2021-02-22,Weekly new hospital admissions per million,138.87
+USA,2021-02-23,Daily ICU occupancy,13354.0
+USA,2021-02-23,Daily ICU occupancy per million,40.112
+USA,2021-02-23,Daily hospital occupancy,51984.0
+USA,2021-02-23,Daily hospital occupancy per million,156.148
+USA,2021-02-23,Weekly new hospital admissions,45980.0
+USA,2021-02-23,Weekly new hospital admissions per million,138.113
+USA,2021-02-24,Daily ICU occupancy,12892.0
+USA,2021-02-24,Daily ICU occupancy per million,38.725
+USA,2021-02-24,Daily hospital occupancy,50965.0
+USA,2021-02-24,Daily hospital occupancy per million,153.087
+USA,2021-02-24,Weekly new hospital admissions,45300.0
+USA,2021-02-24,Weekly new hospital admissions per million,136.071
+USA,2021-02-25,Daily ICU occupancy,12464.0
+USA,2021-02-25,Daily ICU occupancy per million,37.439
+USA,2021-02-25,Daily hospital occupancy,49047.0
+USA,2021-02-25,Daily hospital occupancy per million,147.326
+USA,2021-02-25,Weekly new hospital admissions,44621.0
+USA,2021-02-25,Weekly new hospital admissions per million,134.031
+USA,2021-02-26,Daily ICU occupancy,12165.0
+USA,2021-02-26,Daily ICU occupancy per million,36.541
+USA,2021-02-26,Daily hospital occupancy,47229.0
+USA,2021-02-26,Daily hospital occupancy per million,141.865
+USA,2021-02-26,Weekly new hospital admissions,43674.0
+USA,2021-02-26,Weekly new hospital admissions per million,131.187
+USA,2021-02-27,Daily ICU occupancy,11716.0
+USA,2021-02-27,Daily ICU occupancy per million,35.192
+USA,2021-02-27,Daily hospital occupancy,45336.0
+USA,2021-02-27,Daily hospital occupancy per million,136.179
+USA,2021-02-27,Weekly new hospital admissions,42526.0
+USA,2021-02-27,Weekly new hospital admissions per million,127.738
+USA,2021-02-28,Daily ICU occupancy,11552.0
+USA,2021-02-28,Daily ICU occupancy per million,34.7
+USA,2021-02-28,Daily hospital occupancy,44874.0
+USA,2021-02-28,Daily hospital occupancy per million,134.791
+USA,2021-02-28,Weekly new hospital admissions,41679.0
+USA,2021-02-28,Weekly new hospital admissions per million,125.194
+USA,2021-03-01,Daily ICU occupancy,11362.0
+USA,2021-03-01,Daily ICU occupancy per million,34.129
+USA,2021-03-01,Daily hospital occupancy,43721.0
+USA,2021-03-01,Daily hospital occupancy per million,131.328
+USA,2021-03-01,Weekly new hospital admissions,40540.0
+USA,2021-03-01,Weekly new hospital admissions per million,121.773
+USA,2021-03-02,Daily ICU occupancy,11040.0
+USA,2021-03-02,Daily ICU occupancy per million,33.162
+USA,2021-03-02,Daily hospital occupancy,42650.0
+USA,2021-03-02,Daily hospital occupancy per million,128.111
+USA,2021-03-02,Weekly new hospital admissions,39206.0
+USA,2021-03-02,Weekly new hospital admissions per million,117.766
+USA,2021-03-03,Daily ICU occupancy,10745.0
+USA,2021-03-03,Daily ICU occupancy per million,32.275
+USA,2021-03-03,Daily hospital occupancy,42159.0
+USA,2021-03-03,Daily hospital occupancy per million,126.636
+USA,2021-03-03,Weekly new hospital admissions,38015.0
+USA,2021-03-03,Weekly new hospital admissions per million,114.188
+USA,2021-03-04,Daily ICU occupancy,10556.0
+USA,2021-03-04,Daily ICU occupancy per million,31.708
+USA,2021-03-04,Daily hospital occupancy,40176.0
+USA,2021-03-04,Daily hospital occupancy per million,120.679
+USA,2021-03-04,Weekly new hospital admissions,37178.0
+USA,2021-03-04,Weekly new hospital admissions per million,111.674
+USA,2021-03-05,Daily ICU occupancy,10323.0
+USA,2021-03-05,Daily ICU occupancy per million,31.008
+USA,2021-03-05,Daily hospital occupancy,39582.0
+USA,2021-03-05,Daily hospital occupancy per million,118.895
+USA,2021-03-05,Weekly new hospital admissions,36734.0
+USA,2021-03-05,Weekly new hospital admissions per million,110.34
+USA,2021-03-06,Daily ICU occupancy,10029.0
+USA,2021-03-06,Daily ICU occupancy per million,30.125
+USA,2021-03-06,Daily hospital occupancy,38207.0
+USA,2021-03-06,Daily hospital occupancy per million,114.765
+USA,2021-03-06,Weekly new hospital admissions,36198.0
+USA,2021-03-06,Weekly new hospital admissions per million,108.73
+USA,2021-03-07,Daily ICU occupancy,9848.0
+USA,2021-03-07,Daily ICU occupancy per million,29.581
+USA,2021-03-07,Daily hospital occupancy,37770.0
+USA,2021-03-07,Daily hospital occupancy per million,113.452
+USA,2021-03-07,Weekly new hospital admissions,35566.0
+USA,2021-03-07,Weekly new hospital admissions per million,106.832
+USA,2021-03-08,Daily ICU occupancy,9790.0
+USA,2021-03-08,Daily ICU occupancy per million,29.407
+USA,2021-03-08,Daily hospital occupancy,37687.0
+USA,2021-03-08,Daily hospital occupancy per million,113.203
+USA,2021-03-08,Weekly new hospital admissions,35289.0
+USA,2021-03-08,Weekly new hospital admissions per million,106.0
+USA,2021-03-09,Daily ICU occupancy,9612.0
+USA,2021-03-09,Daily ICU occupancy per million,28.872
+USA,2021-03-09,Daily hospital occupancy,37040.0
+USA,2021-03-09,Daily hospital occupancy per million,111.26
+USA,2021-03-09,Weekly new hospital admissions,34964.0
+USA,2021-03-09,Weekly new hospital admissions per million,105.024
+USA,2021-03-10,Daily ICU occupancy,9456.0
+USA,2021-03-10,Daily ICU occupancy per million,28.404
+USA,2021-03-10,Daily hospital occupancy,36666.0
+USA,2021-03-10,Daily hospital occupancy per million,110.136
+USA,2021-03-10,Weekly new hospital admissions,34737.0
+USA,2021-03-10,Weekly new hospital admissions per million,104.342
+USA,2021-03-11,Daily ICU occupancy,9242.0
+USA,2021-03-11,Daily ICU occupancy per million,27.761
+USA,2021-03-11,Daily hospital occupancy,35915.0
+USA,2021-03-11,Daily hospital occupancy per million,107.88
+USA,2021-03-11,Weekly new hospital admissions,34270.0
+USA,2021-03-11,Weekly new hospital admissions per million,102.939
+USA,2021-03-12,Daily ICU occupancy,9120.0
+USA,2021-03-12,Daily ICU occupancy per million,27.394
+USA,2021-03-12,Daily hospital occupancy,35648.0
+USA,2021-03-12,Daily hospital occupancy per million,107.078
+USA,2021-03-12,Weekly new hospital admissions,34183.0
+USA,2021-03-12,Weekly new hospital admissions per million,102.678
+USA,2021-03-13,Daily ICU occupancy,8907.0
+USA,2021-03-13,Daily ICU occupancy per million,26.755
+USA,2021-03-13,Daily hospital occupancy,34984.0
+USA,2021-03-13,Daily hospital occupancy per million,105.084
+USA,2021-03-13,Weekly new hospital admissions,33857.0
+USA,2021-03-13,Weekly new hospital admissions per million,101.699
+USA,2021-03-14,Daily ICU occupancy,8775.0
+USA,2021-03-14,Daily ICU occupancy per million,26.358
+USA,2021-03-14,Daily hospital occupancy,34413.0
+USA,2021-03-14,Daily hospital occupancy per million,103.369
+USA,2021-03-14,Weekly new hospital admissions,33645.0
+USA,2021-03-14,Weekly new hospital admissions per million,101.062
+USA,2021-03-15,Daily ICU occupancy,8787.0
+USA,2021-03-15,Daily ICU occupancy per million,26.394
+USA,2021-03-15,Daily hospital occupancy,34701.0
+USA,2021-03-15,Daily hospital occupancy per million,104.234
+USA,2021-03-15,Weekly new hospital admissions,33531.0
+USA,2021-03-15,Weekly new hospital admissions per million,100.719
+USA,2021-03-16,Daily ICU occupancy,8736.0
+USA,2021-03-16,Daily ICU occupancy per million,26.241
+USA,2021-03-16,Daily hospital occupancy,34577.0
+USA,2021-03-16,Daily hospital occupancy per million,103.861
+USA,2021-03-16,Weekly new hospital admissions,33410.0
+USA,2021-03-16,Weekly new hospital admissions per million,100.356
+USA,2021-03-17,Daily ICU occupancy,8682.0
+USA,2021-03-17,Daily ICU occupancy per million,26.079
+USA,2021-03-17,Daily hospital occupancy,34595.0
+USA,2021-03-17,Daily hospital occupancy per million,103.915
+USA,2021-03-17,Weekly new hospital admissions,33169.0
+USA,2021-03-17,Weekly new hospital admissions per million,99.632
+USA,2021-03-18,Daily ICU occupancy,8521.0
+USA,2021-03-18,Daily ICU occupancy per million,25.595
+USA,2021-03-18,Daily hospital occupancy,34104.0
+USA,2021-03-18,Daily hospital occupancy per million,102.441
+USA,2021-03-18,Weekly new hospital admissions,33154.0
+USA,2021-03-18,Weekly new hospital admissions per million,99.587
+USA,2021-03-19,Daily ICU occupancy,8422.0
+USA,2021-03-19,Daily ICU occupancy per million,25.298
+USA,2021-03-19,Daily hospital occupancy,34035.0
+USA,2021-03-19,Daily hospital occupancy per million,102.233
+USA,2021-03-19,Weekly new hospital admissions,32830.0
+USA,2021-03-19,Weekly new hospital admissions per million,98.614
+USA,2021-03-20,Daily ICU occupancy,8241.0
+USA,2021-03-20,Daily ICU occupancy per million,24.754
+USA,2021-03-20,Daily hospital occupancy,33214.0
+USA,2021-03-20,Daily hospital occupancy per million,99.767
+USA,2021-03-20,Weekly new hospital admissions,32980.0
+USA,2021-03-20,Weekly new hospital admissions per million,99.064
+USA,2021-03-21,Daily ICU occupancy,8127.0
+USA,2021-03-21,Daily ICU occupancy per million,24.412
+USA,2021-03-21,Daily hospital occupancy,33283.0
+USA,2021-03-21,Daily hospital occupancy per million,99.974
+USA,2021-03-21,Weekly new hospital admissions,32999.0
+USA,2021-03-21,Weekly new hospital admissions per million,99.121
+USA,2021-03-22,Daily ICU occupancy,8347.0
+USA,2021-03-22,Daily ICU occupancy per million,25.072
+USA,2021-03-22,Daily hospital occupancy,33742.0
+USA,2021-03-22,Daily hospital occupancy per million,101.353
+USA,2021-03-22,Weekly new hospital admissions,33051.0
+USA,2021-03-22,Weekly new hospital admissions per million,99.278
+USA,2021-03-23,Daily ICU occupancy,8379.0
+USA,2021-03-23,Daily ICU occupancy per million,25.169
+USA,2021-03-23,Daily hospital occupancy,33996.0
+USA,2021-03-23,Daily hospital occupancy per million,102.116
+USA,2021-03-23,Weekly new hospital admissions,33334.0
+USA,2021-03-23,Weekly new hospital admissions per million,100.128
+USA,2021-03-24,Daily ICU occupancy,8489.0
+USA,2021-03-24,Daily ICU occupancy per million,25.499
+USA,2021-03-24,Daily hospital occupancy,34368.0
+USA,2021-03-24,Daily hospital occupancy per million,103.234
+USA,2021-03-24,Weekly new hospital admissions,33606.0
+USA,2021-03-24,Weekly new hospital admissions per million,100.945
+USA,2021-03-25,Daily ICU occupancy,8338.0
+USA,2021-03-25,Daily ICU occupancy per million,25.045
+USA,2021-03-25,Daily hospital occupancy,34362.0
+USA,2021-03-25,Daily hospital occupancy per million,103.216
+USA,2021-03-25,Weekly new hospital admissions,33951.0
+USA,2021-03-25,Weekly new hospital admissions per million,101.981
+USA,2021-03-26,Daily ICU occupancy,8329.0
+USA,2021-03-26,Daily ICU occupancy per million,25.018
+USA,2021-03-26,Daily hospital occupancy,34634.0
+USA,2021-03-26,Daily hospital occupancy per million,104.033
+USA,2021-03-26,Weekly new hospital admissions,34229.0
+USA,2021-03-26,Weekly new hospital admissions per million,102.816
+USA,2021-03-27,Daily ICU occupancy,8201.0
+USA,2021-03-27,Daily ICU occupancy per million,24.634
+USA,2021-03-27,Daily hospital occupancy,33946.0
+USA,2021-03-27,Daily hospital occupancy per million,101.966
+USA,2021-03-27,Weekly new hospital admissions,34416.0
+USA,2021-03-27,Weekly new hospital admissions per million,103.378
+USA,2021-03-28,Daily ICU occupancy,8359.0
+USA,2021-03-28,Daily ICU occupancy per million,25.109
+USA,2021-03-28,Daily hospital occupancy,34464.0
+USA,2021-03-28,Daily hospital occupancy per million,103.522
+USA,2021-03-28,Weekly new hospital admissions,34984.0
+USA,2021-03-28,Weekly new hospital admissions per million,105.084
+USA,2021-03-29,Daily ICU occupancy,8439.0
+USA,2021-03-29,Daily ICU occupancy per million,25.349
+USA,2021-03-29,Daily hospital occupancy,35027.0
+USA,2021-03-29,Daily hospital occupancy per million,105.213
+USA,2021-03-29,Weekly new hospital admissions,35248.0
+USA,2021-03-29,Weekly new hospital admissions per million,105.877
+USA,2021-03-30,Daily ICU occupancy,8572.0
+USA,2021-03-30,Daily ICU occupancy per million,25.748
+USA,2021-03-30,Daily hospital occupancy,35418.0
+USA,2021-03-30,Daily hospital occupancy per million,106.387
+USA,2021-03-30,Weekly new hospital admissions,35410.0
+USA,2021-03-30,Weekly new hospital admissions per million,106.363
+USA,2021-03-31,Daily ICU occupancy,8502.0
+USA,2021-03-31,Daily ICU occupancy per million,25.538
+USA,2021-03-31,Daily hospital occupancy,35568.0
+USA,2021-03-31,Daily hospital occupancy per million,106.838
+USA,2021-03-31,Weekly new hospital admissions,35477.0
+USA,2021-03-31,Weekly new hospital admissions per million,106.565
+USA,2021-04-01,Daily ICU occupancy,8470.0
+USA,2021-04-01,Daily ICU occupancy per million,25.442
+USA,2021-04-01,Daily hospital occupancy,35571.0
+USA,2021-04-01,Daily hospital occupancy per million,106.847
+USA,2021-04-01,Weekly new hospital admissions,35584.0
+USA,2021-04-01,Weekly new hospital admissions per million,106.886
+USA,2021-04-02,Daily ICU occupancy,8466.0
+USA,2021-04-02,Daily ICU occupancy per million,25.43
+USA,2021-04-02,Daily hospital occupancy,35607.0
+USA,2021-04-02,Daily hospital occupancy per million,106.955
+USA,2021-04-02,Weekly new hospital admissions,35765.0
+USA,2021-04-02,Weekly new hospital admissions per million,107.43
+USA,2021-04-03,Daily ICU occupancy,8541.0
+USA,2021-04-03,Daily ICU occupancy per million,25.655
+USA,2021-04-03,Daily hospital occupancy,35195.0
+USA,2021-04-03,Daily hospital occupancy per million,105.718
+USA,2021-04-03,Weekly new hospital admissions,36005.0
+USA,2021-04-03,Weekly new hospital admissions per million,108.151
+USA,2021-04-04,Daily ICU occupancy,8606.0
+USA,2021-04-04,Daily ICU occupancy per million,25.85
+USA,2021-04-04,Daily hospital occupancy,35675.0
+USA,2021-04-04,Daily hospital occupancy per million,107.159
+USA,2021-04-04,Weekly new hospital admissions,36124.0
+USA,2021-04-04,Weekly new hospital admissions per million,108.508
+USA,2021-04-05,Daily ICU occupancy,8849.0
+USA,2021-04-05,Daily ICU occupancy per million,26.58
+USA,2021-04-05,Daily hospital occupancy,36624.0
+USA,2021-04-05,Daily hospital occupancy per million,110.01
+USA,2021-04-05,Weekly new hospital admissions,36508.0
+USA,2021-04-05,Weekly new hospital admissions per million,109.662
+USA,2021-04-06,Daily ICU occupancy,9012.0
+USA,2021-04-06,Daily ICU occupancy per million,27.07
+USA,2021-04-06,Daily hospital occupancy,37551.0
+USA,2021-04-06,Daily hospital occupancy per million,112.795
+USA,2021-04-06,Weekly new hospital admissions,37137.0
+USA,2021-04-06,Weekly new hospital admissions per million,111.551
+USA,2021-04-07,Daily ICU occupancy,9024.0
+USA,2021-04-07,Daily ICU occupancy per million,27.106
+USA,2021-04-07,Daily hospital occupancy,37752.0
+USA,2021-04-07,Daily hospital occupancy per million,113.398
+USA,2021-04-07,Weekly new hospital admissions,37692.0
+USA,2021-04-07,Weekly new hospital admissions per million,113.218
+USA,2021-04-08,Daily ICU occupancy,9194.0
+USA,2021-04-08,Daily ICU occupancy per million,27.617
+USA,2021-04-08,Daily hospital occupancy,37953.0
+USA,2021-04-08,Daily hospital occupancy per million,114.002
+USA,2021-04-08,Weekly new hospital admissions,38058.0
+USA,2021-04-08,Weekly new hospital admissions per million,114.317
+USA,2021-04-09,Daily ICU occupancy,9145.0
+USA,2021-04-09,Daily ICU occupancy per million,27.469
+USA,2021-04-09,Daily hospital occupancy,37856.0
+USA,2021-04-09,Daily hospital occupancy per million,113.711
+USA,2021-04-09,Weekly new hospital admissions,38478.0
+USA,2021-04-09,Weekly new hospital admissions per million,115.579
+USA,2021-04-10,Daily ICU occupancy,9130.0
+USA,2021-04-10,Daily ICU occupancy per million,27.424
+USA,2021-04-10,Daily hospital occupancy,37546.0
+USA,2021-04-10,Daily hospital occupancy per million,112.78
+USA,2021-04-10,Weekly new hospital admissions,38792.0
+USA,2021-04-10,Weekly new hospital admissions per million,116.522
+USA,2021-04-11,Daily ICU occupancy,9245.0
+USA,2021-04-11,Daily ICU occupancy per million,27.77
+USA,2021-04-11,Daily hospital occupancy,38089.0
+USA,2021-04-11,Daily hospital occupancy per million,114.411
+USA,2021-04-11,Weekly new hospital admissions,39199.0
+USA,2021-04-11,Weekly new hospital admissions per million,117.745
+USA,2021-04-12,Daily ICU occupancy,9452.0
+USA,2021-04-12,Daily ICU occupancy per million,28.392
+USA,2021-04-12,Daily hospital occupancy,38927.0
+USA,2021-04-12,Daily hospital occupancy per million,116.928
+USA,2021-04-12,Weekly new hospital admissions,39432.0
+USA,2021-04-12,Weekly new hospital admissions per million,118.445
+USA,2021-04-13,Daily ICU occupancy,9536.0
+USA,2021-04-13,Daily ICU occupancy per million,28.644
+USA,2021-04-13,Daily hospital occupancy,39201.0
+USA,2021-04-13,Daily hospital occupancy per million,117.751
+USA,2021-04-13,Weekly new hospital admissions,39322.0
+USA,2021-04-13,Weekly new hospital admissions per million,118.114
+USA,2021-04-14,Daily ICU occupancy,9583.0
+USA,2021-04-14,Daily ICU occupancy per million,28.785
+USA,2021-04-14,Daily hospital occupancy,39474.0
+USA,2021-04-14,Daily hospital occupancy per million,118.571
+USA,2021-04-14,Weekly new hospital admissions,39341.0
+USA,2021-04-14,Weekly new hospital admissions per million,118.171
+USA,2021-04-15,Daily ICU occupancy,9476.0
+USA,2021-04-15,Daily ICU occupancy per million,28.464
+USA,2021-04-15,Daily hospital occupancy,39188.0
+USA,2021-04-15,Daily hospital occupancy per million,117.712
+USA,2021-04-15,Weekly new hospital admissions,39380.0
+USA,2021-04-15,Weekly new hospital admissions per million,118.288
+USA,2021-04-16,Daily ICU occupancy,9530.0
+USA,2021-04-16,Daily ICU occupancy per million,28.626
+USA,2021-04-16,Daily hospital occupancy,39406.0
+USA,2021-04-16,Daily hospital occupancy per million,118.367
+USA,2021-04-16,Weekly new hospital admissions,39588.0
+USA,2021-04-16,Weekly new hospital admissions per million,118.913
+USA,2021-04-17,Daily ICU occupancy,9551.0
+USA,2021-04-17,Daily ICU occupancy per million,28.689
+USA,2021-04-17,Daily hospital occupancy,39012.0
+USA,2021-04-17,Daily hospital occupancy per million,117.183
+USA,2021-04-17,Weekly new hospital admissions,39866.0
+USA,2021-04-17,Weekly new hospital admissions per million,119.748
+USA,2021-04-18,Daily ICU occupancy,9632.0
+USA,2021-04-18,Daily ICU occupancy per million,28.932
+USA,2021-04-18,Daily hospital occupancy,39460.0
+USA,2021-04-18,Daily hospital occupancy per million,118.529
+USA,2021-04-18,Weekly new hospital admissions,39889.0
+USA,2021-04-18,Weekly new hospital admissions per million,119.817
+USA,2021-04-19,Daily ICU occupancy,9828.0
+USA,2021-04-19,Daily ICU occupancy per million,29.521
+USA,2021-04-19,Daily hospital occupancy,40212.0
+USA,2021-04-19,Daily hospital occupancy per million,120.788
+USA,2021-04-19,Weekly new hospital admissions,39867.0
+USA,2021-04-19,Weekly new hospital admissions per million,119.751
+USA,2021-04-20,Daily ICU occupancy,9918.0
+USA,2021-04-20,Daily ICU occupancy per million,29.791
+USA,2021-04-20,Daily hospital occupancy,40206.0
+USA,2021-04-20,Daily hospital occupancy per million,120.77
+USA,2021-04-20,Weekly new hospital admissions,39734.0
+USA,2021-04-20,Weekly new hospital admissions per million,119.352
+USA,2021-04-21,Daily ICU occupancy,9917.0
+USA,2021-04-21,Daily ICU occupancy per million,29.788
+USA,2021-04-21,Daily hospital occupancy,40051.0
+USA,2021-04-21,Daily hospital occupancy per million,120.304
+USA,2021-04-21,Weekly new hospital admissions,39553.0
+USA,2021-04-21,Weekly new hospital admissions per million,118.808
+USA,2021-04-22,Daily ICU occupancy,9842.0
+USA,2021-04-22,Daily ICU occupancy per million,29.563
+USA,2021-04-22,Daily hospital occupancy,39201.0
+USA,2021-04-22,Daily hospital occupancy per million,117.751
+USA,2021-04-22,Weekly new hospital admissions,39243.0
+USA,2021-04-22,Weekly new hospital admissions per million,117.877
+USA,2021-04-23,Daily ICU occupancy,9705.0
+USA,2021-04-23,Daily ICU occupancy per million,29.152
+USA,2021-04-23,Daily hospital occupancy,38562.0
+USA,2021-04-23,Daily hospital occupancy per million,115.831
+USA,2021-04-23,Weekly new hospital admissions,38543.0
+USA,2021-04-23,Weekly new hospital admissions per million,115.774
+USA,2021-04-24,Daily ICU occupancy,9572.0
+USA,2021-04-24,Daily ICU occupancy per million,28.752
+USA,2021-04-24,Daily hospital occupancy,37357.0
+USA,2021-04-24,Daily hospital occupancy per million,112.212
+USA,2021-04-24,Weekly new hospital admissions,37758.0
+USA,2021-04-24,Weekly new hospital admissions per million,113.416
+USA,2021-04-25,Daily ICU occupancy,9546.0
+USA,2021-04-25,Daily ICU occupancy per million,28.674
+USA,2021-04-25,Daily hospital occupancy,37133.0
+USA,2021-04-25,Daily hospital occupancy per million,111.539
+USA,2021-04-25,Weekly new hospital admissions,37096.0
+USA,2021-04-25,Weekly new hospital admissions per million,111.428
+USA,2021-04-26,Daily ICU occupancy,9759.0
+USA,2021-04-26,Daily ICU occupancy per million,29.314
+USA,2021-04-26,Daily hospital occupancy,37540.0
+USA,2021-04-26,Daily hospital occupancy per million,112.761
+USA,2021-04-26,Weekly new hospital admissions,36497.0
+USA,2021-04-26,Weekly new hospital admissions per million,109.629
+USA,2021-04-27,Daily ICU occupancy,9665.0
+USA,2021-04-27,Daily ICU occupancy per million,29.031
+USA,2021-04-27,Daily hospital occupancy,37207.0
+USA,2021-04-27,Daily hospital occupancy per million,111.761
+USA,2021-04-27,Weekly new hospital admissions,35992.0
+USA,2021-04-27,Weekly new hospital admissions per million,108.112
+USA,2021-04-28,Daily ICU occupancy,9537.0
+USA,2021-04-28,Daily ICU occupancy per million,28.647
+USA,2021-04-28,Daily hospital occupancy,36886.0
+USA,2021-04-28,Daily hospital occupancy per million,110.797
+USA,2021-04-28,Weekly new hospital admissions,35406.0
+USA,2021-04-28,Weekly new hospital admissions per million,106.351
+USA,2021-04-29,Daily ICU occupancy,9371.0
+USA,2021-04-29,Daily ICU occupancy per million,28.148
+USA,2021-04-29,Daily hospital occupancy,35988.0
+USA,2021-04-29,Daily hospital occupancy per million,108.1
+USA,2021-04-29,Weekly new hospital admissions,34959.0
+USA,2021-04-29,Weekly new hospital admissions per million,105.009
+USA,2021-04-30,Daily ICU occupancy,9242.0
+USA,2021-04-30,Daily ICU occupancy per million,27.761
+USA,2021-04-30,Daily hospital occupancy,35364.0
+USA,2021-04-30,Daily hospital occupancy per million,106.225
+USA,2021-04-30,Weekly new hospital admissions,34748.0
+USA,2021-04-30,Weekly new hospital admissions per million,104.375
+USA,2021-05-01,Daily ICU occupancy,9105.0
+USA,2021-05-01,Daily ICU occupancy per million,27.349
+USA,2021-05-01,Daily hospital occupancy,34005.0
+USA,2021-05-01,Daily hospital occupancy per million,102.143
+USA,2021-05-01,Weekly new hospital admissions,34221.0
+USA,2021-05-01,Weekly new hospital admissions per million,102.792
+USA,2021-05-02,Daily ICU occupancy,9075.0
+USA,2021-05-02,Daily ICU occupancy per million,27.259
+USA,2021-05-02,Daily hospital occupancy,33764.0
+USA,2021-05-02,Daily hospital occupancy per million,101.419
+USA,2021-05-02,Weekly new hospital admissions,33736.0
+USA,2021-05-02,Weekly new hospital admissions per million,101.335
+USA,2021-05-03,Daily ICU occupancy,9209.0
+USA,2021-05-03,Daily ICU occupancy per million,27.662
+USA,2021-05-03,Daily hospital occupancy,33964.0
+USA,2021-05-03,Daily hospital occupancy per million,102.02
+USA,2021-05-03,Weekly new hospital admissions,33515.0
+USA,2021-05-03,Weekly new hospital admissions per million,100.671
+USA,2021-05-04,Daily ICU occupancy,9180.0
+USA,2021-05-04,Daily ICU occupancy per million,27.575
+USA,2021-05-04,Daily hospital occupancy,33755.0
+USA,2021-05-04,Daily hospital occupancy per million,101.392
+USA,2021-05-04,Weekly new hospital admissions,32999.0
+USA,2021-05-04,Weekly new hospital admissions per million,99.121
+USA,2021-05-05,Daily ICU occupancy,8954.0
+USA,2021-05-05,Daily ICU occupancy per million,26.896
+USA,2021-05-05,Daily hospital occupancy,33349.0
+USA,2021-05-05,Daily hospital occupancy per million,100.173
+USA,2021-05-05,Weekly new hospital admissions,32496.0
+USA,2021-05-05,Weekly new hospital admissions per million,97.61
+USA,2021-05-06,Daily ICU occupancy,8833.0
+USA,2021-05-06,Daily ICU occupancy per million,26.532
+USA,2021-05-06,Daily hospital occupancy,32505.0
+USA,2021-05-06,Daily hospital occupancy per million,97.638
+USA,2021-05-06,Weekly new hospital admissions,31872.0
+USA,2021-05-06,Weekly new hospital admissions per million,95.736
+USA,2021-05-07,Daily ICU occupancy,8646.0
+USA,2021-05-07,Daily ICU occupancy per million,25.971
+USA,2021-05-07,Daily hospital occupancy,31832.0
+USA,2021-05-07,Daily hospital occupancy per million,95.616
+USA,2021-05-07,Weekly new hospital admissions,31194.0
+USA,2021-05-07,Weekly new hospital admissions per million,93.7
+USA,2021-05-08,Daily ICU occupancy,8468.0
+USA,2021-05-08,Daily ICU occupancy per million,25.436
+USA,2021-05-08,Daily hospital occupancy,30635.0
+USA,2021-05-08,Daily hospital occupancy per million,92.02
+USA,2021-05-08,Weekly new hospital admissions,30794.0
+USA,2021-05-08,Weekly new hospital admissions per million,92.498
+USA,2021-05-09,Daily ICU occupancy,8359.0
+USA,2021-05-09,Daily ICU occupancy per million,25.109
+USA,2021-05-09,Daily hospital occupancy,30154.0
+USA,2021-05-09,Daily hospital occupancy per million,90.576
+USA,2021-05-09,Weekly new hospital admissions,30187.0
+USA,2021-05-09,Weekly new hospital admissions per million,90.675
+USA,2021-05-10,Daily ICU occupancy,8341.0
+USA,2021-05-10,Daily ICU occupancy per million,25.054
+USA,2021-05-10,Daily hospital occupancy,29987.0
+USA,2021-05-10,Daily hospital occupancy per million,90.074
+USA,2021-05-10,Weekly new hospital admissions,29502.0
+USA,2021-05-10,Weekly new hospital admissions per million,88.617
+USA,2021-05-11,Daily ICU occupancy,8298.0
+USA,2021-05-11,Daily ICU occupancy per million,24.925
+USA,2021-05-11,Daily hospital occupancy,29482.0
+USA,2021-05-11,Daily hospital occupancy per million,88.557
+USA,2021-05-11,Weekly new hospital admissions,28806.0
+USA,2021-05-11,Weekly new hospital admissions per million,86.527
+USA,2021-05-12,Daily ICU occupancy,8115.0
+USA,2021-05-12,Daily ICU occupancy per million,24.376
+USA,2021-05-12,Daily hospital occupancy,29116.0
+USA,2021-05-12,Daily hospital occupancy per million,87.458
+USA,2021-05-12,Weekly new hospital admissions,28203.0
+USA,2021-05-12,Weekly new hospital admissions per million,84.715
+USA,2021-05-13,Daily ICU occupancy,7917.0
+USA,2021-05-13,Daily ICU occupancy per million,23.781
+USA,2021-05-13,Daily hospital occupancy,28174.0
+USA,2021-05-13,Daily hospital occupancy per million,84.628
+USA,2021-05-13,Weekly new hospital admissions,27570.0
+USA,2021-05-13,Weekly new hospital admissions per million,82.814
+USA,2021-05-14,Daily ICU occupancy,7628.0
+USA,2021-05-14,Daily ICU occupancy per million,22.913
+USA,2021-05-14,Daily hospital occupancy,27422.0
+USA,2021-05-14,Daily hospital occupancy per million,82.369
+USA,2021-05-14,Weekly new hospital admissions,26925.0
+USA,2021-05-14,Weekly new hospital admissions per million,80.876
+USA,2021-05-15,Daily ICU occupancy,7409.0
+USA,2021-05-15,Daily ICU occupancy per million,22.255
+USA,2021-05-15,Daily hospital occupancy,26184.0
+USA,2021-05-15,Daily hospital occupancy per million,78.651
+USA,2021-05-15,Weekly new hospital admissions,26273.0
+USA,2021-05-15,Weekly new hospital admissions per million,78.918
+USA,2021-05-16,Daily ICU occupancy,7270.0
+USA,2021-05-16,Daily ICU occupancy per million,21.837
+USA,2021-05-16,Daily hospital occupancy,25646.0
+USA,2021-05-16,Daily hospital occupancy per million,77.035
+USA,2021-05-16,Weekly new hospital admissions,25801.0
+USA,2021-05-16,Weekly new hospital admissions per million,77.5
+USA,2021-05-17,Daily ICU occupancy,7299.0
+USA,2021-05-17,Daily ICU occupancy per million,21.925
+USA,2021-05-17,Daily hospital occupancy,25563.0
+USA,2021-05-17,Daily hospital occupancy per million,76.785
+USA,2021-05-17,Weekly new hospital admissions,25229.0
+USA,2021-05-17,Weekly new hospital admissions per million,75.782
+USA,2021-05-18,Daily ICU occupancy,7163.0
+USA,2021-05-18,Daily ICU occupancy per million,21.516
+USA,2021-05-18,Daily hospital occupancy,25023.0
+USA,2021-05-18,Daily hospital occupancy per million,75.163
+USA,2021-05-18,Weekly new hospital admissions,24703.0
+USA,2021-05-18,Weekly new hospital admissions per million,74.202
+USA,2021-05-19,Daily ICU occupancy,7059.0
+USA,2021-05-19,Daily ICU occupancy per million,21.204
+USA,2021-05-19,Daily hospital occupancy,24929.0
+USA,2021-05-19,Daily hospital occupancy per million,74.881
+USA,2021-05-19,Weekly new hospital admissions,24294.0
+USA,2021-05-19,Weekly new hospital admissions per million,72.974
+USA,2021-05-20,Daily ICU occupancy,6841.0
+USA,2021-05-20,Daily ICU occupancy per million,20.549
+USA,2021-05-20,Daily hospital occupancy,23954.0
+USA,2021-05-20,Daily hospital occupancy per million,71.952
+USA,2021-05-20,Weekly new hospital admissions,23785.0
+USA,2021-05-20,Weekly new hospital admissions per million,71.445
+USA,2021-05-21,Daily ICU occupancy,6664.0
+USA,2021-05-21,Daily ICU occupancy per million,20.017
+USA,2021-05-21,Daily hospital occupancy,23397.0
+USA,2021-05-21,Daily hospital occupancy per million,70.279
+USA,2021-05-21,Weekly new hospital admissions,23350.0
+USA,2021-05-21,Weekly new hospital admissions per million,70.138
+USA,2021-05-22,Daily ICU occupancy,6472.0
+USA,2021-05-22,Daily ICU occupancy per million,19.44
+USA,2021-05-22,Daily hospital occupancy,22643.0
+USA,2021-05-22,Daily hospital occupancy per million,68.014
+USA,2021-05-22,Weekly new hospital admissions,23040.0
+USA,2021-05-22,Weekly new hospital admissions per million,69.207
+USA,2021-05-23,Daily ICU occupancy,6412.0
+USA,2021-05-23,Daily ICU occupancy per million,19.26
+USA,2021-05-23,Daily hospital occupancy,22445.0
+USA,2021-05-23,Daily hospital occupancy per million,67.42
+USA,2021-05-23,Weekly new hospital admissions,22858.0
+USA,2021-05-23,Weekly new hospital admissions per million,68.66
+USA,2021-05-24,Daily ICU occupancy,6419.0
+USA,2021-05-24,Daily ICU occupancy per million,19.281
+USA,2021-05-24,Daily hospital occupancy,22431.0
+USA,2021-05-24,Daily hospital occupancy per million,67.378
+USA,2021-05-24,Weekly new hospital admissions,22662.0
+USA,2021-05-24,Weekly new hospital admissions per million,68.071
+USA,2021-05-25,Daily ICU occupancy,6311.0
+USA,2021-05-25,Daily ICU occupancy per million,18.957
+USA,2021-05-25,Daily hospital occupancy,22087.0
+USA,2021-05-25,Daily hospital occupancy per million,66.344
+USA,2021-05-25,Weekly new hospital admissions,22320.0
+USA,2021-05-25,Weekly new hospital admissions per million,67.044
+USA,2021-05-26,Daily ICU occupancy,6140.0
+USA,2021-05-26,Daily ICU occupancy per million,18.443
+USA,2021-05-26,Daily hospital occupancy,21603.0
+USA,2021-05-26,Daily hospital occupancy per million,64.89
+USA,2021-05-26,Weekly new hospital admissions,21812.0
+USA,2021-05-26,Weekly new hospital admissions per million,65.518
+USA,2021-05-27,Daily ICU occupancy,6000.0
+USA,2021-05-27,Daily ICU occupancy per million,18.023
+USA,2021-05-27,Daily hospital occupancy,21056.0
+USA,2021-05-27,Daily hospital occupancy per million,63.247
+USA,2021-05-27,Weekly new hospital admissions,21586.0
+USA,2021-05-27,Weekly new hospital admissions per million,64.839
+USA,2021-05-28,Daily ICU occupancy,5778.0
+USA,2021-05-28,Daily ICU occupancy per million,17.356
+USA,2021-05-28,Daily hospital occupancy,20398.0
+USA,2021-05-28,Daily hospital occupancy per million,61.271
+USA,2021-05-28,Weekly new hospital admissions,21111.0
+USA,2021-05-28,Weekly new hospital admissions per million,63.413
+USA,2021-05-29,Daily ICU occupancy,5606.0
+USA,2021-05-29,Daily ICU occupancy per million,16.839
+USA,2021-05-29,Daily hospital occupancy,19474.0
+USA,2021-05-29,Daily hospital occupancy per million,58.495
+USA,2021-05-29,Weekly new hospital admissions,20480.0
+USA,2021-05-29,Weekly new hospital admissions per million,61.517
+USA,2021-05-30,Daily ICU occupancy,5525.0
+USA,2021-05-30,Daily ICU occupancy per million,16.596
+USA,2021-05-30,Daily hospital occupancy,19062.0
+USA,2021-05-30,Daily hospital occupancy per million,57.258
+USA,2021-05-30,Weekly new hospital admissions,19930.0
+USA,2021-05-30,Weekly new hospital admissions per million,59.865
+USA,2021-05-31,Daily ICU occupancy,5542.0
+USA,2021-05-31,Daily ICU occupancy per million,16.647
+USA,2021-05-31,Daily hospital occupancy,18678.0
+USA,2021-05-31,Daily hospital occupancy per million,56.104
+USA,2021-05-31,Weekly new hospital admissions,19313.0
+USA,2021-05-31,Weekly new hospital admissions per million,58.012
+USA,2021-06-01,Daily ICU occupancy,5491.0
+USA,2021-06-01,Daily ICU occupancy per million,16.494
+USA,2021-06-01,Daily hospital occupancy,18657.0
+USA,2021-06-01,Daily hospital occupancy per million,56.041
+USA,2021-06-01,Weekly new hospital admissions,18349.0
+USA,2021-06-01,Weekly new hospital admissions per million,55.116
+USA,2021-06-02,Daily ICU occupancy,5322.0
+USA,2021-06-02,Daily ICU occupancy per million,15.986
+USA,2021-06-02,Daily hospital occupancy,18087.0
+USA,2021-06-02,Daily hospital occupancy per million,54.329
+USA,2021-06-02,Weekly new hospital admissions,17945.0
+USA,2021-06-02,Weekly new hospital admissions per million,53.903
+USA,2021-06-03,Daily ICU occupancy,5175.0
+USA,2021-06-03,Daily ICU occupancy per million,15.545
+USA,2021-06-03,Daily hospital occupancy,17634.0
+USA,2021-06-03,Daily hospital occupancy per million,52.968
+USA,2021-06-03,Weekly new hospital admissions,17408.0
+USA,2021-06-03,Weekly new hospital admissions per million,52.29
+USA,2021-06-04,Daily ICU occupancy,4995.0
+USA,2021-06-04,Daily ICU occupancy per million,15.004
+USA,2021-06-04,Daily hospital occupancy,16970.0
+USA,2021-06-04,Daily hospital occupancy per million,50.974
+USA,2021-06-04,Weekly new hospital admissions,17005.0
+USA,2021-06-04,Weekly new hospital admissions per million,51.079
+USA,2021-06-05,Daily ICU occupancy,4768.0
+USA,2021-06-05,Daily ICU occupancy per million,14.322
+USA,2021-06-05,Daily hospital occupancy,16298.0
+USA,2021-06-05,Daily hospital occupancy per million,48.955
+USA,2021-06-05,Weekly new hospital admissions,16685.0
+USA,2021-06-05,Weekly new hospital admissions per million,50.118
+USA,2021-06-06,Daily ICU occupancy,4677.0
+USA,2021-06-06,Daily ICU occupancy per million,14.049
+USA,2021-06-06,Daily hospital occupancy,15987.0
+USA,2021-06-06,Daily hospital occupancy per million,48.021
+USA,2021-06-06,Weekly new hospital admissions,16357.0
+USA,2021-06-06,Weekly new hospital admissions per million,49.133
+USA,2021-06-07,Daily ICU occupancy,4685.0
+USA,2021-06-07,Daily ICU occupancy per million,14.073
+USA,2021-06-07,Daily hospital occupancy,15742.0
+USA,2021-06-07,Daily hospital occupancy per million,47.285
+USA,2021-06-07,Weekly new hospital admissions,16074.0
+USA,2021-06-07,Weekly new hospital admissions per million,48.283
+USA,2021-06-08,Daily ICU occupancy,4608.0
+USA,2021-06-08,Daily ICU occupancy per million,13.841
+USA,2021-06-08,Daily hospital occupancy,15630.0
+USA,2021-06-08,Daily hospital occupancy per million,46.949
+USA,2021-06-08,Weekly new hospital admissions,16129.0
+USA,2021-06-08,Weekly new hospital admissions per million,48.448
+USA,2021-06-09,Daily ICU occupancy,4479.0
+USA,2021-06-09,Daily ICU occupancy per million,13.454
+USA,2021-06-09,Daily hospital occupancy,15266.0
+USA,2021-06-09,Daily hospital occupancy per million,45.856
+USA,2021-06-09,Weekly new hospital admissions,15698.0
+USA,2021-06-09,Weekly new hospital admissions per million,47.153
+USA,2021-06-10,Daily ICU occupancy,4383.0
+USA,2021-06-10,Daily ICU occupancy per million,13.166
+USA,2021-06-10,Daily hospital occupancy,14838.0
+USA,2021-06-10,Daily hospital occupancy per million,44.57
+USA,2021-06-10,Weekly new hospital admissions,15412.0
+USA,2021-06-10,Weekly new hospital admissions per million,46.294
+USA,2021-06-11,Daily ICU occupancy,4300.0
+USA,2021-06-11,Daily ICU occupancy per million,12.916
+USA,2021-06-11,Daily hospital occupancy,14421.0
+USA,2021-06-11,Daily hospital occupancy per million,43.317
+USA,2021-06-11,Weekly new hospital admissions,15195.0
+USA,2021-06-11,Weekly new hospital admissions per million,45.642
+USA,2021-06-12,Daily ICU occupancy,4186.0
+USA,2021-06-12,Daily ICU occupancy per million,12.574
+USA,2021-06-12,Daily hospital occupancy,13940.0
+USA,2021-06-12,Daily hospital occupancy per million,41.873
+USA,2021-06-12,Weekly new hospital admissions,14948.0
+USA,2021-06-12,Weekly new hospital admissions per million,44.9
+USA,2021-06-13,Daily ICU occupancy,4049.0
+USA,2021-06-13,Daily ICU occupancy per million,12.162
+USA,2021-06-13,Daily hospital occupancy,13957.0
+USA,2021-06-13,Daily hospital occupancy per million,41.924
+USA,2021-06-13,Weekly new hospital admissions,14824.0
+USA,2021-06-13,Weekly new hospital admissions per million,44.528
+USA,2021-06-14,Daily ICU occupancy,4068.0
+USA,2021-06-14,Daily ICU occupancy per million,12.219
+USA,2021-06-14,Daily hospital occupancy,13929.0
+USA,2021-06-14,Daily hospital occupancy per million,41.839
+USA,2021-06-14,Weekly new hospital admissions,14716.0
+USA,2021-06-14,Weekly new hospital admissions per million,44.203
+USA,2021-06-15,Daily ICU occupancy,3939.0
+USA,2021-06-15,Daily ICU occupancy per million,11.832
+USA,2021-06-15,Daily hospital occupancy,13722.0
+USA,2021-06-15,Daily hospital occupancy per million,41.218
+USA,2021-06-15,Weekly new hospital admissions,14392.0
+USA,2021-06-15,Weekly new hospital admissions per million,43.23
+USA,2021-06-16,Daily ICU occupancy,3880.0
+USA,2021-06-16,Daily ICU occupancy per million,11.655
+USA,2021-06-16,Daily hospital occupancy,13496.0
+USA,2021-06-16,Daily hospital occupancy per million,40.539
+USA,2021-06-16,Weekly new hospital admissions,14230.0
+USA,2021-06-16,Weekly new hospital admissions per million,42.744
+USA,2021-06-17,Daily ICU occupancy,3806.0
+USA,2021-06-17,Daily ICU occupancy per million,11.432
+USA,2021-06-17,Daily hospital occupancy,13094.0
+USA,2021-06-17,Daily hospital occupancy per million,39.331
+USA,2021-06-17,Weekly new hospital admissions,13968.0
+USA,2021-06-17,Weekly new hospital admissions per million,41.957
+USA,2021-06-18,Daily ICU occupancy,3739.0
+USA,2021-06-18,Daily ICU occupancy per million,11.231
+USA,2021-06-18,Daily hospital occupancy,12855.0
+USA,2021-06-18,Daily hospital occupancy per million,38.613
+USA,2021-06-18,Weekly new hospital admissions,13824.0
+USA,2021-06-18,Weekly new hospital admissions per million,41.524
+USA,2021-06-19,Daily ICU occupancy,3673.0
+USA,2021-06-19,Daily ICU occupancy per million,11.033
+USA,2021-06-19,Daily hospital occupancy,12483.0
+USA,2021-06-19,Daily hospital occupancy per million,37.496
+USA,2021-06-19,Weekly new hospital admissions,13638.0
+USA,2021-06-19,Weekly new hospital admissions per million,40.965
+USA,2021-06-20,Daily ICU occupancy,3663.0
+USA,2021-06-20,Daily ICU occupancy per million,11.003
+USA,2021-06-20,Daily hospital occupancy,12503.0
+USA,2021-06-20,Daily hospital occupancy per million,37.556
+USA,2021-06-20,Weekly new hospital admissions,13424.0
+USA,2021-06-20,Weekly new hospital admissions per million,40.323
+USA,2021-06-21,Daily ICU occupancy,3708.0
+USA,2021-06-21,Daily ICU occupancy per million,11.138
+USA,2021-06-21,Daily hospital occupancy,12593.0
+USA,2021-06-21,Daily hospital occupancy per million,37.826
+USA,2021-06-21,Weekly new hospital admissions,13268.0
+USA,2021-06-21,Weekly new hospital admissions per million,39.854
+USA,2021-06-22,Daily ICU occupancy,3744.0
+USA,2021-06-22,Daily ICU occupancy per million,11.246
+USA,2021-06-22,Daily hospital occupancy,12539.0
+USA,2021-06-22,Daily hospital occupancy per million,37.664
+USA,2021-06-22,Weekly new hospital admissions,13291.0
+USA,2021-06-22,Weekly new hospital admissions per million,39.923
+USA,2021-06-23,Daily ICU occupancy,3700.0
+USA,2021-06-23,Daily ICU occupancy per million,11.114
+USA,2021-06-23,Daily hospital occupancy,12612.0
+USA,2021-06-23,Daily hospital occupancy per million,37.884
+USA,2021-06-23,Weekly new hospital admissions,13208.0
+USA,2021-06-23,Weekly new hospital admissions per million,39.674
+USA,2021-06-24,Daily ICU occupancy,3636.0
+USA,2021-06-24,Daily ICU occupancy per million,10.922
+USA,2021-06-24,Daily hospital occupancy,12397.0
+USA,2021-06-24,Daily hospital occupancy per million,37.238
+USA,2021-06-24,Weekly new hospital admissions,13243.0
+USA,2021-06-24,Weekly new hospital admissions per million,39.779
+USA,2021-06-25,Daily ICU occupancy,3617.0
+USA,2021-06-25,Daily ICU occupancy per million,10.865
+USA,2021-06-25,Daily hospital occupancy,12408.0
+USA,2021-06-25,Daily hospital occupancy per million,37.271
+USA,2021-06-25,Weekly new hospital admissions,13093.0
+USA,2021-06-25,Weekly new hospital admissions per million,39.328
+USA,2021-06-26,Daily ICU occupancy,3562.0
+USA,2021-06-26,Daily ICU occupancy per million,10.699
+USA,2021-06-26,Daily hospital occupancy,12238.0
+USA,2021-06-26,Daily hospital occupancy per million,36.76
+USA,2021-06-26,Weekly new hospital admissions,13204.0
+USA,2021-06-26,Weekly new hospital admissions per million,39.662
+USA,2021-06-27,Daily ICU occupancy,3525.0
+USA,2021-06-27,Daily ICU occupancy per million,10.588
+USA,2021-06-27,Daily hospital occupancy,12233.0
+USA,2021-06-27,Daily hospital occupancy per million,36.745
+USA,2021-06-27,Weekly new hospital admissions,13373.0
+USA,2021-06-27,Weekly new hospital admissions per million,40.169
+USA,2021-06-28,Daily ICU occupancy,3617.0
+USA,2021-06-28,Daily ICU occupancy per million,10.865
+USA,2021-06-28,Daily hospital occupancy,12510.0
+USA,2021-06-28,Daily hospital occupancy per million,37.577
+USA,2021-06-28,Weekly new hospital admissions,13529.0
+USA,2021-06-28,Weekly new hospital admissions per million,40.638
+USA,2021-06-29,Daily ICU occupancy,3676.0
+USA,2021-06-29,Daily ICU occupancy per million,11.042
+USA,2021-06-29,Daily hospital occupancy,12662.0
+USA,2021-06-29,Daily hospital occupancy per million,38.034
+USA,2021-06-29,Weekly new hospital admissions,13597.0
+USA,2021-06-29,Weekly new hospital admissions per million,40.842
+USA,2021-06-30,Daily ICU occupancy,3673.0
+USA,2021-06-30,Daily ICU occupancy per million,11.033
+USA,2021-06-30,Daily hospital occupancy,12879.0
+USA,2021-06-30,Daily hospital occupancy per million,38.686
+USA,2021-06-30,Weekly new hospital admissions,13767.0
+USA,2021-06-30,Weekly new hospital admissions per million,41.353
+USA,2021-07-01,Daily ICU occupancy,3614.0
+USA,2021-07-01,Daily ICU occupancy per million,10.856
+USA,2021-07-01,Daily hospital occupancy,12863.0
+USA,2021-07-01,Daily hospital occupancy per million,38.637
+USA,2021-07-01,Weekly new hospital admissions,13876.0
+USA,2021-07-01,Weekly new hospital admissions per million,41.68
+USA,2021-07-02,Daily ICU occupancy,4027.0
+USA,2021-07-02,Daily ICU occupancy per million,12.096
+USA,2021-07-02,Daily hospital occupancy,13234.0
+USA,2021-07-02,Daily hospital occupancy per million,39.752
+USA,2021-07-02,Weekly new hospital admissions,14294.0
+USA,2021-07-02,Weekly new hospital admissions per million,42.936
+USA,2021-07-03,Daily ICU occupancy,3753.0
+USA,2021-07-03,Daily ICU occupancy per million,11.273
+USA,2021-07-03,Daily hospital occupancy,12916.0
+USA,2021-07-03,Daily hospital occupancy per million,38.797
+USA,2021-07-03,Weekly new hospital admissions,14458.0
+USA,2021-07-03,Weekly new hospital admissions per million,43.428
+USA,2021-07-04,Daily ICU occupancy,3777.0
+USA,2021-07-04,Daily ICU occupancy per million,11.345
+USA,2021-07-04,Daily hospital occupancy,13121.0
+USA,2021-07-04,Daily hospital occupancy per million,39.412
+USA,2021-07-04,Weekly new hospital admissions,14577.0
+USA,2021-07-04,Weekly new hospital admissions per million,43.786
+USA,2021-07-05,Daily ICU occupancy,3883.0
+USA,2021-07-05,Daily ICU occupancy per million,11.664
+USA,2021-07-05,Daily hospital occupancy,13433.0
+USA,2021-07-05,Daily hospital occupancy per million,40.35
+USA,2021-07-05,Weekly new hospital admissions,14757.0
+USA,2021-07-05,Weekly new hospital admissions per million,44.327
+USA,2021-07-06,Daily ICU occupancy,3980.0
+USA,2021-07-06,Daily ICU occupancy per million,11.955
+USA,2021-07-06,Daily hospital occupancy,13974.0
+USA,2021-07-06,Daily hospital occupancy per million,41.975
+USA,2021-07-06,Weekly new hospital admissions,14980.0
+USA,2021-07-06,Weekly new hospital admissions per million,44.996
+USA,2021-07-07,Daily ICU occupancy,4132.0
+USA,2021-07-07,Daily ICU occupancy per million,12.412
+USA,2021-07-07,Daily hospital occupancy,14665.0
+USA,2021-07-07,Daily hospital occupancy per million,44.05
+USA,2021-07-07,Weekly new hospital admissions,15499.0
+USA,2021-07-07,Weekly new hospital admissions per million,46.555
+USA,2021-07-08,Daily ICU occupancy,4297.0
+USA,2021-07-08,Daily ICU occupancy per million,12.907
+USA,2021-07-08,Daily hospital occupancy,15074.0
+USA,2021-07-08,Daily hospital occupancy per million,45.279
+USA,2021-07-08,Weekly new hospital admissions,16109.0
+USA,2021-07-08,Weekly new hospital admissions per million,48.388
+USA,2021-07-09,Daily ICU occupancy,4369.0
+USA,2021-07-09,Daily ICU occupancy per million,13.123
+USA,2021-07-09,Daily hospital occupancy,15409.0
+USA,2021-07-09,Daily hospital occupancy per million,46.285
+USA,2021-07-09,Weekly new hospital admissions,16539.0
+USA,2021-07-09,Weekly new hospital admissions per million,49.679
+USA,2021-07-10,Daily ICU occupancy,4442.0
+USA,2021-07-10,Daily ICU occupancy per million,13.343
+USA,2021-07-10,Daily hospital occupancy,15710.0
+USA,2021-07-10,Daily hospital occupancy per million,47.189
+USA,2021-07-10,Weekly new hospital admissions,17226.0
+USA,2021-07-10,Weekly new hospital admissions per million,51.743
+USA,2021-07-11,Daily ICU occupancy,4637.0
+USA,2021-07-11,Daily ICU occupancy per million,13.928
+USA,2021-07-11,Daily hospital occupancy,16396.0
+USA,2021-07-11,Daily hospital occupancy per million,49.25
+USA,2021-07-11,Weekly new hospital admissions,17910.0
+USA,2021-07-11,Weekly new hospital admissions per million,53.798
+USA,2021-07-12,Daily ICU occupancy,4883.0
+USA,2021-07-12,Daily ICU occupancy per million,14.667
+USA,2021-07-12,Daily hospital occupancy,17330.0
+USA,2021-07-12,Daily hospital occupancy per million,52.055
+USA,2021-07-12,Weekly new hospital admissions,18721.0
+USA,2021-07-12,Weekly new hospital admissions per million,56.234
+USA,2021-07-13,Daily ICU occupancy,5072.0
+USA,2021-07-13,Daily ICU occupancy per million,15.235
+USA,2021-07-13,Daily hospital occupancy,18204.0
+USA,2021-07-13,Daily hospital occupancy per million,54.681
+USA,2021-07-13,Weekly new hospital admissions,19729.0
+USA,2021-07-13,Weekly new hospital admissions per million,59.261
+USA,2021-07-14,Daily ICU occupancy,5255.0
+USA,2021-07-14,Daily ICU occupancy per million,15.785
+USA,2021-07-14,Daily hospital occupancy,19085.0
+USA,2021-07-14,Daily hospital occupancy per million,57.327
+USA,2021-07-14,Weekly new hospital admissions,20339.0
+USA,2021-07-14,Weekly new hospital admissions per million,61.094
+USA,2021-07-15,Daily ICU occupancy,5474.0
+USA,2021-07-15,Daily ICU occupancy per million,16.443
+USA,2021-07-15,Daily hospital occupancy,19915.0
+USA,2021-07-15,Daily hospital occupancy per million,59.82
+USA,2021-07-15,Weekly new hospital admissions,21142.0
+USA,2021-07-15,Weekly new hospital admissions per million,63.506
+USA,2021-07-16,Daily ICU occupancy,5785.0
+USA,2021-07-16,Daily ICU occupancy per million,17.377
+USA,2021-07-16,Daily hospital occupancy,20874.0
+USA,2021-07-16,Daily hospital occupancy per million,62.701
+USA,2021-07-16,Weekly new hospital admissions,22095.0
+USA,2021-07-16,Weekly new hospital admissions per million,66.368
+USA,2021-07-17,Daily ICU occupancy,5994.0
+USA,2021-07-17,Daily ICU occupancy per million,18.005
+USA,2021-07-17,Daily hospital occupancy,21595.0
+USA,2021-07-17,Daily hospital occupancy per million,64.866
+USA,2021-07-17,Weekly new hospital admissions,23083.0
+USA,2021-07-17,Weekly new hospital admissions per million,69.336
+USA,2021-07-18,Daily ICU occupancy,6272.0
+USA,2021-07-18,Daily ICU occupancy per million,18.84
+USA,2021-07-18,Daily hospital occupancy,22564.0
+USA,2021-07-18,Daily hospital occupancy per million,67.777
+USA,2021-07-18,Weekly new hospital admissions,24072.0
+USA,2021-07-18,Weekly new hospital admissions per million,72.307
+USA,2021-07-19,Daily ICU occupancy,6717.0
+USA,2021-07-19,Daily ICU occupancy per million,20.176
+USA,2021-07-19,Daily hospital occupancy,24261.0
+USA,2021-07-19,Daily hospital occupancy per million,72.874
+USA,2021-07-19,Weekly new hospital admissions,25216.0
+USA,2021-07-19,Weekly new hospital admissions per million,75.743
+USA,2021-07-20,Daily ICU occupancy,7115.0
+USA,2021-07-20,Daily ICU occupancy per million,21.372
+USA,2021-07-20,Daily hospital occupancy,25700.0
+USA,2021-07-20,Daily hospital occupancy per million,77.197
+USA,2021-07-20,Weekly new hospital admissions,26614.0
+USA,2021-07-20,Weekly new hospital admissions per million,79.942
+USA,2021-07-21,Daily ICU occupancy,7408.0
+USA,2021-07-21,Daily ICU occupancy per million,22.252
+USA,2021-07-21,Daily hospital occupancy,27057.0
+USA,2021-07-21,Daily hospital occupancy per million,81.273
+USA,2021-07-21,Weekly new hospital admissions,28103.0
+USA,2021-07-21,Weekly new hospital admissions per million,84.415
+USA,2021-07-22,Daily ICU occupancy,7687.0
+USA,2021-07-22,Daily ICU occupancy per million,23.09
+USA,2021-07-22,Daily hospital occupancy,28605.0
+USA,2021-07-22,Daily hospital occupancy per million,85.923
+USA,2021-07-22,Weekly new hospital admissions,29859.0
+USA,2021-07-22,Weekly new hospital admissions per million,89.69
+USA,2021-07-23,Daily ICU occupancy,8097.0
+USA,2021-07-23,Daily ICU occupancy per million,24.322
+USA,2021-07-23,Daily hospital occupancy,30295.0
+USA,2021-07-23,Daily hospital occupancy per million,90.999
+USA,2021-07-23,Weekly new hospital admissions,31504.0
+USA,2021-07-23,Weekly new hospital admissions per million,94.631
+USA,2021-07-24,Daily ICU occupancy,8419.0
+USA,2021-07-24,Daily ICU occupancy per million,25.289
+USA,2021-07-24,Daily hospital occupancy,31469.0
+USA,2021-07-24,Daily hospital occupancy per million,94.526
+USA,2021-07-24,Weekly new hospital admissions,33292.0
+USA,2021-07-24,Weekly new hospital admissions per million,100.001
+USA,2021-07-25,Daily ICU occupancy,8867.0
+USA,2021-07-25,Daily ICU occupancy per million,26.634
+USA,2021-07-25,Daily hospital occupancy,33406.0
+USA,2021-07-25,Daily hospital occupancy per million,100.344
+USA,2021-07-25,Weekly new hospital admissions,35063.0
+USA,2021-07-25,Weekly new hospital admissions per million,105.321
+USA,2021-07-26,Daily ICU occupancy,9448.0
+USA,2021-07-26,Daily ICU occupancy per million,28.38
+USA,2021-07-26,Daily hospital occupancy,35748.0
+USA,2021-07-26,Daily hospital occupancy per million,107.379
+USA,2021-07-26,Weekly new hospital admissions,36942.0
+USA,2021-07-26,Weekly new hospital admissions per million,110.965
+USA,2021-07-27,Daily ICU occupancy,9994.0
+USA,2021-07-27,Daily ICU occupancy per million,30.02
+USA,2021-07-27,Daily hospital occupancy,38296.0
+USA,2021-07-27,Daily hospital occupancy per million,115.032
+USA,2021-07-27,Weekly new hospital admissions,39034.0
+USA,2021-07-27,Weekly new hospital admissions per million,117.249
+USA,2021-07-28,Daily ICU occupancy,10378.0
+USA,2021-07-28,Daily ICU occupancy per million,31.173
+USA,2021-07-28,Daily hospital occupancy,40482.0
+USA,2021-07-28,Daily hospital occupancy per million,121.599
+USA,2021-07-28,Weekly new hospital admissions,41324.0
+USA,2021-07-28,Weekly new hospital admissions per million,124.128
+USA,2021-07-29,Daily ICU occupancy,10919.0
+USA,2021-07-29,Daily ICU occupancy per million,32.798
+USA,2021-07-29,Daily hospital occupancy,42200.0
+USA,2021-07-29,Daily hospital occupancy per million,126.759
+USA,2021-07-29,Weekly new hospital admissions,43269.0
+USA,2021-07-29,Weekly new hospital admissions per million,129.97
+USA,2021-07-30,Daily ICU occupancy,11463.0
+USA,2021-07-30,Daily ICU occupancy per million,34.432
+USA,2021-07-30,Daily hospital occupancy,44541.0
+USA,2021-07-30,Daily hospital occupancy per million,133.791
+USA,2021-07-30,Weekly new hospital admissions,45867.0
+USA,2021-07-30,Weekly new hospital admissions per million,137.774
+USA,2021-07-31,Daily ICU occupancy,12109.0
+USA,2021-07-31,Daily ICU occupancy per million,36.373
+USA,2021-07-31,Daily hospital occupancy,46428.0
+USA,2021-07-31,Daily hospital occupancy per million,139.459
+USA,2021-07-31,Weekly new hospital admissions,48327.0
+USA,2021-07-31,Weekly new hospital admissions per million,145.163
+USA,2021-08-01,Daily ICU occupancy,12698.0
+USA,2021-08-01,Daily ICU occupancy per million,38.142
+USA,2021-08-01,Daily hospital occupancy,48538.0
+USA,2021-08-01,Daily hospital occupancy per million,145.797
+USA,2021-08-01,Weekly new hospital admissions,50363.0
+USA,2021-08-01,Weekly new hospital admissions per million,151.279
+USA,2021-08-02,Daily ICU occupancy,13481.0
+USA,2021-08-02,Daily ICU occupancy per million,40.494
+USA,2021-08-02,Daily hospital occupancy,51780.0
+USA,2021-08-02,Daily hospital occupancy per million,155.535
+USA,2021-08-02,Weekly new hospital admissions,52403.0
+USA,2021-08-02,Weekly new hospital admissions per million,157.407
+USA,2021-08-03,Daily ICU occupancy,14052.0
+USA,2021-08-03,Daily ICU occupancy per million,42.209
+USA,2021-08-03,Daily hospital occupancy,54470.0
+USA,2021-08-03,Daily hospital occupancy per million,163.615
+USA,2021-08-03,Weekly new hospital admissions,54984.0
+USA,2021-08-03,Weekly new hospital admissions per million,165.159
+USA,2021-08-04,Daily ICU occupancy,14635.0
+USA,2021-08-04,Daily ICU occupancy per million,43.96
+USA,2021-08-04,Daily hospital occupancy,56954.0
+USA,2021-08-04,Daily hospital occupancy per million,171.077
+USA,2021-08-04,Weekly new hospital admissions,57412.0
+USA,2021-08-04,Weekly new hospital admissions per million,172.452
+USA,2021-08-05,Daily ICU occupancy,15193.0
+USA,2021-08-05,Daily ICU occupancy per million,45.636
+USA,2021-08-05,Daily hospital occupancy,59587.0
+USA,2021-08-05,Daily hospital occupancy per million,178.986
+USA,2021-08-05,Weekly new hospital admissions,60025.0
+USA,2021-08-05,Weekly new hospital admissions per million,180.301
+USA,2021-08-06,Daily ICU occupancy,15732.0
+USA,2021-08-06,Daily ICU occupancy per million,47.255
+USA,2021-08-06,Daily hospital occupancy,62122.0
+USA,2021-08-06,Daily hospital occupancy per million,186.6
+USA,2021-08-06,Weekly new hospital admissions,62257.0
+USA,2021-08-06,Weekly new hospital admissions per million,187.006
+USA,2021-08-07,Daily ICU occupancy,16164.0
+USA,2021-08-07,Daily ICU occupancy per million,48.553
+USA,2021-08-07,Daily hospital occupancy,63544.0
+USA,2021-08-07,Daily hospital occupancy per million,190.872
+USA,2021-08-07,Weekly new hospital admissions,64404.0
+USA,2021-08-07,Weekly new hospital admissions per million,193.455
+USA,2021-08-08,Daily ICU occupancy,16784.0
+USA,2021-08-08,Daily ICU occupancy per million,50.415
+USA,2021-08-08,Daily hospital occupancy,66369.0
+USA,2021-08-08,Daily hospital occupancy per million,199.357
+USA,2021-08-08,Weekly new hospital admissions,66807.0
+USA,2021-08-08,Weekly new hospital admissions per million,200.673
+USA,2021-08-09,Daily ICU occupancy,17707.0
+USA,2021-08-09,Daily ICU occupancy per million,53.188
+USA,2021-08-09,Daily hospital occupancy,69838.0
+USA,2021-08-09,Daily hospital occupancy per million,209.777
+USA,2021-08-09,Weekly new hospital admissions,69042.0
+USA,2021-08-09,Weekly new hospital admissions per million,207.386
+USA,2021-08-10,Daily ICU occupancy,18264.0
+USA,2021-08-10,Daily ICU occupancy per million,54.861
+USA,2021-08-10,Daily hospital occupancy,72521.0
+USA,2021-08-10,Daily hospital occupancy per million,217.836
+USA,2021-08-10,Weekly new hospital admissions,71165.0
+USA,2021-08-10,Weekly new hospital admissions per million,213.763
+USA,2021-08-11,Daily ICU occupancy,19016.0
+USA,2021-08-11,Daily ICU occupancy per million,57.12
+USA,2021-08-11,Daily hospital occupancy,74850.0
+USA,2021-08-11,Daily hospital occupancy per million,224.832
+USA,2021-08-11,Weekly new hospital admissions,73374.0
+USA,2021-08-11,Weekly new hospital admissions per million,220.399
+USA,2021-08-12,Daily ICU occupancy,19537.0
+USA,2021-08-12,Daily ICU occupancy per million,58.685
+USA,2021-08-12,Daily hospital occupancy,76968.0
+USA,2021-08-12,Daily hospital occupancy per million,231.194
+USA,2021-08-12,Weekly new hospital admissions,75534.0
+USA,2021-08-12,Weekly new hospital admissions per million,226.887
+USA,2021-08-13,Daily ICU occupancy,20076.0
+USA,2021-08-13,Daily ICU occupancy per million,60.304
+USA,2021-08-13,Daily hospital occupancy,78580.0
+USA,2021-08-13,Daily hospital occupancy per million,236.036
+USA,2021-08-13,Weekly new hospital admissions,77290.0
+USA,2021-08-13,Weekly new hospital admissions per million,232.161
+USA,2021-08-14,Daily ICU occupancy,20401.0
+USA,2021-08-14,Daily ICU occupancy per million,61.28
+USA,2021-08-14,Daily hospital occupancy,79622.0
+USA,2021-08-14,Daily hospital occupancy per million,239.166
+USA,2021-08-14,Weekly new hospital admissions,78844.0
+USA,2021-08-14,Weekly new hospital admissions per million,236.829
+USA,2021-08-15,Daily ICU occupancy,21077.0
+USA,2021-08-15,Daily ICU occupancy per million,63.31
+USA,2021-08-15,Daily hospital occupancy,81624.0
+USA,2021-08-15,Daily hospital occupancy per million,245.18
+USA,2021-08-15,Weekly new hospital admissions,79727.0
+USA,2021-08-15,Weekly new hospital admissions per million,239.481
+USA,2021-08-16,Daily ICU occupancy,21673.0
+USA,2021-08-16,Daily ICU occupancy per million,65.101
+USA,2021-08-16,Daily hospital occupancy,84313.0
+USA,2021-08-16,Daily hospital occupancy per million,253.257
+USA,2021-08-16,Weekly new hospital admissions,80753.0
+USA,2021-08-16,Weekly new hospital admissions per million,242.563
+USA,2021-08-17,Daily ICU occupancy,22303.0
+USA,2021-08-17,Daily ICU occupancy per million,66.993
+USA,2021-08-17,Daily hospital occupancy,86744.0
+USA,2021-08-17,Daily hospital occupancy per million,260.559
+USA,2021-08-17,Weekly new hospital admissions,82022.0
+USA,2021-08-17,Weekly new hospital admissions per million,246.375
+USA,2021-08-18,Daily ICU occupancy,22700.0
+USA,2021-08-18,Daily ICU occupancy per million,68.186
+USA,2021-08-18,Daily hospital occupancy,88657.0
+USA,2021-08-18,Daily hospital occupancy per million,266.305
+USA,2021-08-18,Weekly new hospital admissions,83159.0
+USA,2021-08-18,Weekly new hospital admissions per million,249.79
+USA,2021-08-19,Daily ICU occupancy,23034.0
+USA,2021-08-19,Daily ICU occupancy per million,69.189
+USA,2021-08-19,Daily hospital occupancy,89427.0
+USA,2021-08-19,Daily hospital occupancy per million,268.618
+USA,2021-08-19,Weekly new hospital admissions,83966.0
+USA,2021-08-19,Weekly new hospital admissions per million,252.214
+USA,2021-08-20,Daily ICU occupancy,23399.0
+USA,2021-08-20,Daily ICU occupancy per million,70.285
+USA,2021-08-20,Daily hospital occupancy,90191.0
+USA,2021-08-20,Daily hospital occupancy per million,270.913
+USA,2021-08-20,Weekly new hospital admissions,84658.0
+USA,2021-08-20,Weekly new hospital admissions per million,254.293
+USA,2021-08-21,Daily ICU occupancy,23653.0
+USA,2021-08-21,Daily ICU occupancy per million,71.048
+USA,2021-08-21,Daily hospital occupancy,90417.0
+USA,2021-08-21,Daily hospital occupancy per million,271.592
+USA,2021-08-21,Weekly new hospital admissions,85380.0
+USA,2021-08-21,Weekly new hospital admissions per million,256.462
+USA,2021-08-22,Daily ICU occupancy,24082.0
+USA,2021-08-22,Daily ICU occupancy per million,72.337
+USA,2021-08-22,Daily hospital occupancy,92239.0
+USA,2021-08-22,Daily hospital occupancy per million,277.065
+USA,2021-08-22,Weekly new hospital admissions,86345.0
+USA,2021-08-22,Weekly new hospital admissions per million,259.36
+USA,2021-08-23,Daily ICU occupancy,24559.0
+USA,2021-08-23,Daily ICU occupancy per million,73.77
+USA,2021-08-23,Daily hospital occupancy,94682.0
+USA,2021-08-23,Daily hospital occupancy per million,284.403
+USA,2021-08-23,Weekly new hospital admissions,86825.0
+USA,2021-08-23,Weekly new hospital admissions per million,260.802
+USA,2021-08-24,Daily ICU occupancy,25053.0
+USA,2021-08-24,Daily ICU occupancy per million,75.253
+USA,2021-08-24,Daily hospital occupancy,95991.0
+USA,2021-08-24,Daily hospital occupancy per million,288.335
+USA,2021-08-24,Weekly new hospital admissions,87112.0
+USA,2021-08-24,Weekly new hospital admissions per million,261.664
+USA,2021-08-25,Daily ICU occupancy,25071.0
+USA,2021-08-25,Daily ICU occupancy per million,75.307
+USA,2021-08-25,Daily hospital occupancy,96009.0
+USA,2021-08-25,Daily hospital occupancy per million,288.389
+USA,2021-08-25,Weekly new hospital admissions,87029.0
+USA,2021-08-25,Weekly new hospital admissions per million,261.415
+USA,2021-08-26,Daily ICU occupancy,25249.0
+USA,2021-08-26,Daily ICU occupancy per million,75.842
+USA,2021-08-26,Daily hospital occupancy,96369.0
+USA,2021-08-26,Daily hospital occupancy per million,289.47
+USA,2021-08-26,Weekly new hospital admissions,87295.0
+USA,2021-08-26,Weekly new hospital admissions per million,262.214
+USA,2021-08-27,Daily ICU occupancy,25365.0
+USA,2021-08-27,Daily ICU occupancy per million,76.191
+USA,2021-08-27,Daily hospital occupancy,96192.0
+USA,2021-08-27,Daily hospital occupancy per million,288.939
+USA,2021-08-27,Weekly new hospital admissions,87433.0
+USA,2021-08-27,Weekly new hospital admissions per million,262.629
+USA,2021-08-28,Daily ICU occupancy,25435.0
+USA,2021-08-28,Daily ICU occupancy per million,76.401
+USA,2021-08-28,Daily hospital occupancy,95071.0
+USA,2021-08-28,Daily hospital occupancy per million,285.571
+USA,2021-08-28,Weekly new hospital admissions,87278.0
+USA,2021-08-28,Weekly new hospital admissions per million,262.163
+USA,2021-08-29,Daily ICU occupancy,25781.0
+USA,2021-08-29,Daily ICU occupancy per million,77.44
+USA,2021-08-29,Daily hospital occupancy,96125.0
+USA,2021-08-29,Daily hospital occupancy per million,288.737
+USA,2021-08-29,Weekly new hospital admissions,86871.0
+USA,2021-08-29,Weekly new hospital admissions per million,260.94
+USA,2021-08-30,Daily ICU occupancy,25919.0
+USA,2021-08-30,Daily ICU occupancy per million,77.855
+USA,2021-08-30,Daily hospital occupancy,97200.0
+USA,2021-08-30,Daily hospital occupancy per million,291.966
+USA,2021-08-30,Weekly new hospital admissions,86643.0
+USA,2021-08-30,Weekly new hospital admissions per million,260.256
+USA,2021-08-31,Daily ICU occupancy,25904.0
+USA,2021-08-31,Daily ICU occupancy per million,77.81
+USA,2021-08-31,Daily hospital occupancy,97820.0
+USA,2021-08-31,Daily hospital occupancy per million,293.829
+USA,2021-08-31,Weekly new hospital admissions,86487.0
+USA,2021-08-31,Weekly new hospital admissions per million,259.787
+USA,2021-09-01,Daily ICU occupancy,25973.0
+USA,2021-09-01,Daily ICU occupancy per million,78.017
+USA,2021-09-01,Daily hospital occupancy,98027.0
+USA,2021-09-01,Daily hospital occupancy per million,294.45
+USA,2021-09-01,Weekly new hospital admissions,86821.0
+USA,2021-09-01,Weekly new hospital admissions per million,260.79
+USA,2021-09-02,Daily ICU occupancy,26045.0
+USA,2021-09-02,Daily ICU occupancy per million,78.233
+USA,2021-09-02,Daily hospital occupancy,97811.0
+USA,2021-09-02,Daily hospital occupancy per million,293.802
+USA,2021-09-02,Weekly new hospital admissions,86588.0
+USA,2021-09-02,Weekly new hospital admissions per million,260.09
+USA,2021-09-03,Daily ICU occupancy,25961.0
+USA,2021-09-03,Daily ICU occupancy per million,77.981
+USA,2021-09-03,Daily hospital occupancy,96835.0
+USA,2021-09-03,Daily hospital occupancy per million,290.87
+USA,2021-09-03,Weekly new hospital admissions,85843.0
+USA,2021-09-03,Weekly new hospital admissions per million,257.853
+USA,2021-09-04,Daily ICU occupancy,25609.0
+USA,2021-09-04,Daily ICU occupancy per million,76.924
+USA,2021-09-04,Daily hospital occupancy,95082.0
+USA,2021-09-04,Daily hospital occupancy per million,285.604
+USA,2021-09-04,Weekly new hospital admissions,85692.0
+USA,2021-09-04,Weekly new hospital admissions per million,257.399
+USA,2021-09-05,Daily ICU occupancy,25630.0
+USA,2021-09-05,Daily ICU occupancy per million,76.987
+USA,2021-09-05,Daily hospital occupancy,95280.0
+USA,2021-09-05,Daily hospital occupancy per million,286.199
+USA,2021-09-05,Weekly new hospital admissions,85528.0
+USA,2021-09-05,Weekly new hospital admissions per million,256.906
+USA,2021-09-06,Daily ICU occupancy,25801.0
+USA,2021-09-06,Daily ICU occupancy per million,77.5
+USA,2021-09-06,Daily hospital occupancy,95910.0
+USA,2021-09-06,Daily hospital occupancy per million,288.091
+USA,2021-09-06,Weekly new hospital admissions,85146.0
+USA,2021-09-06,Weekly new hospital admissions per million,255.759
+USA,2021-09-07,Daily ICU occupancy,26099.0
+USA,2021-09-07,Daily ICU occupancy per million,78.395
+USA,2021-09-07,Daily hospital occupancy,96810.0
+USA,2021-09-07,Daily hospital occupancy per million,290.795
+USA,2021-09-07,Weekly new hospital admissions,83646.0
+USA,2021-09-07,Weekly new hospital admissions per million,251.253
+USA,2021-09-08,Daily ICU occupancy,26008.0
+USA,2021-09-08,Daily ICU occupancy per million,78.122
+USA,2021-09-08,Daily hospital occupancy,96525.0
+USA,2021-09-08,Daily hospital occupancy per million,289.939
+USA,2021-09-08,Weekly new hospital admissions,83020.0
+USA,2021-09-08,Weekly new hospital admissions per million,249.373
+USA,2021-09-09,Daily ICU occupancy,25925.0
+USA,2021-09-09,Daily ICU occupancy per million,77.873
+USA,2021-09-09,Daily hospital occupancy,95684.0
+USA,2021-09-09,Daily hospital occupancy per million,287.413
+USA,2021-09-09,Weekly new hospital admissions,82459.0
+USA,2021-09-09,Weekly new hospital admissions per million,247.688
+USA,2021-09-10,Daily ICU occupancy,25747.0
+USA,2021-09-10,Daily ICU occupancy per million,77.338
+USA,2021-09-10,Daily hospital occupancy,94559.0
+USA,2021-09-10,Daily hospital occupancy per million,284.033
+USA,2021-09-10,Weekly new hospital admissions,82189.0
+USA,2021-09-10,Weekly new hospital admissions per million,246.877
+USA,2021-09-11,Daily ICU occupancy,25326.0
+USA,2021-09-11,Daily ICU occupancy per million,76.073
+USA,2021-09-11,Daily hospital occupancy,91979.0
+USA,2021-09-11,Daily hospital occupancy per million,276.284
+USA,2021-09-11,Weekly new hospital admissions,81292.0
+USA,2021-09-11,Weekly new hospital admissions per million,244.182
+USA,2021-09-12,Daily ICU occupancy,25292.0
+USA,2021-09-12,Daily ICU occupancy per million,75.971
+USA,2021-09-12,Daily hospital occupancy,91541.0
+USA,2021-09-12,Daily hospital occupancy per million,274.968
+USA,2021-09-12,Weekly new hospital admissions,80344.0
+USA,2021-09-12,Weekly new hospital admissions per million,241.335
+USA,2021-09-13,Daily ICU occupancy,25514.0
+USA,2021-09-13,Daily ICU occupancy per million,76.638
+USA,2021-09-13,Daily hospital occupancy,92158.0
+USA,2021-09-13,Daily hospital occupancy per million,276.821
+USA,2021-09-13,Weekly new hospital admissions,79453.0
+USA,2021-09-13,Weekly new hospital admissions per million,238.658
+USA,2021-09-14,Daily ICU occupancy,25218.0
+USA,2021-09-14,Daily ICU occupancy per million,75.749
+USA,2021-09-14,Daily hospital occupancy,90633.0
+USA,2021-09-14,Daily hospital occupancy per million,272.241
+USA,2021-09-14,Weekly new hospital admissions,79209.0
+USA,2021-09-14,Weekly new hospital admissions per million,237.926
+USA,2021-09-15,Daily ICU occupancy,24886.0
+USA,2021-09-15,Daily ICU occupancy per million,74.752
+USA,2021-09-15,Daily hospital occupancy,89577.0
+USA,2021-09-15,Daily hospital occupancy per million,269.069
+USA,2021-09-15,Weekly new hospital admissions,77625.0
+USA,2021-09-15,Weekly new hospital admissions per million,233.168
+USA,2021-09-16,Daily ICU occupancy,24734.0
+USA,2021-09-16,Daily ICU occupancy per million,74.295
+USA,2021-09-16,Daily hospital occupancy,88250.0
+USA,2021-09-16,Daily hospital occupancy per million,265.083
+USA,2021-09-16,Weekly new hospital admissions,76228.0
+USA,2021-09-16,Weekly new hospital admissions per million,228.971
+USA,2021-09-17,Daily ICU occupancy,24435.0
+USA,2021-09-17,Daily ICU occupancy per million,73.397
+USA,2021-09-17,Daily hospital occupancy,86780.0
+USA,2021-09-17,Daily hospital occupancy per million,260.667
+USA,2021-09-17,Weekly new hospital admissions,74767.0
+USA,2021-09-17,Weekly new hospital admissions per million,224.583
+USA,2021-09-18,Daily ICU occupancy,23978.0
+USA,2021-09-18,Daily ICU occupancy per million,72.024
+USA,2021-09-18,Daily hospital occupancy,84373.0
+USA,2021-09-18,Daily hospital occupancy per million,253.437
+USA,2021-09-18,Weekly new hospital admissions,73425.0
+USA,2021-09-18,Weekly new hospital admissions per million,220.552
+USA,2021-09-19,Daily ICU occupancy,23779.0
+USA,2021-09-19,Daily ICU occupancy per million,71.427
+USA,2021-09-19,Daily hospital occupancy,83494.0
+USA,2021-09-19,Daily hospital occupancy per million,250.797
+USA,2021-09-19,Weekly new hospital admissions,72069.0
+USA,2021-09-19,Weekly new hospital admissions per million,216.479
+USA,2021-09-20,Daily ICU occupancy,23686.0
+USA,2021-09-20,Daily ICU occupancy per million,71.147
+USA,2021-09-20,Daily hospital occupancy,83675.0
+USA,2021-09-20,Daily hospital occupancy per million,251.34
+USA,2021-09-20,Weekly new hospital admissions,70596.0
+USA,2021-09-20,Weekly new hospital admissions per million,212.054
+USA,2021-09-21,Daily ICU occupancy,23536.0
+USA,2021-09-21,Daily ICU occupancy per million,70.697
+USA,2021-09-21,Daily hospital occupancy,82358.0
+USA,2021-09-21,Daily hospital occupancy per million,247.384
+USA,2021-09-21,Weekly new hospital admissions,69235.0
+USA,2021-09-21,Weekly new hospital admissions per million,207.966
+USA,2021-09-22,Daily ICU occupancy,23136.0
+USA,2021-09-22,Daily ICU occupancy per million,69.495
+USA,2021-09-22,Daily hospital occupancy,80874.0
+USA,2021-09-22,Daily hospital occupancy per million,242.927
+USA,2021-09-22,Weekly new hospital admissions,68010.0
+USA,2021-09-22,Weekly new hospital admissions per million,204.286
+USA,2021-09-23,Daily ICU occupancy,22585.0
+USA,2021-09-23,Daily ICU occupancy per million,67.84
+USA,2021-09-23,Daily hospital occupancy,79242.0
+USA,2021-09-23,Daily hospital occupancy per million,238.025
+USA,2021-09-23,Weekly new hospital admissions,66417.0
+USA,2021-09-23,Weekly new hospital admissions per million,199.501
+USA,2021-09-24,Daily ICU occupancy,22185.0
+USA,2021-09-24,Daily ICU occupancy per million,66.639
+USA,2021-09-24,Daily hospital occupancy,77387.0
+USA,2021-09-24,Daily hospital occupancy per million,232.453
+USA,2021-09-24,Weekly new hospital admissions,65041.0
+USA,2021-09-24,Weekly new hospital admissions per million,195.368
+USA,2021-09-25,Daily ICU occupancy,21727.0
+USA,2021-09-25,Daily ICU occupancy per million,65.263
+USA,2021-09-25,Daily hospital occupancy,74807.0
+USA,2021-09-25,Daily hospital occupancy per million,224.703
+USA,2021-09-25,Weekly new hospital admissions,63580.0
+USA,2021-09-25,Weekly new hospital admissions per million,190.98
+USA,2021-09-26,Daily ICU occupancy,21543.0
+USA,2021-09-26,Daily ICU occupancy per million,64.71
+USA,2021-09-26,Daily hospital occupancy,74161.0
+USA,2021-09-26,Daily hospital occupancy per million,222.763
+USA,2021-09-26,Weekly new hospital admissions,62290.0
+USA,2021-09-26,Weekly new hospital admissions per million,187.105
+USA,2021-09-27,Daily ICU occupancy,21256.0
+USA,2021-09-27,Daily ICU occupancy per million,63.848
+USA,2021-09-27,Daily hospital occupancy,73886.0
+USA,2021-09-27,Daily hospital occupancy per million,221.936
+USA,2021-09-27,Weekly new hospital admissions,60985.0
+USA,2021-09-27,Weekly new hospital admissions per million,183.185
+USA,2021-09-28,Daily ICU occupancy,20882.0
+USA,2021-09-28,Daily ICU occupancy per million,62.725
+USA,2021-09-28,Daily hospital occupancy,72525.0
+USA,2021-09-28,Daily hospital occupancy per million,217.848
+USA,2021-09-28,Weekly new hospital admissions,59737.0
+USA,2021-09-28,Weekly new hospital admissions per million,179.436
+USA,2021-09-29,Daily ICU occupancy,20406.0
+USA,2021-09-29,Daily ICU occupancy per million,61.295
+USA,2021-09-29,Daily hospital occupancy,70722.0
+USA,2021-09-29,Daily hospital occupancy per million,212.433
+USA,2021-09-29,Weekly new hospital admissions,58285.0
+USA,2021-09-29,Weekly new hospital admissions per million,175.075
+USA,2021-09-30,Daily ICU occupancy,19802.0
+USA,2021-09-30,Daily ICU occupancy per million,59.481
+USA,2021-09-30,Daily hospital occupancy,68918.0
+USA,2021-09-30,Daily hospital occupancy per million,207.014
+USA,2021-09-30,Weekly new hospital admissions,56959.0
+USA,2021-09-30,Weekly new hospital admissions per million,171.092
+USA,2021-10-01,Daily ICU occupancy,19272.0
+USA,2021-10-01,Daily ICU occupancy per million,57.889
+USA,2021-10-01,Daily hospital occupancy,67124.0
+USA,2021-10-01,Daily hospital occupancy per million,201.625
+USA,2021-10-01,Weekly new hospital admissions,55838.0
+USA,2021-10-01,Weekly new hospital admissions per million,167.724
+USA,2021-10-02,Daily ICU occupancy,18942.0
+USA,2021-10-02,Daily ICU occupancy per million,56.897
+USA,2021-10-02,Daily hospital occupancy,64834.0
+USA,2021-10-02,Daily hospital occupancy per million,194.746
+USA,2021-10-02,Weekly new hospital admissions,54719.0
+USA,2021-10-02,Weekly new hospital admissions per million,164.363
+USA,2021-10-03,Daily ICU occupancy,18770.0
+USA,2021-10-03,Daily ICU occupancy per million,56.381
+USA,2021-10-03,Daily hospital occupancy,64381.0
+USA,2021-10-03,Daily hospital occupancy per million,193.386
+USA,2021-10-03,Weekly new hospital admissions,53735.0
+USA,2021-10-03,Weekly new hospital admissions per million,161.408
+USA,2021-10-04,Daily ICU occupancy,18668.0
+USA,2021-10-04,Daily ICU occupancy per million,56.074
+USA,2021-10-04,Daily hospital occupancy,64470.0
+USA,2021-10-04,Daily hospital occupancy per million,193.653
+USA,2021-10-04,Weekly new hospital admissions,52896.0
+USA,2021-10-04,Weekly new hospital admissions per million,158.887
+USA,2021-10-05,Daily ICU occupancy,18255.0
+USA,2021-10-05,Daily ICU occupancy per million,54.834
+USA,2021-10-05,Daily hospital occupancy,63485.0
+USA,2021-10-05,Daily hospital occupancy per million,190.694
+USA,2021-10-05,Weekly new hospital admissions,51909.0
+USA,2021-10-05,Weekly new hospital admissions per million,155.923
+USA,2021-10-06,Daily ICU occupancy,17893.0
+USA,2021-10-06,Daily ICU occupancy per million,53.746
+USA,2021-10-06,Daily hospital occupancy,62310.0
+USA,2021-10-06,Daily hospital occupancy per million,187.165
+USA,2021-10-06,Weekly new hospital admissions,51321.0
+USA,2021-10-06,Weekly new hospital admissions per million,154.156
+USA,2021-10-07,Daily ICU occupancy,17482.0
+USA,2021-10-07,Daily ICU occupancy per million,52.512
+USA,2021-10-07,Daily hospital occupancy,61128.0
+USA,2021-10-07,Daily hospital occupancy per million,183.614
+USA,2021-10-07,Weekly new hospital admissions,50745.0
+USA,2021-10-07,Weekly new hospital admissions per million,152.426
+USA,2021-10-08,Daily ICU occupancy,17027.0
+USA,2021-10-08,Daily ICU occupancy per million,51.145
+USA,2021-10-08,Daily hospital occupancy,59555.0
+USA,2021-10-08,Daily hospital occupancy per million,178.889
+USA,2021-10-08,Weekly new hospital admissions,50010.0
+USA,2021-10-08,Weekly new hospital admissions per million,150.218
+USA,2021-10-09,Daily ICU occupancy,17622.0
+USA,2021-10-09,Daily ICU occupancy per million,52.932
+USA,2021-10-09,Daily hospital occupancy,57939.0
+USA,2021-10-09,Daily hospital occupancy per million,174.035
+USA,2021-10-09,Weekly new hospital admissions,49556.0
+USA,2021-10-09,Weekly new hospital admissions per million,148.855
+USA,2021-10-10,Daily ICU occupancy,18131.0
+USA,2021-10-10,Daily ICU occupancy per million,54.461
+USA,2021-10-10,Daily hospital occupancy,57495.0
+USA,2021-10-10,Daily hospital occupancy per million,172.702
+USA,2021-10-10,Weekly new hospital admissions,49129.0
+USA,2021-10-10,Weekly new hospital admissions per million,147.572
+USA,2021-10-11,Daily ICU occupancy,18096.0
+USA,2021-10-11,Daily ICU occupancy per million,54.356
+USA,2021-10-11,Daily hospital occupancy,57618.0
+USA,2021-10-11,Daily hospital occupancy per million,173.071
+USA,2021-10-11,Weekly new hospital admissions,48603.0
+USA,2021-10-11,Weekly new hospital admissions per million,145.992
+USA,2021-10-12,Daily ICU occupancy,17969.0
+USA,2021-10-12,Daily ICU occupancy per million,53.975
+USA,2021-10-12,Daily hospital occupancy,56985.0
+USA,2021-10-12,Daily hospital occupancy per million,171.17
+USA,2021-10-12,Weekly new hospital admissions,47947.0
+USA,2021-10-12,Weekly new hospital admissions per million,144.022
+USA,2021-10-13,Daily ICU occupancy,17751.0
+USA,2021-10-13,Daily ICU occupancy per million,53.32
+USA,2021-10-13,Daily hospital occupancy,55892.0
+USA,2021-10-13,Daily hospital occupancy per million,167.887
+USA,2021-10-13,Weekly new hospital admissions,47122.0
+USA,2021-10-13,Weekly new hospital admissions per million,141.544
+USA,2021-10-14,Daily ICU occupancy,17281.0
+USA,2021-10-14,Daily ICU occupancy per million,51.908
+USA,2021-10-14,Daily hospital occupancy,54564.0
+USA,2021-10-14,Daily hospital occupancy per million,163.898
+USA,2021-10-14,Weekly new hospital admissions,46289.0
+USA,2021-10-14,Weekly new hospital admissions per million,139.041
+USA,2021-10-15,Daily ICU occupancy,17015.0
+USA,2021-10-15,Daily ICU occupancy per million,51.109
+USA,2021-10-15,Daily hospital occupancy,53356.0
+USA,2021-10-15,Daily hospital occupancy per million,160.269
+USA,2021-10-15,Weekly new hospital admissions,45766.0
+USA,2021-10-15,Weekly new hospital admissions per million,137.47
+USA,2021-10-16,Daily ICU occupancy,16459.0
+USA,2021-10-16,Daily ICU occupancy per million,49.439
+USA,2021-10-16,Daily hospital occupancy,51835.0
+USA,2021-10-16,Daily hospital occupancy per million,155.7
+USA,2021-10-16,Weekly new hospital admissions,45120.0
+USA,2021-10-16,Weekly new hospital admissions per million,135.53
+USA,2021-10-17,Daily ICU occupancy,16271.0
+USA,2021-10-17,Daily ICU occupancy per million,48.874
+USA,2021-10-17,Daily hospital occupancy,51502.0
+USA,2021-10-17,Daily hospital occupancy per million,154.7
+USA,2021-10-17,Weekly new hospital admissions,44461.0
+USA,2021-10-17,Weekly new hospital admissions per million,133.551
+USA,2021-10-18,Daily ICU occupancy,16486.0
+USA,2021-10-18,Daily ICU occupancy per million,49.52
+USA,2021-10-18,Daily hospital occupancy,51723.0
+USA,2021-10-18,Daily hospital occupancy per million,155.364
+USA,2021-10-18,Weekly new hospital admissions,43839.0
+USA,2021-10-18,Weekly new hospital admissions per million,131.682
+USA,2021-10-19,Daily ICU occupancy,16269.0
+USA,2021-10-19,Daily ICU occupancy per million,48.868
+USA,2021-10-19,Daily hospital occupancy,50595.0
+USA,2021-10-19,Daily hospital occupancy per million,151.976
+USA,2021-10-19,Weekly new hospital admissions,43021.0
+USA,2021-10-19,Weekly new hospital admissions per million,129.225
+USA,2021-10-20,Daily ICU occupancy,15972.0
+USA,2021-10-20,Daily ICU occupancy per million,47.976
+USA,2021-10-20,Daily hospital occupancy,49315.0
+USA,2021-10-20,Daily hospital occupancy per million,148.131
+USA,2021-10-20,Weekly new hospital admissions,42169.0
+USA,2021-10-20,Weekly new hospital admissions per million,126.666
+USA,2021-10-21,Daily ICU occupancy,15606.0
+USA,2021-10-21,Daily ICU occupancy per million,46.877
+USA,2021-10-21,Daily hospital occupancy,48405.0
+USA,2021-10-21,Daily hospital occupancy per million,145.397
+USA,2021-10-21,Weekly new hospital admissions,41595.0
+USA,2021-10-21,Weekly new hospital admissions per million,124.942
+USA,2021-10-22,Daily ICU occupancy,15395.0
+USA,2021-10-22,Daily ICU occupancy per million,46.243
+USA,2021-10-22,Daily hospital occupancy,47452.0
+USA,2021-10-22,Daily hospital occupancy per million,142.535
+USA,2021-10-22,Weekly new hospital admissions,40788.0
+USA,2021-10-22,Weekly new hospital admissions per million,122.518
+USA,2021-10-23,Daily ICU occupancy,14962.0
+USA,2021-10-23,Daily ICU occupancy per million,44.942
+USA,2021-10-23,Daily hospital occupancy,46396.0
+USA,2021-10-23,Daily hospital occupancy per million,139.363
+USA,2021-10-23,Weekly new hospital admissions,40087.0
+USA,2021-10-23,Weekly new hospital admissions per million,120.412
+USA,2021-10-24,Daily ICU occupancy,14720.0
+USA,2021-10-24,Daily ICU occupancy per million,44.215
+USA,2021-10-24,Daily hospital occupancy,46112.0
+USA,2021-10-24,Daily hospital occupancy per million,138.51
+USA,2021-10-24,Weekly new hospital admissions,39514.0
+USA,2021-10-24,Weekly new hospital admissions per million,118.691
+USA,2021-10-25,Daily ICU occupancy,14913.0
+USA,2021-10-25,Daily ICU occupancy per million,44.795
+USA,2021-10-25,Daily hospital occupancy,46378.0
+USA,2021-10-25,Daily hospital occupancy per million,139.309
+USA,2021-10-25,Weekly new hospital admissions,39109.0
+USA,2021-10-25,Weekly new hospital admissions per million,117.474
+USA,2021-10-26,Daily ICU occupancy,14854.0
+USA,2021-10-26,Daily ICU occupancy per million,44.618
+USA,2021-10-26,Daily hospital occupancy,45821.0
+USA,2021-10-26,Daily hospital occupancy per million,137.636
+USA,2021-10-26,Weekly new hospital admissions,38501.0
+USA,2021-10-26,Weekly new hospital admissions per million,115.648
+USA,2021-10-27,Daily ICU occupancy,14704.0
+USA,2021-10-27,Daily ICU occupancy per million,44.167
+USA,2021-10-27,Daily hospital occupancy,45006.0
+USA,2021-10-27,Daily hospital occupancy per million,135.188
+USA,2021-10-27,Weekly new hospital admissions,38117.0
+USA,2021-10-27,Weekly new hospital admissions per million,114.495
+USA,2021-10-28,Daily ICU occupancy,14419.0
+USA,2021-10-28,Daily ICU occupancy per million,43.311
+USA,2021-10-28,Daily hospital occupancy,44195.0
+USA,2021-10-28,Daily hospital occupancy per million,132.752
+USA,2021-10-28,Weekly new hospital admissions,37564.0
+USA,2021-10-28,Weekly new hospital admissions per million,112.834
+USA,2021-10-29,Daily ICU occupancy,12455.0
+USA,2021-10-29,Daily ICU occupancy per million,37.412
+USA,2021-10-29,Daily hospital occupancy,43513.0
+USA,2021-10-29,Daily hospital occupancy per million,130.703
+USA,2021-10-29,Weekly new hospital admissions,37213.0
+USA,2021-10-29,Weekly new hospital admissions per million,111.779
+USA,2021-10-30,Daily ICU occupancy,12152.0
+USA,2021-10-30,Daily ICU occupancy per million,36.502
+USA,2021-10-30,Daily hospital occupancy,42764.0
+USA,2021-10-30,Daily hospital occupancy per million,128.453
+USA,2021-10-30,Weekly new hospital admissions,36951.0
+USA,2021-10-30,Weekly new hospital admissions per million,110.992
+USA,2021-10-31,Daily ICU occupancy,12092.0
+USA,2021-10-31,Daily ICU occupancy per million,36.322
+USA,2021-10-31,Daily hospital occupancy,42511.0
+USA,2021-10-31,Daily hospital occupancy per million,127.693
+USA,2021-10-31,Weekly new hospital admissions,36673.0
+USA,2021-10-31,Weekly new hospital admissions per million,110.157
+USA,2021-11-01,Daily ICU occupancy,12108.0
+USA,2021-11-01,Daily ICU occupancy per million,36.37
+USA,2021-11-01,Daily hospital occupancy,42623.0
+USA,2021-11-01,Daily hospital occupancy per million,128.03
+USA,2021-11-01,Weekly new hospital admissions,36143.0
+USA,2021-11-01,Weekly new hospital admissions per million,108.565
+USA,2021-11-02,Daily ICU occupancy,11947.0
+USA,2021-11-02,Daily ICU occupancy per million,35.886
+USA,2021-11-02,Daily hospital occupancy,42290.0
+USA,2021-11-02,Daily hospital occupancy per million,127.029
+USA,2021-11-02,Weekly new hospital admissions,36058.0
+USA,2021-11-02,Weekly new hospital admissions per million,108.31
+USA,2021-11-03,Daily ICU occupancy,11767.0
+USA,2021-11-03,Daily ICU occupancy per million,35.345
+USA,2021-11-03,Daily hospital occupancy,41982.0
+USA,2021-11-03,Daily hospital occupancy per million,126.104
+USA,2021-11-03,Weekly new hospital admissions,35886.0
+USA,2021-11-03,Weekly new hospital admissions per million,107.793
+USA,2021-11-04,Daily ICU occupancy,11555.0
+USA,2021-11-04,Daily ICU occupancy per million,34.709
+USA,2021-11-04,Daily hospital occupancy,41356.0
+USA,2021-11-04,Daily hospital occupancy per million,124.224
+USA,2021-11-04,Weekly new hospital admissions,35754.0
+USA,2021-11-04,Weekly new hospital admissions per million,107.397
+USA,2021-11-05,Daily ICU occupancy,11341.0
+USA,2021-11-05,Daily ICU occupancy per million,34.066
+USA,2021-11-05,Daily hospital occupancy,40944.0
+USA,2021-11-05,Daily hospital occupancy per million,122.986
+USA,2021-11-05,Weekly new hospital admissions,35648.0
+USA,2021-11-05,Weekly new hospital admissions per million,107.078
+USA,2021-11-06,Daily ICU occupancy,11231.0
+USA,2021-11-06,Daily ICU occupancy per million,33.735
+USA,2021-11-06,Daily hospital occupancy,40175.0
+USA,2021-11-06,Daily hospital occupancy per million,120.676
+USA,2021-11-06,Weekly new hospital admissions,35537.0
+USA,2021-11-06,Weekly new hospital admissions per million,106.745
+USA,2021-11-07,Daily ICU occupancy,11210.0
+USA,2021-11-07,Daily ICU occupancy per million,33.672
+USA,2021-11-07,Daily hospital occupancy,40471.0
+USA,2021-11-07,Daily hospital occupancy per million,121.566
+USA,2021-11-07,Weekly new hospital admissions,35715.0
+USA,2021-11-07,Weekly new hospital admissions per million,107.28
+USA,2021-11-08,Daily ICU occupancy,11332.0
+USA,2021-11-08,Daily ICU occupancy per million,34.039
+USA,2021-11-08,Daily hospital occupancy,41348.0
+USA,2021-11-08,Daily hospital occupancy per million,124.2
+USA,2021-11-08,Weekly new hospital admissions,36202.0
+USA,2021-11-08,Weekly new hospital admissions per million,108.742
+USA,2021-11-09,Daily ICU occupancy,11356.0
+USA,2021-11-09,Daily ICU occupancy per million,34.111
+USA,2021-11-09,Daily hospital occupancy,41730.0
+USA,2021-11-09,Daily hospital occupancy per million,125.347
+USA,2021-11-09,Weekly new hospital admissions,36543.0
+USA,2021-11-09,Weekly new hospital admissions per million,109.767
+USA,2021-11-10,Daily ICU occupancy,11289.0
+USA,2021-11-10,Daily ICU occupancy per million,33.91
+USA,2021-11-10,Daily hospital occupancy,41810.0
+USA,2021-11-10,Daily hospital occupancy per million,125.588
+USA,2021-11-10,Weekly new hospital admissions,36751.0
+USA,2021-11-10,Weekly new hospital admissions per million,110.392
+USA,2021-11-11,Daily ICU occupancy,11280.0
+USA,2021-11-11,Daily ICU occupancy per million,33.883
+USA,2021-11-11,Daily hospital occupancy,41717.0
+USA,2021-11-11,Daily hospital occupancy per million,125.308
+USA,2021-11-11,Weekly new hospital admissions,37030.0
+USA,2021-11-11,Weekly new hospital admissions per million,111.23
+USA,2021-11-12,Daily ICU occupancy,11271.0
+USA,2021-11-12,Daily ICU occupancy per million,33.855
+USA,2021-11-12,Daily hospital occupancy,41632.0
+USA,2021-11-12,Daily hospital occupancy per million,125.053
+USA,2021-11-12,Weekly new hospital admissions,37331.0
+USA,2021-11-12,Weekly new hospital admissions per million,112.134
+USA,2021-11-13,Daily ICU occupancy,11296.0
+USA,2021-11-13,Daily ICU occupancy per million,33.931
+USA,2021-11-13,Daily hospital occupancy,41371.0
+USA,2021-11-13,Daily hospital occupancy per million,124.269
+USA,2021-11-13,Weekly new hospital admissions,37795.0
+USA,2021-11-13,Weekly new hospital admissions per million,113.527
+USA,2021-11-14,Daily ICU occupancy,11264.0
+USA,2021-11-14,Daily ICU occupancy per million,33.834
+USA,2021-11-14,Daily hospital occupancy,41871.0
+USA,2021-11-14,Daily hospital occupancy per million,125.771
+USA,2021-11-14,Weekly new hospital admissions,38105.0
+USA,2021-11-14,Weekly new hospital admissions per million,114.459
+USA,2021-11-15,Daily ICU occupancy,11534.0
+USA,2021-11-15,Daily ICU occupancy per million,34.645
+USA,2021-11-15,Daily hospital occupancy,43285.0
+USA,2021-11-15,Daily hospital occupancy per million,130.018
+USA,2021-11-15,Weekly new hospital admissions,38431.0
+USA,2021-11-15,Weekly new hospital admissions per million,115.438
+USA,2021-11-16,Daily ICU occupancy,11600.0
+USA,2021-11-16,Daily ICU occupancy per million,34.844
+USA,2021-11-16,Daily hospital occupancy,44009.0
+USA,2021-11-16,Daily hospital occupancy per million,132.193
+USA,2021-11-16,Weekly new hospital admissions,39084.0
+USA,2021-11-16,Weekly new hospital admissions per million,117.399
+USA,2021-11-17,Daily ICU occupancy,11665.0
+USA,2021-11-17,Daily ICU occupancy per million,35.039
+USA,2021-11-17,Daily hospital occupancy,44369.0
+USA,2021-11-17,Daily hospital occupancy per million,133.274
+USA,2021-11-17,Weekly new hospital admissions,39749.0
+USA,2021-11-17,Weekly new hospital admissions per million,119.397
+USA,2021-11-18,Daily ICU occupancy,11792.0
+USA,2021-11-18,Daily ICU occupancy per million,35.42
+USA,2021-11-18,Daily hospital occupancy,45095.0
+USA,2021-11-18,Daily hospital occupancy per million,135.455
+USA,2021-11-18,Weekly new hospital admissions,40608.0
+USA,2021-11-18,Weekly new hospital admissions per million,121.977
+USA,2021-11-19,Daily ICU occupancy,11823.0
+USA,2021-11-19,Daily ICU occupancy per million,35.514
+USA,2021-11-19,Daily hospital occupancy,45157.0
+USA,2021-11-19,Daily hospital occupancy per million,135.641
+USA,2021-11-19,Weekly new hospital admissions,41013.0
+USA,2021-11-19,Weekly new hospital admissions per million,123.194
+USA,2021-11-20,Daily ICU occupancy,11785.0
+USA,2021-11-20,Daily ICU occupancy per million,35.399
+USA,2021-11-20,Daily hospital occupancy,44825.0
+USA,2021-11-20,Daily hospital occupancy per million,134.644
+USA,2021-11-20,Weekly new hospital admissions,41397.0
+USA,2021-11-20,Weekly new hospital admissions per million,124.347
+USA,2021-11-21,Daily ICU occupancy,11973.0
+USA,2021-11-21,Daily ICU occupancy per million,35.964
+USA,2021-11-21,Daily hospital occupancy,45373.0
+USA,2021-11-21,Daily hospital occupancy per million,136.29
+USA,2021-11-21,Weekly new hospital admissions,41824.0
+USA,2021-11-21,Weekly new hospital admissions per million,125.63
+USA,2021-11-22,Daily ICU occupancy,12296.0
+USA,2021-11-22,Daily ICU occupancy per million,36.934
+USA,2021-11-22,Daily hospital occupancy,46834.0
+USA,2021-11-22,Daily hospital occupancy per million,140.679
+USA,2021-11-22,Weekly new hospital admissions,42572.0
+USA,2021-11-22,Weekly new hospital admissions per million,127.876
+USA,2021-11-23,Daily ICU occupancy,12329.0
+USA,2021-11-23,Daily ICU occupancy per million,37.033
+USA,2021-11-23,Daily hospital occupancy,47702.0
+USA,2021-11-23,Daily hospital occupancy per million,143.286
+USA,2021-11-23,Weekly new hospital admissions,43166.0
+USA,2021-11-23,Weekly new hospital admissions per million,129.661
+USA,2021-11-24,Daily ICU occupancy,12311.0
+USA,2021-11-24,Daily ICU occupancy per million,36.979
+USA,2021-11-24,Daily hospital occupancy,47460.0
+USA,2021-11-24,Daily hospital occupancy per million,142.559
+USA,2021-11-24,Weekly new hospital admissions,43623.0
+USA,2021-11-24,Weekly new hospital admissions per million,131.033
+USA,2021-11-25,Daily ICU occupancy,12577.0
+USA,2021-11-25,Daily ICU occupancy per million,37.778
+USA,2021-11-25,Daily hospital occupancy,47600.0
+USA,2021-11-25,Daily hospital occupancy per million,142.979
+USA,2021-11-25,Weekly new hospital admissions,43728.0
+USA,2021-11-25,Weekly new hospital admissions per million,131.349
+USA,2021-11-26,Daily ICU occupancy,12759.0
+USA,2021-11-26,Daily ICU occupancy per million,38.325
+USA,2021-11-26,Daily hospital occupancy,48487.0
+USA,2021-11-26,Daily hospital occupancy per million,145.644
+USA,2021-11-26,Weekly new hospital admissions,43457.0
+USA,2021-11-26,Weekly new hospital admissions per million,130.535
+USA,2021-11-27,Daily ICU occupancy,12954.0
+USA,2021-11-27,Daily ICU occupancy per million,38.911
+USA,2021-11-27,Daily hospital occupancy,49367.0
+USA,2021-11-27,Daily hospital occupancy per million,148.287
+USA,2021-11-27,Weekly new hospital admissions,44282.0
+USA,2021-11-27,Weekly new hospital admissions per million,133.013
+USA,2021-11-28,Daily ICU occupancy,13210.0
+USA,2021-11-28,Daily ICU occupancy per million,39.68
+USA,2021-11-28,Daily hospital occupancy,50463.0
+USA,2021-11-28,Daily hospital occupancy per million,151.579
+USA,2021-11-28,Weekly new hospital admissions,44930.0
+USA,2021-11-28,Weekly new hospital admissions per million,134.959
+USA,2021-11-29,Daily ICU occupancy,13379.0
+USA,2021-11-29,Daily ICU occupancy per million,40.187
+USA,2021-11-29,Daily hospital occupancy,51812.0
+USA,2021-11-29,Daily hospital occupancy per million,155.631
+USA,2021-11-29,Weekly new hospital admissions,45469.0
+USA,2021-11-29,Weekly new hospital admissions per million,136.578
+USA,2021-11-30,Daily ICU occupancy,13545.0
+USA,2021-11-30,Daily ICU occupancy per million,40.686
+USA,2021-11-30,Daily hospital occupancy,52643.0
+USA,2021-11-30,Daily hospital occupancy per million,158.127
+USA,2021-11-30,Weekly new hospital admissions,46030.0
+USA,2021-11-30,Weekly new hospital admissions per million,138.263
+USA,2021-12-01,Daily ICU occupancy,13671.0
+USA,2021-12-01,Daily ICU occupancy per million,41.065
+USA,2021-12-01,Daily hospital occupancy,53310.0
+USA,2021-12-01,Daily hospital occupancy per million,160.131
+USA,2021-12-01,Weekly new hospital admissions,46868.0
+USA,2021-12-01,Weekly new hospital admissions per million,140.781
+USA,2021-12-02,Daily ICU occupancy,13772.0
+USA,2021-12-02,Daily ICU occupancy per million,41.368
+USA,2021-12-02,Daily hospital occupancy,53586.0
+USA,2021-12-02,Daily hospital occupancy per million,160.96
+USA,2021-12-02,Weekly new hospital admissions,47738.0
+USA,2021-12-02,Weekly new hospital admissions per million,143.394
+USA,2021-12-03,Daily ICU occupancy,13888.0
+USA,2021-12-03,Daily ICU occupancy per million,41.716
+USA,2021-12-03,Daily hospital occupancy,54392.0
+USA,2021-12-03,Daily hospital occupancy per million,163.381
+USA,2021-12-03,Weekly new hospital admissions,49872.0
+USA,2021-12-03,Weekly new hospital admissions per million,149.804
+USA,2021-12-04,Daily ICU occupancy,13942.0
+USA,2021-12-04,Daily ICU occupancy per million,41.879
+USA,2021-12-04,Daily hospital occupancy,54572.0
+USA,2021-12-04,Daily hospital occupancy per million,163.922
+USA,2021-12-04,Weekly new hospital admissions,50698.0
+USA,2021-12-04,Weekly new hospital admissions per million,152.285
+USA,2021-12-05,Daily ICU occupancy,14149.0
+USA,2021-12-05,Daily ICU occupancy per million,42.5
+USA,2021-12-05,Daily hospital occupancy,55670.0
+USA,2021-12-05,Daily hospital occupancy per million,167.22
+USA,2021-12-05,Weekly new hospital admissions,51484.0
+USA,2021-12-05,Weekly new hospital admissions per million,154.646
+USA,2021-12-06,Daily ICU occupancy,14455.0
+USA,2021-12-06,Daily ICU occupancy per million,43.419
+USA,2021-12-06,Daily hospital occupancy,57447.0
+USA,2021-12-06,Daily hospital occupancy per million,172.558
+USA,2021-12-06,Weekly new hospital admissions,52089.0
+USA,2021-12-06,Weekly new hospital admissions per million,156.463
+USA,2021-12-07,Daily ICU occupancy,14771.0
+USA,2021-12-07,Daily ICU occupancy per million,44.369
+USA,2021-12-07,Daily hospital occupancy,58938.0
+USA,2021-12-07,Daily hospital occupancy per million,177.036
+USA,2021-12-07,Weekly new hospital admissions,53087.0
+USA,2021-12-07,Weekly new hospital admissions per million,159.461
+USA,2021-12-08,Daily ICU occupancy,14901.0
+USA,2021-12-08,Daily ICU occupancy per million,44.759
+USA,2021-12-08,Daily hospital occupancy,59721.0
+USA,2021-12-08,Daily hospital occupancy per million,179.388
+USA,2021-12-08,Weekly new hospital admissions,53951.0
+USA,2021-12-08,Weekly new hospital admissions per million,162.056
+USA,2021-12-09,Daily ICU occupancy,14992.0
+USA,2021-12-09,Daily ICU occupancy per million,45.033
+USA,2021-12-09,Daily hospital occupancy,60371.0
+USA,2021-12-09,Daily hospital occupancy per million,181.341
+USA,2021-12-09,Weekly new hospital admissions,55027.0
+USA,2021-12-09,Weekly new hospital admissions per million,165.288
+USA,2021-12-10,Daily ICU occupancy,15236.0
+USA,2021-12-10,Daily ICU occupancy per million,45.765
+USA,2021-12-10,Daily hospital occupancy,61162.0
+USA,2021-12-10,Daily hospital occupancy per million,183.717
+USA,2021-12-10,Weekly new hospital admissions,55594.0
+USA,2021-12-10,Weekly new hospital admissions per million,166.992
+USA,2021-12-11,Daily ICU occupancy,15326.0
+USA,2021-12-11,Daily ICU occupancy per million,46.036
+USA,2021-12-11,Daily hospital occupancy,60921.0
+USA,2021-12-11,Daily hospital occupancy per million,182.993
+USA,2021-12-11,Weekly new hospital admissions,56031.0
+USA,2021-12-11,Weekly new hospital admissions per million,168.304
+USA,2021-12-12,Daily ICU occupancy,15595.0
+USA,2021-12-12,Daily ICU occupancy per million,46.844
+USA,2021-12-12,Daily hospital occupancy,61722.0
+USA,2021-12-12,Daily hospital occupancy per million,185.399
+USA,2021-12-12,Weekly new hospital admissions,56479.0
+USA,2021-12-12,Weekly new hospital admissions per million,169.65
+USA,2021-12-13,Daily ICU occupancy,15914.0
+USA,2021-12-13,Daily ICU occupancy per million,47.802
+USA,2021-12-13,Daily hospital occupancy,63084.0
+USA,2021-12-13,Daily hospital occupancy per million,189.49
+USA,2021-12-13,Weekly new hospital admissions,56357.0
+USA,2021-12-13,Weekly new hospital admissions per million,169.283
+USA,2021-12-14,Daily ICU occupancy,15993.0
+USA,2021-12-14,Daily ICU occupancy per million,48.039
+USA,2021-12-14,Daily hospital occupancy,63244.0
+USA,2021-12-14,Daily hospital occupancy per million,189.97
+USA,2021-12-14,Weekly new hospital admissions,56098.0
+USA,2021-12-14,Weekly new hospital admissions per million,168.505
+USA,2021-12-15,Daily ICU occupancy,15896.0
+USA,2021-12-15,Daily ICU occupancy per million,47.748
+USA,2021-12-15,Daily hospital occupancy,63229.0
+USA,2021-12-15,Daily hospital occupancy per million,189.925
+USA,2021-12-15,Weekly new hospital admissions,55966.0
+USA,2021-12-15,Weekly new hospital admissions per million,168.109
+USA,2021-12-16,Daily ICU occupancy,15909.0
+USA,2021-12-16,Daily ICU occupancy per million,47.787
+USA,2021-12-16,Daily hospital occupancy,63105.0
+USA,2021-12-16,Daily hospital occupancy per million,189.553
+USA,2021-12-16,Weekly new hospital admissions,55785.0
+USA,2021-12-16,Weekly new hospital admissions per million,167.565
+USA,2021-12-17,Daily ICU occupancy,15941.0
+USA,2021-12-17,Daily ICU occupancy per million,47.883
+USA,2021-12-17,Daily hospital occupancy,63090.0
+USA,2021-12-17,Daily hospital occupancy per million,189.508
+USA,2021-12-17,Weekly new hospital admissions,55751.0
+USA,2021-12-17,Weekly new hospital admissions per million,167.463
+USA,2021-12-18,Daily ICU occupancy,15906.0
+USA,2021-12-18,Daily ICU occupancy per million,47.778
+USA,2021-12-18,Daily hospital occupancy,62004.0
+USA,2021-12-18,Daily hospital occupancy per million,186.246
+USA,2021-12-18,Weekly new hospital admissions,55741.0
+USA,2021-12-18,Weekly new hospital admissions per million,167.433
+USA,2021-12-19,Daily ICU occupancy,15983.0
+USA,2021-12-19,Daily ICU occupancy per million,48.009
+USA,2021-12-19,Daily hospital occupancy,62545.0
+USA,2021-12-19,Daily hospital occupancy per million,187.871
+USA,2021-12-19,Weekly new hospital admissions,55800.0
+USA,2021-12-19,Weekly new hospital admissions per million,167.61
+USA,2021-12-20,Daily ICU occupancy,16210.0
+USA,2021-12-20,Daily ICU occupancy per million,48.691
+USA,2021-12-20,Daily hospital occupancy,63764.0
+USA,2021-12-20,Daily hospital occupancy per million,191.532
+USA,2021-12-20,Weekly new hospital admissions,56371.0
+USA,2021-12-20,Weekly new hospital admissions per million,169.325
+USA,2021-12-21,Daily ICU occupancy,16148.0
+USA,2021-12-21,Daily ICU occupancy per million,48.505
+USA,2021-12-21,Daily hospital occupancy,64086.0
+USA,2021-12-21,Daily hospital occupancy per million,192.5
+USA,2021-12-21,Weekly new hospital admissions,57102.0
+USA,2021-12-21,Weekly new hospital admissions per million,171.521
+USA,2021-12-22,Daily ICU occupancy,16251.0
+USA,2021-12-22,Daily ICU occupancy per million,48.814
+USA,2021-12-22,Daily hospital occupancy,65048.0
+USA,2021-12-22,Daily hospital occupancy per million,195.389
+USA,2021-12-22,Weekly new hospital admissions,58168.0
+USA,2021-12-22,Weekly new hospital admissions per million,174.723
+USA,2021-12-23,Daily ICU occupancy,16187.0
+USA,2021-12-23,Daily ICU occupancy per million,48.622
+USA,2021-12-23,Daily hospital occupancy,65661.0
+USA,2021-12-23,Daily hospital occupancy per million,197.23
+USA,2021-12-23,Weekly new hospital admissions,59667.0
+USA,2021-12-23,Weekly new hospital admissions per million,179.226
+USA,2021-12-24,Daily ICU occupancy,16240.0
+USA,2021-12-24,Daily ICU occupancy per million,48.781
+USA,2021-12-24,Daily hospital occupancy,65821.0
+USA,2021-12-24,Daily hospital occupancy per million,197.711
+USA,2021-12-24,Weekly new hospital admissions,61005.0
+USA,2021-12-24,Weekly new hospital admissions per million,183.245
+USA,2021-12-25,Daily ICU occupancy,16356.0
+USA,2021-12-25,Daily ICU occupancy per million,49.13
+USA,2021-12-25,Daily hospital occupancy,66446.0
+USA,2021-12-25,Daily hospital occupancy per million,199.588
+USA,2021-12-25,Weekly new hospital admissions,62249.0
+USA,2021-12-25,Weekly new hospital admissions per million,186.982
+USA,2021-12-26,Daily ICU occupancy,16590.0
+USA,2021-12-26,Daily ICU occupancy per million,49.833
+USA,2021-12-26,Daily hospital occupancy,69732.0
+USA,2021-12-26,Daily hospital occupancy per million,209.459
+USA,2021-12-26,Weekly new hospital admissions,64544.0
+USA,2021-12-26,Weekly new hospital admissions per million,193.875
+USA,2021-12-27,Daily ICU occupancy,17075.0
+USA,2021-12-27,Daily ICU occupancy per million,51.289
+USA,2021-12-27,Daily hospital occupancy,74692.0
+USA,2021-12-27,Daily hospital occupancy per million,224.358
+USA,2021-12-27,Weekly new hospital admissions,67971.0
+USA,2021-12-27,Weekly new hospital admissions per million,204.169
+USA,2021-12-28,Daily ICU occupancy,17274.0
+USA,2021-12-28,Daily ICU occupancy per million,51.887
+USA,2021-12-28,Daily hospital occupancy,79671.0
+USA,2021-12-28,Daily hospital occupancy per million,239.313
+USA,2021-12-28,Weekly new hospital admissions,73009.0
+USA,2021-12-28,Weekly new hospital admissions per million,219.302
+USA,2021-12-29,Daily ICU occupancy,17830.0
+USA,2021-12-29,Daily ICU occupancy per million,53.557
+USA,2021-12-29,Daily hospital occupancy,85514.0
+USA,2021-12-29,Daily hospital occupancy per million,256.864
+USA,2021-12-29,Weekly new hospital admissions,79214.0
+USA,2021-12-29,Weekly new hospital admissions per million,237.941
+USA,2021-12-30,Daily ICU occupancy,18158.0
+USA,2021-12-30,Daily ICU occupancy per million,54.542
+USA,2021-12-30,Daily hospital occupancy,89961.0
+USA,2021-12-30,Daily hospital occupancy per million,270.222
+USA,2021-12-30,Weekly new hospital admissions,85630.0
+USA,2021-12-30,Weekly new hospital admissions per million,257.213
+USA,2021-12-31,Daily ICU occupancy,18382.0
+USA,2021-12-31,Daily ICU occupancy per million,55.215
+USA,2021-12-31,Daily hospital occupancy,93776.0
+USA,2021-12-31,Daily hospital occupancy per million,281.681
+USA,2021-12-31,Weekly new hospital admissions,92750.0
+USA,2021-12-31,Weekly new hospital admissions per million,278.6
+USA,2022-01-01,Daily ICU occupancy,18863.0
+USA,2022-01-01,Daily ICU occupancy per million,56.66
+USA,2022-01-01,Daily hospital occupancy,96560.0
+USA,2022-01-01,Daily hospital occupancy per million,290.044
+USA,2022-01-01,Weekly new hospital admissions,99365.0
+USA,2022-01-01,Weekly new hospital admissions per million,298.47
+USA,2022-01-02,Daily ICU occupancy,19606.0
+USA,2022-01-02,Daily ICU occupancy per million,58.892
+USA,2022-01-02,Daily hospital occupancy,102693.0
+USA,2022-01-02,Daily hospital occupancy per million,308.466
+USA,2022-01-02,Weekly new hospital admissions,105790.0
+USA,2022-01-02,Weekly new hospital admissions per million,317.769
+USA,2022-01-03,Daily ICU occupancy,20341.0
+USA,2022-01-03,Daily ICU occupancy per million,61.1
+USA,2022-01-03,Daily hospital occupancy,108762.0
+USA,2022-01-03,Daily hospital occupancy per million,326.696
+USA,2022-01-03,Weekly new hospital admissions,111712.0
+USA,2022-01-03,Weekly new hospital admissions per million,335.557
+USA,2022-01-04,Daily ICU occupancy,21040.0
+USA,2022-01-04,Daily ICU occupancy per million,63.199
+USA,2022-01-04,Daily hospital occupancy,114846.0
+USA,2022-01-04,Daily hospital occupancy per million,344.971
+USA,2022-01-04,Weekly new hospital admissions,117382.0
+USA,2022-01-04,Weekly new hospital admissions per million,352.588
+USA,2022-01-05,Daily ICU occupancy,21532.0
+USA,2022-01-05,Daily ICU occupancy per million,64.677
+USA,2022-01-05,Daily hospital occupancy,121461.0
+USA,2022-01-05,Daily hospital occupancy per million,364.841
+USA,2022-01-05,Weekly new hospital admissions,123019.0
+USA,2022-01-05,Weekly new hospital admissions per million,369.521
+USA,2022-01-06,Daily ICU occupancy,22134.0
+USA,2022-01-06,Daily ICU occupancy per million,66.485
+USA,2022-01-06,Daily hospital occupancy,126976.0
+USA,2022-01-06,Daily hospital occupancy per million,381.407
+USA,2022-01-06,Weekly new hospital admissions,128417.0
+USA,2022-01-06,Weekly new hospital admissions per million,385.735
+USA,2022-01-07,Daily ICU occupancy,22862.0
+USA,2022-01-07,Daily ICU occupancy per million,68.672
+USA,2022-01-07,Daily hospital occupancy,131859.0
+USA,2022-01-07,Daily hospital occupancy per million,396.074
+USA,2022-01-07,Weekly new hospital admissions,133534.0
+USA,2022-01-07,Weekly new hospital admissions per million,401.105
+USA,2022-01-08,Daily ICU occupancy,23150.0
+USA,2022-01-08,Daily ICU occupancy per million,69.537
+USA,2022-01-08,Daily hospital occupancy,133590.0
+USA,2022-01-08,Daily hospital occupancy per million,401.274
+USA,2022-01-08,Weekly new hospital admissions,138955.0
+USA,2022-01-08,Weekly new hospital admissions per million,417.389
+USA,2022-01-09,Daily ICU occupancy,23800.0
+USA,2022-01-09,Daily ICU occupancy per million,71.49
+USA,2022-01-09,Daily hospital occupancy,137265.0
+USA,2022-01-09,Daily hospital occupancy per million,412.312
+USA,2022-01-09,Weekly new hospital admissions,142288.0
+USA,2022-01-09,Weekly new hospital admissions per million,427.4
+USA,2022-01-10,Daily ICU occupancy,24487.0
+USA,2022-01-10,Daily ICU occupancy per million,73.553
+USA,2022-01-10,Daily hospital occupancy,142248.0
+USA,2022-01-10,Daily hospital occupancy per million,427.28
+USA,2022-01-10,Weekly new hospital admissions,145100.0
+USA,2022-01-10,Weekly new hospital admissions per million,435.847
+USA,2022-01-11,Daily ICU occupancy,25081.0
+USA,2022-01-11,Daily ICU occupancy per million,75.338
+USA,2022-01-11,Daily hospital occupancy,145822.0
+USA,2022-01-11,Daily hospital occupancy per million,438.016
+USA,2022-01-11,Weekly new hospital admissions,147899.0
+USA,2022-01-11,Weekly new hospital admissions per million,444.254
+USA,2022-01-12,Daily ICU occupancy,25335.0
+USA,2022-01-12,Daily ICU occupancy per million,76.1
+USA,2022-01-12,Daily hospital occupancy,149671.0
+USA,2022-01-12,Daily hospital occupancy per million,449.577
+USA,2022-01-12,Weekly new hospital admissions,150316.0
+USA,2022-01-12,Weekly new hospital admissions per million,451.515
+USA,2022-01-13,Daily ICU occupancy,25565.0
+USA,2022-01-13,Daily ICU occupancy per million,76.791
+USA,2022-01-13,Daily hospital occupancy,151010.0
+USA,2022-01-13,Daily hospital occupancy per million,453.599
+USA,2022-01-13,Weekly new hospital admissions,151816.0
+USA,2022-01-13,Weekly new hospital admissions per million,456.02
+USA,2022-01-14,Daily ICU occupancy,25729.0
+USA,2022-01-14,Daily ICU occupancy per million,77.284
+USA,2022-01-14,Daily hospital occupancy,152056.0
+USA,2022-01-14,Daily hospital occupancy per million,456.741
+USA,2022-01-14,Weekly new hospital admissions,153428.0
+USA,2022-01-14,Weekly new hospital admissions per million,460.862
+USA,2022-01-15,Daily ICU occupancy,25801.0
+USA,2022-01-15,Daily ICU occupancy per million,77.5
+USA,2022-01-15,Daily hospital occupancy,149501.0
+USA,2022-01-15,Daily hospital occupancy per million,449.066
+USA,2022-01-15,Weekly new hospital admissions,154577.0
+USA,2022-01-15,Weekly new hospital admissions per million,464.314
+USA,2022-01-16,Daily ICU occupancy,25877.0
+USA,2022-01-16,Daily ICU occupancy per million,77.729
+USA,2022-01-16,Daily hospital occupancy,150165.0
+USA,2022-01-16,Daily hospital occupancy per million,451.061
+USA,2022-01-16,Weekly new hospital admissions,154145.0
+USA,2022-01-16,Weekly new hospital admissions per million,463.016
+USA,2022-01-17,Daily ICU occupancy,26080.0
+USA,2022-01-17,Daily ICU occupancy per million,78.338
+USA,2022-01-17,Daily hospital occupancy,150980.0
+USA,2022-01-17,Daily hospital occupancy per million,453.509
+USA,2022-01-17,Weekly new hospital admissions,152665.0
+USA,2022-01-17,Weekly new hospital admissions per million,458.57
+USA,2022-01-18,Daily ICU occupancy,26363.0
+USA,2022-01-18,Daily ICU occupancy per million,79.188
+USA,2022-01-18,Daily hospital occupancy,153176.0
+USA,2022-01-18,Daily hospital occupancy per million,460.105
+USA,2022-01-18,Weekly new hospital admissions,151971.0
+USA,2022-01-18,Weekly new hospital admissions per million,456.486
+USA,2022-01-19,Daily ICU occupancy,26437.0
+USA,2022-01-19,Daily ICU occupancy per million,79.411
+USA,2022-01-19,Daily hospital occupancy,154306.0
+USA,2022-01-19,Daily hospital occupancy per million,463.5
+USA,2022-01-19,Weekly new hospital admissions,151023.0
+USA,2022-01-19,Weekly new hospital admissions per million,453.638
+USA,2022-01-20,Daily ICU occupancy,26239.0
+USA,2022-01-20,Daily ICU occupancy per million,78.816
+USA,2022-01-20,Daily hospital occupancy,152629.0
+USA,2022-01-20,Daily hospital occupancy per million,458.462
+USA,2022-01-20,Weekly new hospital admissions,150000.0
+USA,2022-01-20,Weekly new hospital admissions per million,450.565
+USA,2022-01-21,Daily ICU occupancy,26035.0
+USA,2022-01-21,Daily ICU occupancy per million,78.203
+USA,2022-01-21,Daily hospital occupancy,150269.0
+USA,2022-01-21,Daily hospital occupancy per million,451.373
+USA,2022-01-21,Weekly new hospital admissions,148130.0
+USA,2022-01-21,Weekly new hospital admissions per million,444.948
