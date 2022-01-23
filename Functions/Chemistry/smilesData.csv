@@ -1,0 +1,13 @@
+MolName,SMILES,Class
+nicodozole,COC(=O)NC1=NC2=CC=C(C(=O)C3=CC=CS3)C=C2N1
+benzene,c1ccccc1
+glycine,NCC(=O)O,Amino Acids
+tyrosine,NC(c1ccc(O)cc1)C(=O)O,Amino Acids
+alanine,NC(C)C(=O)O,Amino Acids
+GWA,NCC(=O)ONC(c1ccc(O)cc1)C(=O)ONC(C)C(=O)O
+acetone,CC(=O)C
+octane,CCCCCCCC
+isopropanol,CC(O)C
+1-butene,C=CCC
+tetrachloromethane,C(Cl)(Cl)(Cl)(Cl)
+
