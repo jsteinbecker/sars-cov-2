@@ -14,4 +14,4 @@ def vmol (mol_name):
    return Draw.MolToImage(mol).show() 
 
 
-vmol("isopropanol")
+vmol("tetrachloromethane")
