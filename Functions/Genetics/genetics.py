@@ -67,6 +67,78 @@ def rolig () -> str:
    length = int(input("Length (#bp): "))
    return randomOligo(length)
 
+def randomOligoSet (length:int, qty:int):
+   """
+   FUNCTION: Generate set of oligos 
+   of specified quantity and length
+   """
+
+   seqs = []
+   for x in range(qty):
+      x = randomOligo(length)
+      seqs.append(x)
+      
+   return seqs
+def roligs () -> list:
+   length = int(input("Length (#bp): "))
+   qty = int(input("Quantity: "))
+   return randomOligoSet(length, qty)
+
+def reverseSequence (seq: str):
+   revs = seq[::-1]
+   return revs
+
+def mutate (seq,risk):
+   mute = ""
+   for x in seq:
+      r = risk * 0.75
+      score = random.random()
+      if score < r:
+         nt = 'acgt'
+         nb = nt[random.randint(0,3)]
+         mute += nb
+      else: 
+         mute += x
+   return mute
+
+class dnaseq (): 
+
+   def __init__ (self, sequence: str):
+      allowed = 'aAcCgGtTnNxXyY '
+      self.seq = sequence
+      self.rev = self.seq[::-1]
+
+      def complement (seq):
+         nt = 'acgtn'
+         ntc = 'tgcan'
+         compl = ""
+         for b in seq:
+            cid = nt.index(b)
+            c = ntc[cid]
+            compl += c
+         return compl
+      self.comp = complement(self.seq)
+
+      self.len = len(self.seq)
+      self.a = self.seq.count("a")
+      self.c = self.seq.count("c")
+      self.g = self.seq.count("g")
+      self.t = self.seq.count("t")
+      self.pur = self.a + self.g
+      self.pyr = self.c + self.t
+      self.gc = (self.g + self.c) / self.len
+
+      def hydrogenbonds(seq):
+         hb = 0
+         for x in seq:
+            if x == "g" or x == "c":
+               hb += 3
+            if x == "a" or x == "t":
+               hb += 2
+         return hb
+      self.hbonds = hydrogenbonds(self.seq)
+
+
 class mutationchain ():
    def __init__ (self, sequence, risk, generations):
       self.seq = sequence
@@ -88,111 +160,3 @@ class mutationchain ():
                i += 1
          cd.append(i)
       self.chaindiff = cd
-
-t = mutationchain('acttgtgcgtgacgt',0.08,1000)
-len(t.chaindiff )
-
-x.chain
-#######
-# SETS
-#######
-def randomOligoSet (length:int, qty:int):
-   """
-   FUNCTION: Generate set of oligos 
-   of specified quantity and length
-   """
-
-   seqs = []
-   for x in range(qty):
-      x = randomOligo(length)
-      seqs.append(x)
-      
-   return seqs
-def roligs () -> list:
-   length = int(input("Length (#bp): "))
-   qty = int(input("Quantity: "))
-   return randomOligoSet(length, qty)
-
-def reverseSequence (seq: str):
-   revs = seq[::-1]
-   return revs
-class dnaseq (): 
-
-   def __init__ (self, sequence: str):
-      allowed = 'aAcCgGtTnNxXyY '
-      self.seq = sequence
-      self.rev = self.seq[::-1]
-      def complement (seq):
-         nt = 'acgtn'
-         ntc = 'tgcan'
-         compl = ""
-         for b in seq:
-            cid = nt.index(b)
-            c = ntc[cid]
-            compl += c
-         return compl
-      self.comp = complement(self.seq)
-      self.len = len(self.seq)
-      self.a = self.seq.count("a")
-      self.c = self.seq.count("c")
-      self.g = self.seq.count("g")
-      self.t = self.seq.count("t")
-      self.pur = self.a + self.g
-      self.pyr = self.c + self.t
-      self.gc = (self.g + self.c) / self.len
-      def hydrogenbonds(seq):
-         hb = 0
-         for x in seq:
-            if x == "g" or x == "c":
-               hb += 3
-            if x == "a" or x == "t":
-               hb += 2
-         return hb
-      self.hbonds = hydrogenbonds(self.seq)
-
-
-def mutate (seq,risk):
-   mute = ""
-   for x in seq:
-      r = risk * 0.75
-      score = random.random()
-      if score < r:
-         nt = 'acgt'
-         nb = nt[random.randint(0,3)]
-         mute += nb
-      else: 
-         mute += x
-   return mute
-
-a = 'acctctactgcgtacgt'
-adna = dnaseq(a)
-adna.seq.index('ct') / adna.len
-
-
-seq1 = dnaseq('acgtttcgatggt')
-seq1.len
-seq1.rev
-seq1.a
-
-myseqs1 = randomOligoSet(200,10)
-mutes1 = []
-for x in myseqs1:
-   m = mutate(x, 0.005)
-   mutes1.append(m)
-mutes1
-myseqs1
-
-right = []
-for seq in range(len(myseqs1)):
-   for x in range(20):
-      if mutes1[seq][x] == myseqs1[seq][x]:
-         right.append(".")
-      else:
-         right.append("!")
-out="".join(right)
-print(out)
-len(out)
-out.count("!")
-
-r = re.findall("-\w\w(?=\s)","13min brtk -OB 3/5 15min btvn sym4.1 -vn 3/4")
-r
