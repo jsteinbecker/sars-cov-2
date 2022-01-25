@@ -20,6 +20,7 @@ def dayview (dayID):
 dayview(7)[8]
 
 # %%
+<<<<<<< HEAD
 def week1count (e):
    count = 0
    emp1w = grid[e][0:7]
@@ -42,6 +43,8 @@ checkweek(1)
     
 
 # %%
+=======
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
 def countEmpShifts (empID):
    view = employeeview(empID)
    count = 0
@@ -61,7 +64,10 @@ AllEmpCount()
 
 # %%
 empFTE = [7,7,8,7,8,8,8,7,8,8,5,5,8,8]
+<<<<<<< HEAD
 
+=======
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
 def notUnderFTE (e):
    if AllEmpCount()[e] < empFTE[e]:
       return True
@@ -74,7 +80,11 @@ def notUnderFTE (e):
 notUnderFTE(2)
 
 # %%
+<<<<<<< HEAD
 trainedfor = [[0,1,2,3,4,5,6,7,8], 
+=======
+trainedfor = [[0,1,2,3,4,5,6,7,8],
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
               [0,1,2,3,4,5,6,7,8],
               [5,6,7,8],
               [5,6,7,8],
@@ -130,6 +140,12 @@ def countDayShifts (dayID):
    return count
 
 # %%
+<<<<<<< HEAD
+=======
+
+
+# %%
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
 def cellswithShifts():
    count = 0
    for x in grid:
@@ -161,6 +177,7 @@ def solveCell (d,e,s):
    x = emptrained(e,s)
    y = notUnderFTE(e)
    z = shiftnotonday(d,s)
+<<<<<<< HEAD
    m = checkweek(e)
    n = noturnaround(e,d,s)
    if x == True:
@@ -169,11 +186,21 @@ def solveCell (d,e,s):
             if m == True:
                if n == True:
                   grid[e][d]=s
+=======
+   if x == True:
+      if y == True:
+         if z == True:
+            grid[e][d]=s
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
    return False
 
 # %%
 x = 0
+<<<<<<< HEAD
 while x < 20000:
+=======
+while x < 10000:
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
    d =np.random.randint(0,14)
    e = np.random.randint(0,14)
    s = np.random.randint(0,9)
@@ -228,5 +255,8 @@ print(new)
 print(cellswithShifts())
 
    
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> e034a1bb2e21d10ac3e898eacf015babcfe2c57a
