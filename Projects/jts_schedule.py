@@ -49,11 +49,16 @@ def week2count (e):
       if x != 0:
          count += 1
    return count
-def checkweek (e):
-   if week1count(e) < 5 and week2count(e) < 5:
-      return True
-   return False
-checkweek(1)
+def checkweek (e,d):
+   if d < 7:
+      if week1count(e) < 5:
+        return True
+   if d > 6:
+      if week2count(e) < 5:
+         return True
+      else:
+         return False
+
     
 
 # %%
@@ -78,7 +83,7 @@ AllEmpCount()
 
 # %%
 empFTE = [7,7,8,7,8,8,8,7,8,8,5,5,8,8] # FTE Shifts for each employee
-def notUnderFTE (e):
+def notOverFTE (e):
    if AllEmpCount()[e] < empFTE[e]:
       return True
    # for x in range(len(s)):
@@ -86,8 +91,6 @@ def notUnderFTE (e):
    #       return True
    return False
 
-# %%
-notUnderFTE(2)
 
 # %%
 """Verify the assigned employee is trained for the
@@ -107,6 +110,8 @@ trainedfor = [[0,1,2,3,4,5,6,7,8],
               [0,1,2,3,4,5,6,7,8],
               [0,1,2,3,4,5,6,7,8],
               [0,1,2,3,4,5,6,7,8]]
+# format:
+# trainedfor[emp] = shifts that employee can work
 
 # %%
 grid[[5]]
@@ -181,9 +186,9 @@ def noturnaround(e,d,s):
 # %%
 def solveCell (d,e,s):
    x = emptrained(e,s)
-   y = notUnderFTE(e)
+   y = notOverFTE(e)
    z = shiftnotonday(d,s)
-   m = checkweek(e)
+   m = checkweek(e,d)
    n = noturnaround(e,d,s)
    if x == True:
       if y == True:
@@ -201,7 +206,7 @@ while x < 20000:
    d =np.random.randint(0,14)
    e = np.random.randint(0,14)
    s = np.random.randint(0,9)
-   if grid[e][d] == 0 and notUnderFTE(e) == True and noturnaround(e,d,s) == True:
+   if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True:
       #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
       solveCell(d,e,s)
       x +=1
@@ -251,6 +256,14 @@ new += "-"*65
 print(new)
 print(cellswithShifts())
 
-   
+shift_titles = 'MI 7C 7P S EI EP 3 N'.split(' ')
 
 
+for d in range (14):
+   for s in range(9):
+      if shiftnotonday(d,s):
+         print (d, shift_titles[s])
+
+
+
+# %%
