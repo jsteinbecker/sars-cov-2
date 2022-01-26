@@ -15,4 +15,10 @@ def vmol (mol_name):
    return Draw.MolToImage(mol).show() 
 
 
-vmol("aspirin")
+vmol("GWA")
+
+
+def showmolnames():
+   print(data.MolName)
+
+showmolnames()
