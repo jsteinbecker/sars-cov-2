@@ -1,8 +1,19 @@
 # %%
 import numpy as np
 
+"""SCHEME
+GRID AXIS 0: EMPLOYEE
+GRID AXIS 1: DATE
+e for EMPLOYEE_ID
+d for DATE_ID
+s for SHIFT_ID
 
-# %%
+0 is a cell that hasnt been assigned.
+1:8 are different shifts
+-1 is paid time off (pto)
+"""
+
+# %% Setting select cells manually.
 grid = np.zeros((14,14))
 grid[0][0:4] = -1
 grid[1][4:11] = 8
@@ -20,6 +31,10 @@ def dayview (dayID):
 dayview(7)[8]
 
 # %%
+"""
+Check Week: Verify not more than 4 shifts (40 hrs)
+per week.
+"""
 def week1count (e):
    count = 0
    emp1w = grid[e][0:7]
@@ -42,6 +57,8 @@ checkweek(1)
     
 
 # %%
+"""Checking FTE
+Verify each employee is not assigned higer than their fte"""
 def countEmpShifts (empID):
    view = employeeview(empID)
    count = 0
@@ -60,7 +77,7 @@ def AllEmpCount ():
 AllEmpCount()
 
 # %%
-empFTE = [7,7,8,7,8,8,8,7,8,8,5,5,8,8]
+empFTE = [7,7,8,7,8,8,8,7,8,8,5,5,8,8] # FTE Shifts for each employee
 def notUnderFTE (e):
    if AllEmpCount()[e] < empFTE[e]:
       return True
@@ -73,6 +90,9 @@ def notUnderFTE (e):
 notUnderFTE(2)
 
 # %%
+"""Verify the assigned employee is trained for the
+assigned shift"""
+
 trainedfor = [[0,1,2,3,4,5,6,7,8], 
               [0,1,2,3,4,5,6,7,8],
               [5,6,7,8],
@@ -144,6 +164,9 @@ def shiftnotonday (d,s):
    return True
 
 # %%
+"""Verifys an evening shift does not directly 
+proceed a morning shift"""
+
 def noturnaround(e,d,s):
    if s>5 and d !=13:
       if grid[e][d+1] != 0:
@@ -171,6 +194,8 @@ def solveCell (d,e,s):
    return False
 
 # %%
+"""Run 20000 iterations of random possible shift assignments"""
+
 x = 0
 while x < 20000:
    d =np.random.randint(0,14)
