@@ -75,12 +75,13 @@ Idioms[](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#i
 These are some neat pandas `idioms`
 
 [if-then/if-then-else on one column, and assignment to another one or more columns:](https://stackoverflow.com/questions/17128302/python-pandas-idiom-for-if-then-else)
-
+```
 In [1]: df = pd.DataFrame(
  ...:    {"AAA": [4, 5, 6, 7], "BBB": [10, 20, 30, 40], "CCC": [100, 50, -30, -50]}
  ...: )
  ...:
-
+```
+```
 In [2]: df
 Out[2]:
  AAA  BBB  CCC
@@ -88,13 +89,14 @@ Out[2]:
 1    5   20   50
 2    6   30  -30
 3    7   40  -50
-
+```
 ### if-then...[](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#if-then "Permalink to this headline")
 
 An if-then on one column
-
+```
 In [3]: df.loc[df.AAA >= 5, "BBB"] = -1
-
+```
+```
 In [4]: df
 Out[4]:
  AAA  BBB  CCC
@@ -102,9 +104,9 @@ Out[4]:
 1    5   -1   50
 2    6   -1  -30
 3    7   -1  -50
-
+```
 An if-then with assignment to 2 columns:
-
+```
 In [5]: df.loc[df.AAA >= 5, ["BBB", "CCC"]] = 555
 
 In [6]: df
@@ -114,9 +116,9 @@ Out[6]:
 1    5  555  555
 2    6  555  555
 3    7  555  555
-
+```
 Add another line with different logic, to do the -else
-
+```
 In [7]: df.loc[df.AAA < 5, ["BBB", "CCC"]] = 2000
 
 In [8]: df
@@ -126,14 +128,15 @@ Out[8]:
 1    5   555   555
 2    6   555   555
 3    7   555   555
-
+```
 Or use pandas where after you've set up a mask
-
+```
 In [9]: df_mask = pd.DataFrame(
  ...:    {"AAA": [True] * 4, "BBB": [False] * 4, "CCC": [True, False] * 2}
  ...: )
  ...:
-
+```
+```
 In [10]: df.where(df_mask, -1000)
 Out[10]:
  AAA   BBB   CCC
@@ -141,14 +144,15 @@ Out[10]:
 1    5 -1000 -1000
 2    6 -1000   555
 3    7 -1000 -1000
-
+```
 [if-then-else using NumPy's where()](https://stackoverflow.com/questions/19913659/pandas-conditional-creation-of-a-series-dataframe-column)
-
+```
 In [11]: df = pd.DataFrame(
  ....:    {"AAA": [4, 5, 6, 7], "BBB": [10, 20, 30, 40], "CCC": [100, 50, -30, -50]}
  ....: )
  ....:
-
+```
+```
 In [12]: df
 Out[12]:
  AAA  BBB  CCC
@@ -156,7 +160,8 @@ Out[12]:
 1    5   20   50
 2    6   30  -30
 3    7   40  -50
-
+```
+```
 In [13]: df["logic"] = np.where(df["AAA"] > 5, "high", "low")
 
 In [14]: df
@@ -166,16 +171,17 @@ Out[14]:
 1    5   20   50   low
 2    6   30  -30  high
 3    7   40  -50  high
-
+```
 ### Splitting[](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#splitting "Permalink to this headline")
 
 [Split a frame with a boolean criterion](https://stackoverflow.com/questions/14957116/how-to-split-a-dataframe-according-to-a-boolean-criterion)
-
+```
 In [15]: df = pd.DataFrame(
  ....:    {"AAA": [4, 5, 6, 7], "BBB": [10, 20, 30, 40], "CCC": [100, 50, -30, -50]}
  ....: )
  ....:
-
+```
+```
 In [16]: df
 Out[16]:
  AAA  BBB  CCC
@@ -183,13 +189,14 @@ Out[16]:
 1    5   20   50
 2    6   30  -30
 3    7   40  -50
-
+```
+```
 In [17]: df[df.AAA <= 5]
 Out[17]:
  AAA  BBB  CCC
 0    4   10  100
 1    5   20   50
-
+```
 In [18]: df[df.AAA > 5]
 Out[18]:
  AAA  BBB  CCC
@@ -199,12 +206,13 @@ Out[18]:
 ### Building criteria[](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#building-criteria "Permalink to this headline")
 
 [Select with multi-column criteria](https://stackoverflow.com/questions/15315452/selecting-with-complex-criteria-from-pandas-dataframe)
-
+```
 In [19]: df = pd.DataFrame(
  ....:    {"AAA": [4, 5, 6, 7], "BBB": [10, 20, 30, 40], "CCC": [100, 50, -30, -50]}
  ....: )
  ....:
-
+```
+```
 In [20]: df
 Out[20]:
  AAA  BBB  CCC
@@ -212,7 +220,7 @@ Out[20]:
 1    5   20   50
 2    6   30  -30
 3    7   40  -50
-
+```
 ...and (without assignment returns a Series)
 
 In [21]: df.loc[(df["BBB"] < 25) & (df["CCC"] >= -40), "AAA"]
