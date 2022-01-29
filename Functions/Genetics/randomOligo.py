@@ -1,5 +1,9 @@
 import random
 
+###############
+# SINGLE OLIGO
+###############
+
 def randomOligo (length:int):
    """
    FUNCTION: Generate Oligonucleotide 
@@ -15,6 +19,14 @@ def randomOligo (length:int):
    
    return seq
 
+def rolig () -> str:
+   length = int(input("Length (#bp): "))
+   return randomOligo(length)
+
+#######
+# SETS
+#######
+
 def randomOligoSet (length:int, qty:int):
    """
    FUNCTION: Generate set of oligos 
@@ -27,3 +39,8 @@ def randomOligoSet (length:int, qty:int):
       seqs.append(x)
       
    return seqs
+
+def roligs () -> list:
+   length = int(input("Length (#bp): "))
+   qty = int(input("Quantity: "))
+   return randomOligoSet(length, qty)

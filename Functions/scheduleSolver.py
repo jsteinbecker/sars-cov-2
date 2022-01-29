@@ -9,7 +9,7 @@ fte = [7,
        5]
 
 empWorksShifts = [[3,9], 
-                  [9], 
+                  [2,9], 
                   [8], 
                   [8],
                   [0,1,2,3,4,5,6,7,8,9],
@@ -35,6 +35,9 @@ def countEmpShifts (employeeID):
       if x > 0:
          count += 1
    return count
+countallempSft = [countEmpShifts(x) for x in range(9)]
+countallempSft 
+
 
 def shiftOKwithEmployee (employeeID, shift):
    if shift in empWorksShifts[employeeID]:
@@ -65,18 +68,51 @@ def uniqueShiftsOnDay (dayID):
             return False
       return True
 
-def runAllChecks (employeeID,dayID,shift):
-   c1 = notOverFTE(employeeID)
-   if c1 == True:
-      c2 = uniqueShiftsOnDay(dayID)
-      if c2 == True:
-         c3 = shiftOKwithEmployee (employeeID,shift)
-         if c3 == True:
-            return True
-         else:
-            return False
-      else:
-         return False
+#def uniqueShift (dayID):
+day = []
+for x in grid:
+   for d in range(14):
+      day.append(x[d])
+day
+grid
+
+def isValid (employeeID, dayID, shift):
+   stored = grid[employeeID][dayID]
+   grid[employeeID][dayID] = shift
+   check1, check2, check3 = shiftOKwithEmployee(employeeID,shift), notOverFTE(employeeID), uniqueShiftsOnDay(dayID) == True
+   if all(check1, check2, check3) == True:
+      return True
    else:
+      grid[employeeID][dayID] = stored
       return False
+      
+def solve (grid):
+   import random
+   count = 0
+   while count < 100:
+      d = random.randint(0,13)
+      e = random.randint(0,8)
+      grid[e][d] = random.randint(0,8)
+      count += 1
+   return grid
+
+try1 = solve(grid)
+for x in try1:
+   print(x)
+
+
+# def runAllChecks (employeeID,dayID,shift):
+#    c1 = notOverFTE(employeeID)
+#    if c1 == True:
+#       c2 = uniqueShiftsOnDay(dayID)
+#       if c2 == True:
+#          c3 = shiftOKwithEmployee (employeeID,shift)
+#          if c3 == True:
+#             return True
+#          else:
+#             return False
+#       else:
+#          return False
+#    else:
+#       return False
 
