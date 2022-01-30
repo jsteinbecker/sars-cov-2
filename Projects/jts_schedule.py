@@ -13,6 +13,12 @@ s for SHIFT_ID
 -1 is paid time off (pto)
 """
 
+"""
+#####################################
+Basic Information / Data Generation
+#####################################
+"""
+
 emp_names = "MONA AMANDA SABRINA MICHAEL STAR TRISHA BRIANNA TIFFANY BRITTANIE LEVI LINDA DANICA ESPERANZA JOSH LESLIE".split(" ")
 print(emp_names[9])
 empFTE = [7,7,8,8,8,8,8,8,8,8,8,8,8,5,2] # FTE Shifts for each employee
