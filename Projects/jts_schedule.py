@@ -13,12 +13,19 @@ s for SHIFT_ID
 -1 is paid time off (pto)
 """
 
+emp_names = "MONA AMANDA SABRINA MICHAEL STAR TRISHA BRIANNA TIFFANY BRITTANIE LEVI LINDA DANICA ESPERANZA JOSH LESLIE".split(" ")
+print(emp_names[9])
+empFTE = [7,7,8,8,8,8,8,8,8,8,8,8,8,5,2] # FTE Shifts for each employee
+
+shift_names = ". MI 7C 7P S OP EI EP 3 N".split(" ")
+
 # %% Setting select cells manually.
-grid = np.zeros((14,14))
-grid[0][0:4] = -1
+grid = np.zeros((len(emp_names),14))
+grid[0][11:14] = 8
+grid[0][0:4] = 8
 grid[1][4:11] = 8
 grid[2][4:11] = 7
-grid[6][3:11] = 3
+grid[4][3:11] = 3
 grid [7][5:7] = -1
 grid
 
@@ -75,14 +82,13 @@ def countEmpShifts (empID):
 # %%
 def AllEmpCount ():
    callEmpCount = []
-   for x in range(14):
+   for x in range(len(emp_names)):
       c = countEmpShifts(x)
       callEmpCount.append(c)
    return callEmpCount
 AllEmpCount()
 
 # %%
-empFTE = [7,7,8,7,8,8,8,7,8,8,5,5,8,8] # FTE Shifts for each employee
 def notOverFTE (e):
    if AllEmpCount()[e] < empFTE[e]:
       return True
@@ -96,20 +102,21 @@ def notOverFTE (e):
 """Verify the assigned employee is trained for the
 assigned shift"""
 
-trainedfor = [[0,1,2,3,4,5,6,7,8], 
-              [0,1,2,3,4,5,6,7,8],
-              [5,6,7,8],
+trainedfor = [[8], 
+              [8],
+              [7],
               [5,6,7,8],
               [3,5,8],
+              [0,1,2,3,4,5,6,7],
               [0,1,2,3,4,5,6,7,8],
-              [3],
               [0,1,2,4,5,6,7,8],
-              [1,2],
+              [0,1,3,4,5,6,7],
+              [5,6,7,8],
               [0,1,2,3,4,5,6,7,8],
-              [0,1,2,3,4,5,6,7,8],
-              [0,1,2,3,4,5,6,7,8],
-              [0,1,2,3,4,5,6,7,8],
-              [0,1,2,3,4,5,6,7,8]]
+              [0,1,2,5,6,7],
+              [0,1,2,5,6,7],
+              [0,1,2,3,4,5,6,7],
+              [0,1,2,3]]
 # format:
 # trainedfor[emp] = shifts that employee can work
 
@@ -168,6 +175,12 @@ def shiftnotonday (d,s):
       return False
    return True
 
+def showMissShift (d):
+   miss = [shift_names[int(x)] for x in dayview(5)]
+   ms = set(shift_titles)-set(miss)
+   ms = list(ms)
+   return ms
+
 # %%
 """Verifys an evening shift does not directly 
 proceed a morning shift"""
@@ -184,27 +197,61 @@ def noturnaround(e,d,s):
    return True
 
 # %%
+def noOneDayGap (e,d):
+   if 1 < d:
+      if grid[e][d-1] == 0 and grid[e][d-2] > 0:
+         return False
+   if 12 > d:
+      if grid[e][d+1] == 0 and grid[e][d+2] > 0:
+         return False
+   return True
+# %%
+def noSWeekend (d,s):
+   if d in [0,6,7,13]:
+      if s == 4:
+         return False
+   return True
+# %%
 def solveCell (d,e,s):
    x = emptrained(e,s)
    y = notOverFTE(e)
    z = shiftnotonday(d,s)
    m = checkweek(e,d)
    n = noturnaround(e,d,s)
-   if x == True:
-      if y == True:
-         if z == True:
-            if m == True:
-               if n == True:
-                  grid[e][d]=s
+   p = noSWeekend(d,s)
+   if x and y and z and m and n and p:
+      grid[e][d]=s
    return False
 
 # %%
 """Run 20000 iterations of random possible shift assignments"""
 
 x = 0
-while x < 20000:
+while x < 10000:
    d =np.random.randint(0,14)
-   e = np.random.randint(0,14)
+   e = np.random.choice([3,9,11,12])
+   s = np.random.randint(0,9)
+   if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True and noOneDayGap(e,d) == True:
+      #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
+      solveCell(d,e,s)
+      x +=1
+   else:
+      x +=1
+x = 0
+while x < 10000:
+   d =np.random.randint(0,14)
+   e = np.random.randint(0,len(emp_names))
+   s = np.random.randint(0,9)
+   if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True and noOneDayGap(e,d) == True:
+      #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
+      solveCell(d,e,s)
+      x +=1
+   else:
+      x +=1
+x = 0
+while x < 10000:
+   d =np.random.randint(0,14)
+   e = np.random.randint(0,len(emp_names))
    s = np.random.randint(0,9)
    if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True:
       #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
@@ -215,48 +262,30 @@ while x < 20000:
 print(AllEmpCount(),cellswithShifts())
 print(grid)
 
-# %%
 for x in grid.transpose():
    y = np.setxor1d(range(9),x)
    z = np.intersect1d(y,range(9))
    z
 
 
-# %%
+shift_titles = '. MI 7C 7P S EI EP 3 N pto'.split(' ')
+
 print("NCMC CPHT SCHEDULE | 2 WEEK")
 print("-"*60)
 new = ""
 for i in range(len(grid)):
    myrow = ""
    for x in grid[i]:
-      if x == 8:
-         myrow += "N  "
-      if x == 7:
-         myrow += "3  "
-      if x== 6:
-         myrow += "EP "
-      if x == 5:
-         myrow += "EI "
-      if x == 4:
-         myrow += "S  "
-      if x == 3:
-         myrow += "7P "
-      if x == 2:
-         myrow += "7C "
-      if x == 1:
-         myrow += "MI "
-      if x == 0:
-         myrow += ".  "
-      if x == -1:
-         myrow += "pto"
-   myrow += "| EMPLOYEE_NAME"
+      myrow  += shift_titles[int(x)]
+      myrow += (3 - len(shift_titles[int(x)]))  * " "
+   myrow += "|| "+ emp_names[i] + "(" + str(AllEmpCount()[i]) + ")"
    new += myrow + "\n"
 new += "-"*65
 
 print(new)
 print(cellswithShifts())
 
-shift_titles = 'MI 7C 7P S EI EP 3 N'.split(' ')
+
 
 
 for d in range (14):
@@ -266,4 +295,7 @@ for d in range (14):
 
 
 
+# %%
+for x in range(14):
+   print(showMissShift(x))
 # %%
