@@ -1,7 +1,12 @@
 # ETESEVIMAB
 (CoV555)
 
+ELI LILLY
+
 ## Interaction Residues
+
+RECEPTOR BINDING DOMAIN
+
 - K417
 - D420
 - N460
