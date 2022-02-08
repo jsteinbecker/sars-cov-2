@@ -20,7 +20,7 @@
 
 
       %% BEAMED RYTHYM GOES HERE
-      g8 8 4 4 
+      g8_"Each refrain consists of the progression repeated 4 times in total" 8 4 4 
       8 8 4 4
       4 8 8 4
       8 8 4 4 
