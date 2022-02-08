@@ -10,6 +10,9 @@ FDA
 - Imdevimab
 
 # EUA Active
+Treatment, High Risk of Progression post-seroconversion:
 - Sotrovimab
+
+PrEP, certain Immunocompromised High Risk population:
 - Tixagavimab
 - Cilgavimab
