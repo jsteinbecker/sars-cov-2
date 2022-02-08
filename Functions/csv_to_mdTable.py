@@ -20,6 +20,7 @@ headercount = lambda x: x.count(",")
 makediv = lambda head: ((headercount(head)) * "---|" ) + "---"
 
 
+
 """
 ####################
 MAKE TABLE FUNCTION
@@ -27,6 +28,39 @@ MAKE TABLE FUNCTION
 """
 def maketable  (head,body): 
    print(f'\n{ formatter(head) }\n{ makediv(head) }\n{ formatter(body) }\n')
+
+"""
+####################
+GET MINUTES PRACTICED
+####################
+"""
+def getMinutes (inp):
+   mins = str(re.findall("\d*m",inp))
+   minint = int(("".join(re.findall("\d+",mins))))
+   return minint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+getMinutes("ghgj 78 h78 60m 68")
 
 maketable(header,line)
 formatter("Mahler,Symphony No 2: Resurrection- I. Totenfeier,BC,$30m$,4,4")

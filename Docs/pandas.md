@@ -1,15 +1,16 @@
 
 
-# Filter DF:
+## Filter DF:
 ```
 filterdf = df [df ['col'] == value]
 ```
 
-# New Column from Old:
+## New Column from Old:
+
 `df['newcol'] = df['oldcol'] * Expressions`
 > `df['partial year'] = df['year'] + (df['week']/ 52)`
 
-# If-then Column:
+## If-then Column:
 `df.loc[df.AAA >= 5, "BBB"] = -1`
 ```
    AAA  BBB  CCC
