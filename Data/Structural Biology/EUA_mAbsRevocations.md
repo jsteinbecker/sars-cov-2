@@ -1,6 +1,6 @@
 FDA
 # EUA Revocations
-`Revocation 'Pre-Omicron'
+`Revocation 'Pre-Omicron`
 - Bamlanivimab monotherapy (w/o concomitant etesevimab)
 
 `Revocation in Nationwide Omicron Domianance`
