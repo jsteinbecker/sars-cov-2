@@ -1,3 +1,4 @@
+# PANDAS Cookbook
 [![logo](https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg)](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 -   [Getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)

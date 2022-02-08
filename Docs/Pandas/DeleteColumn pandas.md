@@ -1,6 +1,6 @@
 The best way to do this in Pandas is to use drop:
 ```
-df = df.drop('column_name', 1)'=
+df = df.drop('column_name', 1)
 ```
 where 1 is the axis number *(0 for rows and 1 for columns.)*
 
