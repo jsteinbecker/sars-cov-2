@@ -1,10 +1,12 @@
 
 
 # Filter DF:
-`filterdf = df [df ['col'] == value]`
+```
+filterdf = df [df ['col'] == value]
+```
 
 # New Column from Old:
-`df['newcol'] = df['oldcol'] *Expressions`
+`df['newcol'] = df['oldcol'] * Expressions`
 > `df['partial year'] = df['year'] + (df['week']/ 52)`
 
 # If-then Column:
@@ -52,7 +54,9 @@ Select rows by boolvec  df[bool_vec]    DataFrame
 ---
 # Slicing
 ### Slice columns
-`df.loc[ : , "colA":"colB"]`
+```
+df.loc[ : , "colA":"colB"]
+```
 
 ### Scalar from rowid, colname:     
 `df['colname'][0]`

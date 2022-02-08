@@ -1,6 +1,7 @@
 reedset = []
 
 class oboeReed:
+   
    def __init__(self,):
       color = input('Color: ')
       staple = input('Staple: ')
