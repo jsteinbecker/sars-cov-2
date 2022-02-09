@@ -11,4 +11,4 @@
 - Aria from *Zie Zauberflöte* (MOZART)
 
 ## PICCOLO CLARINET
-- Wall Rat from *Ratatouille* (GIACHINO)
+- Wall Rat from *Ratatouille* (GIACCHINO)
