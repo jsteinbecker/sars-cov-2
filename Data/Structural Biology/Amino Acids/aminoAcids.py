@@ -5,11 +5,11 @@ import numpy as np
 import re
 
 # %%
-df = pd.read_csv("/Users/joshsteinbecker/jts_project/Data/AminoAcid_Data.csv")
+df = pd.read_csv("/Users/joshsteinbecker/jts_project/Data/Structural Biology/Amino Acids/AminoAcid_Data.csv")
 df
 
 # %%
-df['nlen'] = [len(x) for x in df['full name']]
+df['nlen'] = pd.Series([len(x) for x in df['full name']])
 mass = df['average mass']
 
 xyline = np.linspace(min(nlen),max(nlen),int(max(mass)))
