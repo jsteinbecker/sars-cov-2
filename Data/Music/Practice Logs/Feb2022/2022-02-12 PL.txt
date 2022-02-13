@@ -1,0 +1,4 @@
+CT 20m STMZ: CC7m3 5/4
+CT 15m ZIMR: RunFree 4/3
+
+BC 6m PRKV: NEVSKYm1 4/3

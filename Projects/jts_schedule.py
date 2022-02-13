@@ -1,16 +1,17 @@
 # %%
 import numpy as np
 
-"""SCHEME
-GRID AXIS 0: EMPLOYEE
-GRID AXIS 1: DATE
-e for EMPLOYEE_ID
-d for DATE_ID
-s for SHIFT_ID
+"""
+SCHEME
+      GRID AXIS 0: EMPLOYEE
+      GRID AXIS 1: DATE
+      e for EMPLOYEE_ID
+      d for DATE_ID
+      s for SHIFT_ID
 
-0 is a cell that hasnt been assigned.
-1:8 are different shifts
--1 is paid time off (pto)
+      0 is a cell that hasnt been assigned.
+      1:8 are different shifts
+      -1 is paid time off (pto)
 """
 
 """
@@ -127,9 +128,6 @@ trainedfor = [[8],
 # trainedfor[emp] = shifts that employee can work
 
 # %%
-grid[[5]]
-
-# %%
 def isTrainedFor ():
    val = []
    celllist = []
@@ -232,28 +230,6 @@ def solveCell (d,e,s):
 # %%
 """Run 20000 iterations of random possible shift assignments"""
 
-x = 0
-while x < 10000:
-   d =np.random.randint(0,14)
-   e = np.random.choice([3,9,11,12])
-   s = np.random.randint(0,9)
-   if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True and noOneDayGap(e,d) == True:
-      #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
-      solveCell(d,e,s)
-      x +=1
-   else:
-      x +=1
-x = 0
-while x < 10000:
-   d =np.random.randint(0,14)
-   e = np.random.randint(0,len(emp_names))
-   s = np.random.randint(0,9)
-   if grid[e][d] == 0 and notOverFTE(e) == True and noturnaround(e,d,s) == True and noOneDayGap(e,d) == True:
-      #print (grid[e][d],e,d,s,shiftnotonday(d,s),notUnderFTE(e))
-      solveCell(d,e,s)
-      x +=1
-   else:
-      x +=1
 x = 0
 while x < 10000:
    d =np.random.randint(0,14)

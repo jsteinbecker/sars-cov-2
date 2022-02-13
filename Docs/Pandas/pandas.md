@@ -21,7 +21,7 @@ filterdf = df [df ['col'] == value]
 ```
 
 # Sort By
-`df.sort_values(by=("Labs", "II"), ascending=False)`
+df.sort_values(by=("Labs", "II"), ascending=False)
 ```
 Out[99]: 
                Exams     Labs    
