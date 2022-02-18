@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ###MolName:SMILES
-=======
-
->>>>>>> e23affbe94b0be01e758b55eecf6da126c945d5b
 nicodozole : COC(=O)NC1=NC2=CC=C(C(=O)C3=CC=CS3)C=C2N1
 benzene : c1ccccc1
 glycine : NCC(=O)O
@@ -15,7 +11,3 @@ isopropanol : CC(O)C
 1-butene : C=CCC
 tetrachloromethane : C(Cl)(Cl)(Cl)(Cl)
 aspirin : c1(C(=O)C)c(N)cccc1
-<<<<<<< HEAD
-=======
-
->>>>>>> e23affbe94b0be01e758b55eecf6da126c945d5b
