@@ -21,4 +21,4 @@ def main():
    return cleanDNA(seq)
 
 if __name__ == "__main__":
-   main()
+   print(main())

@@ -1,4 +1,6 @@
 {
    "svn.ignoreMissingSvnWarning": true,
-   "jupyter.jupyterServerType": "local"
+   "jupyter.jupyterServerType": "local",
+   "editor.cursorBlinking": "expand",
+   "editor.cursorSurroundingLines": 2
 }

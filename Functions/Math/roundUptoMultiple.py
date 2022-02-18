@@ -14,16 +14,12 @@ def roundUpToMultiple(number:float, multiple:int) -> int:
 
 
 
-def rtmult() -> int:
-    """
-    ROUNDS NUMBER TO A SPECIFIED MULTIPLE
-    """
+def main() -> int:
     number = float(input("Value: "))
     multiple = int(input("Multiple: "))
 
     rounded = roundUpToMultiple(number,multiple)
-    
     return rounded
 
-
-roundUpToMultiple (12034,30)
+if __name__ == "__main__":
+    print(main())

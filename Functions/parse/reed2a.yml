@@ -1,0 +1,13 @@
+reed : Reed 2a
+
+staple : e
+thread : blue
+
+init : 2022-02-15
+len_i : 71.5
+seal_i : [100,96]
+
+scrapes : 
+ - 02-15: t,h,w 15min
+ - 02-14: t,g 10m
+

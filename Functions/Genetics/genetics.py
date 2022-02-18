@@ -7,8 +7,7 @@ def cleanDNA (seq:str):
 
    return seq
 def gcContent (seq):
-   """
-   Function: Return GC Content of Nucleic Acid Sequence. Returned as decimal value. 
+   """Function: Return GC Content of Nucleic Acid Sequence. Returned as decimal value. 
    """
    seq = seq.lower()
 

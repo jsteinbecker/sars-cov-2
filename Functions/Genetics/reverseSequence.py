@@ -5,3 +5,6 @@ def reverseSequence (seq: str):
 
 
 
+l_ = 'acgt'
+l = [l_] * 3
+x = [ i+j+k for i, j, k in l_]
