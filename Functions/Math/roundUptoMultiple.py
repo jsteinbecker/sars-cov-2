@@ -10,9 +10,8 @@ def roundUpToMultiple(number:float, multiple:int) -> int:
 
 
 def rtmult() -> int:
-    """
-    ROUNDS NUMBER TO A SPECIFIED MULTIPLE
-    """
+    """ROUNDS NUMBER TO A SPECIFIED MULTIPLE"""
+    
     number = float(input("Value: "))
     multiple = int(input("Multiple: "))
 
