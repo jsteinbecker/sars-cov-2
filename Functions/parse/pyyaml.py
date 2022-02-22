@@ -45,4 +45,6 @@ comments:
 
 y = yaml.load(d,Loader=Loader)
 print(yaml.dump(y['tax'],Dumper=Dumper) )
+import pandas as pd
 y
+

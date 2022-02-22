@@ -13,6 +13,8 @@ html.text
 soup = BeautifulSoup(html.text,'html.parser')
 tables = soup.find_all('tbody')
 tables[3].find_all('td')
+
+
 print (tables)
 x = tables.find_all('tbody')
 x = """<ul><li><span class="nowrap"><i><a href="/wiki/Toy_Story" title="Toy Story">Toy Story</a></i> (1995)</span></li>
@@ -40,5 +42,4 @@ x = """<ul><li><span class="nowrap"><i><a href="/wiki/Toy_Story" title="Toy Stor
 <li><span class="nowrap"><i><a href="/wiki/Soul_(2020_film)" title="Soul (2020 film)">Soul</a></i> (2020; international release)</span></li>
 <li><span class="nowrap"><i><a href="/wiki/Luca_(2021_film)" title="Luca (2021 film)">Luca</a></i> (2021; international release)</span></li></ul>"""
 x = BeautifulSoup(x.text(),'html.parser')
-soup.get('li')
-
+x.get_text()
