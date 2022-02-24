@@ -31,3 +31,6 @@ def ntCenter(seq,nts,displaytype = True):
     if displaytype == False:
 
         return centers
+
+if __name__ == "__main__":
+    ntCenter(x,'acgt')

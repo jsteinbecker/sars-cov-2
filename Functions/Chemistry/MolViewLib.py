@@ -10,7 +10,7 @@ rawd
 data = rawd,yaml.load(rawd,Loader=Loader)
 df =data[1]
 
-n = [ x for x in df]
+n = [ x for x in df ]
 s = [ x for x in df.values() ]
 
 for x , y in df.items():

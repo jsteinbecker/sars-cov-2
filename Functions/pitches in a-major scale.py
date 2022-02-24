@@ -5,9 +5,10 @@ def a_n ():
   
   # values:
   oct1 = 440    #hz
-  oct2 = oct1 * 2
-    # 880
+  oct2 = oct1 * 2   # (880)
   steps = 12
 
   n = np.linspace(oct1, oct2, steps)
   return n
+
+a_n()
