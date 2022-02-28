@@ -14,13 +14,9 @@ def roundUpToMultiple(number:float, multiple:int) -> int:
 
 
 
-<<<<<<< HEAD
-def main() -> int:
-=======
 def rtmult() -> int:
     """ROUNDS NUMBER TO A SPECIFIED MULTIPLE"""
     
->>>>>>> e23affbe94b0be01e758b55eecf6da126c945d5b
     number = float(input("Value: "))
     multiple = int(input("Multiple: "))
 
