@@ -1,10 +1,12 @@
 ![Image obtained with the ESO Schmidt Telescope of the Tarantula Nebula in the Large Magellanic Cloud. Supernova 1987A.](https://media.nature.com/lw800/magazine-assets/d41586-022-00425-8/d41586-022-00425-8_20137358.jpg)
 
-Supernova 1987A appears as a bright spot near the centre of this image of the Tarantula nebula, taken by the ESO Schmidt Telescope.Credit: ESO
+> Supernova 1987A appears as a bright spot near the centre of this image of the Tarantula nebula, taken by the ESO Schmidt Telescope.Credit: ESO
 
-Masayuki Nakahata has been waiting 35 years for a nearby star to explode.
+_Masayuki Nakahata has been waiting 35 years for a nearby star to explode._
 
 He was just starting out in science the last time it happened, in February 1987, when a dot of light suddenly appeared in the southern sky. This is the closest supernova seen during modern times; and the event, known as SN 1987A, gained worldwide media attention and led to dramatic advances in astrophysics.
+
+$$ Josh = \frac{ M_d }{ 5 } $$
 
 Nakahata was a graduate student at the time, working on what was then one of the world’s foremost neutrino catchers, the Kamiokande-II detector at the Kamioka Underground Observatory near Hida, Japan. He and a fellow student, Keiko Hirata, spotted evidence of neutrinos pouring out of the supernova — the first time anyone had seen these fundamental particles originating from anywhere outside the Solar System.
 
@@ -53,6 +55,10 @@ And what a shower it will be. In 1987, Kamiokande-II was one of the world’s la
 Beginning in 2018, Super-K, as the observatory is known, [had an upgrade that has vastly improved its ability to study supernovae](https://www.nature.com/articles/d41586-019-00598-9). In particular, the Super-K collaboration, which includes Japanese and US physicists, added the rare-earth metal gadolinium to the detector’s water. Its presence will enable the detector to clearly distinguish two types of supernova neutrino. One type produces flashes inside the detector that propagate in a random direction. But the flashes from the other type point straight back at the direction in which the neutrino was travelling.
 
 Being able to tell the two apart in real time means that Super-K’s software will rapidly calculate where in the sky astronomers should point their telescopes, within an angle of less than 3 degrees. “Using this information, Super-K is the world’s best detector for determining the direction to a supernova,” says Nakahata.
+
+```quote
+Beginning in 2018, Super-K, as the observatory is known, [had an upgrade that has vastly improved its ability to study supernovae](https://www.nature.com/articles/d41586-019-00598-9). In particular, the Super-K collaboration, which includes Japanese and US physicists, added the rare-earth metal gadolinium to the detector’s water. Its presence will enable the detector to clearly distinguish two types of supernova neutrino.
+```
 
 The supernova alert system, called SNWatch, is programmed to notify senior collaboration members about a possible sighting. At the same time, it sounds an alarm in the detector’s cavernous underground hall and control room. Sara Sussman, a physicist now at Princeton University in New Jersey, spent time working at Super-K in 2017 during her undergraduate studies, and experienced the alarm in person. It went off during her first stint as the shift operator in the Super-K control room, and Sussman didn’t know it was a drill. “I’m never gonna forget that moment for the rest of my life,” she says.
 
