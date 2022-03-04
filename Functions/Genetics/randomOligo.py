@@ -29,6 +29,9 @@ def rolig () -> str:
 
 def randomOligoSet (length:int, qty:int):
    """
+   -------------
+   Random Oligo-NT SET Generator
+   -------------
    FUNCTION: Generate set of oligos 
    of specified quantity and length
    """

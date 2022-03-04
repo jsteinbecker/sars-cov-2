@@ -1,14 +1,16 @@
-def gcContent (seq):
-   """Function: -> int --
+def gcContent (seq:str) -> int:
+   """
+   ----------------
+   Function: -> int
+   ---------------- 
    Return GC Content of Nucleic Acid Sequence. 
    Returned as decimal value. 
-   
+   ```
    >>> seq='accgtgacgtgtgacgtgccgtag'
    >>> gcContent(seq)
    'SCRIPT EXAMPLE':
         accgtgacgtgtgacgtgccgtag :
         G/C%: 0.625
-
    """
    
    seq = seq.lower()

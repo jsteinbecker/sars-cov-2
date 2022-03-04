@@ -1,22 +1,45 @@
 import random
 import re
 
-def cleanDNA (seq:str):
+def cleanDNA (seq:str) -> str:
+   """
+   --------------------
+   CLEAN DNA STRING
+   --------------------
+   REMOVES DIGITS, SPACES AND 
+   NEWLINE CHARACTERS FROM INPUT
+   ----------------------------------
+   """
+   import re
+
+   seq = re.sub("\d","",seq) #digits
+   seq = re.sub("\s","",seq) #spaces
+   seq = re.sub("\n","",seq) #newlines
    seq = seq.lower()
-   seq = seq.replace(' ','')
 
    return seq
-def gcContent (seq):
-   """Function: Return GC Content of Nucleic Acid Sequence. Returned as decimal value. 
+def gcContent (seq:str) -> int:
+   """
+   ----------------
+   Function: -> int
+   ---------------- 
+   Return GC Content of Nucleic Acid Sequence. 
+   Returned as decimal value. 
+
+   >>> seq='accgtgacgtgtgacgtgccgtag'
+   >>> gcContent(seq)
+   'SCRIPT EXAMPLE':
+        accgtgacgtgtgacgtgccgtag :
+        G/C%: 0.625
    """
    seq = seq.lower()
-
-   gcPerc = round((seq.count("g")+seq.count("c")) / len(seq),4)
+   gcPerc = round((seq.count("g")+ seq.count("c")) \
+                   / len(seq),4)
 
    return gcPerc
 def ntCenter(seq,nts,displaytype = True):
-    """FUNCTION WILL RETURN AN ARRAY WITH VALUES:
-    
+    """
+    FUNCTION WILL RETURN AN ARRAY WITH VALUES:
          - NUCLEOTIDE, 
          - AVERAGE POSITION IN CHAIN, AND 
          - % DISTANCE TO THE TRUE CENTER
@@ -45,9 +68,6 @@ def ntCenter(seq,nts,displaytype = True):
     if displaytype == False:
 
         return centers
-###############
-# SINGLE OLIGO
-###############
 def randomOligo (length:int):
    """
    FUNCTION: Generate Oligonucleotide 
@@ -65,7 +85,6 @@ def randomOligo (length:int):
 def rolig () -> str:
    length = int(input("Length (#bp): "))
    return randomOligo(length)
-
 def randomOligoSet (length:int, qty:int):
    """
    FUNCTION: Generate set of oligos 
@@ -82,12 +101,10 @@ def roligs () -> list:
    length = int(input("Length (#bp): "))
    qty = int(input("Quantity: "))
    return randomOligoSet(length, qty)
-
-def reverseSequence (seq: str):
+def reverseSequence (seq:str):
    revs = seq[::-1]
    return revs
-
-def mutate (seq,risk):
+def mutate (seq:str, risk:float):
    mute = ""
    for x in seq:
       r = risk * 0.75
@@ -136,8 +153,6 @@ class dnaseq ():
                hb += 2
          return hb
       self.hbonds = hydrogenbonds(self.seq)
-
-
 class mutationchain ():
    def __init__ (self, sequence, risk, generations):
       self.seq = sequence

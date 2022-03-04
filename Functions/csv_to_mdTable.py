@@ -22,11 +22,14 @@ makediv = lambda head: ((headercount(head)) * "---|" ) + "---"
 
 
 """
-####################
-MAKE TABLE FUNCTION
-####################
+
 """
 def maketable  (head,body): 
+   """
+   -----------
+   MAKE TABLE FUNCTION
+   -----------
+   """
    print(f'\n{ formatter(head) }\n{ makediv(head) }\n{ formatter(body) }\n')
 
 """
