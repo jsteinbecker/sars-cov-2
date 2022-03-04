@@ -5,14 +5,14 @@ import requests
 
 url = 'https://en.wikipedia.org/wiki/List_of_Pixar_films'
 
-from bs4 import beautifulsoup
+from bs4 import BeautifulSoup
 from urllib import urlopen
 
 html = requests.get(url)
 html.text
 soup = BeautifulSoup(html.text,'html.parser')
 tables = soup.find_all('tbody')
-tables[3].find_all('td')
+soup.find_all('li')
 
 
 print (tables)

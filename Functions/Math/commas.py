@@ -5,4 +5,4 @@ n_2 = 3_500_000
 ans = n_1 + n_2
 
 'f-string comma int formatter'
-print (f'{ans:,}')
+print ( f'{ans:,}' )
