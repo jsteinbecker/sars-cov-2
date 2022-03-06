@@ -14,3 +14,7 @@ Phone | Reaches
 6620 | I: CCU/Burn
 6925 | PC: PCU/NICU/PEDS
 6927 | C: L&D/PROCEDURAL
+
+```smiles
+CCC=NC(=O)OC(CCC)C
+```

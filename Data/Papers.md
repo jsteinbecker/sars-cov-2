@@ -12,4 +12,8 @@ s| |3
 I|
 <>
 
-==.gp120.== glycoprotein 120kDa
+==gp120.== glycoprotein 120kDa
+G ==I have you==. Suck it.
+
+smiles
+CC(cccccc)C(cccccc)C(=O)O
