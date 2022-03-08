@@ -29,10 +29,13 @@ Out[99]:
 1    |5   |-1 |  50
 2    |6   |-1  |-30
 3|   |7   |-1 | -50
+```
 
 _Sorting_:
-`df.sort_values(by=("Labs", "II"), ascending=False)`
-`Out[99]: 
+```python
+df.sort_values (by=("Labs", "II"), ascending=False)
+
+Out[99]: 
 >>>>>>> 310edc92bea72470e346b04181c0f7297b71bdeb
                Exams     Labs    
                    I  II    I  II
@@ -45,4 +48,5 @@ Quinn   Sci       75  78   78  78
         Comp      73  74   75  76
 Ada     Sci       72  75   75  75
         Math      71  73   75  74
-        Comp      70  71   72  73`
+        Comp      70  71   72  73
+```
