@@ -28,8 +28,8 @@ Public Criticism of researchers during outbreaks:
 
 ## Forecasting fallacy
 
-Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so. With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather6.
-
+Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so. With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather^^6^^.
+^^7^^
 A Congolese child washes her hands as a preventive measure against Ebola in DRC, May 2018
 People in Mbandaka are taking extra precautionary measures to stop the spread of Ebola virus.Credit: Kenny Katombe/Reuters
 
