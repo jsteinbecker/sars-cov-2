@@ -18,7 +18,7 @@ Broad genomic surveys of animal viruses will almost certainly advance our unders
 
 We urge those working on infectious disease to focus funds and efforts on a much simpler and more cost-effective way to mitigate outbreaks — proactive, real-time surveillance of human populations.
 
-*==The public has increasingly questioned the scientific credibility of researchers working on outbreaks.==* In the 2013–16 Ebola epidemic, for instance, the international response was repeatedly criticized for being too slow. And during the 2009 H1N1 influenza epidemic, people asked whether the severity of the virus had been overblown, and if the stockpiling of pharmaceuticals was even necessary5. Making promises about disease prevention and control that cannot be kept will only further undermine trust.
+`The public has increasingly questioned the scientific credibility of researchers working on outbreaks.` In the 2013–16 Ebola epidemic, for instance, the international response was repeatedly criticized for being too slow. And during the 2009 H1N1 influenza epidemic, people asked whether the severity of the virus had been overblown, and if the stockpiling of pharmaceuticals was even necessary5. Making promises about disease prevention and control that cannot be kept will only further undermine trust.
 
 ```yaml note
 Public Criticism of researchers during outbreaks:
@@ -28,8 +28,8 @@ Public Criticism of researchers during outbreaks:
 
 ## Forecasting fallacy
 
-Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so. With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather6.
-
+Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so. With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather^^6^^.
+^^7^^
 A Congolese child washes her hands as a preventive measure against Ebola in DRC, May 2018
 People in Mbandaka are taking extra precautionary measures to stop the spread of Ebola virus.Credit: Kenny Katombe/Reuters
 
@@ -74,6 +74,7 @@ Nature 558, 180-182 (2018)
 doi: https://doi.org/10.1038/d41586-018-05373-w
 
 References
+```
 Carroll, D. et al. Science 359, 872–874 (2018).
 Article
  
@@ -141,7 +142,7 @@ Article
 Google Scholar
  
 Download references
-
+```
 Latest on:
 Diseases
 Ebola virus
