@@ -1,7 +1,7 @@
 import random as r
 
 
-   poss = r.choice([1,0,-1])
+poss = r.choice([1,0,-1])
 
 class creature:
 

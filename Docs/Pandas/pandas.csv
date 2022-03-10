@@ -1,4 +1,0 @@
-Action              ,Code                                       ,Example
-
-Filter Pandas DF    ,filterdf = df [df ['column'] == value]
-New Column from Old ,df['newcol'] = df['oldcol'] <<Expression>> ,df['partial year'] = df['year'] + (df['week'] / 52)

@@ -61,13 +61,13 @@ Once an emerging outbreak virus has been identified, it needs to be analysed qui
 
 This will best be achieved through an established global network of highly trained local researchers, such as the WHO Global Outbreak Alert and Response Network (GOARN). Real-time tools for reconstructing and tracking outbreaks at the genomic level, such as portable sequencing devices, are improving fast8. Information gathered during recent outbreaks has quickly had tangible impacts on public-health decisions, largely owing to data generation and analysis by many research teams within days of people being infected12.
 
-For instance, in the 2013–16 Ebola epidemic, genome sequencing of the virus proved that a person could sexually transmit the disease more than a year after becoming infected. This prompted the WHO to increase its recommended number of tests for persistent infection in survivors of the disease.
+`For instance, in the 2013–16 Ebola epidemic, genome sequencing of the virus proved that a person could sexually transmit the disease more than a year after becoming infected. This prompted the WHO to increase its recommended number of tests for persistent infection in survivors of the disease.`
 
 Ultimately, the challenge is to link genomic, clinical and epidemiological data within days of an outbreak being detected, including information about how people in an affected community are interacting. Such an open, collaborative approach to tackling the emergence of infectious disease is now possible. This is partly thanks to technology, but is mainly due to a shift in perception about the importance of this approach. At least in genomic epidemiology, there is a growing move towards real-time, open-access data and analysis, aided by the use of preprint servers and wikis such as Virological (http://virological.org). This type of collaborative effort can complement the work of agencies including the WHO and the MSF, which focus predominantly on providing information, isolating those who have been infected, and so on.
 
-So far, researchers have sampled little of the viral universe. Surveys of animals will undoubtedly result in the ==discovery== of many thousands of new viruses. These data will benefit studies of diversity and evolution, and could tell us whether and why some pathogens might jump species boundaries more frequently than others. But, given the rarity of outbreaks and the complexity of host–pathogen interactions, it is arrogant to imagine that we could use such surveys to predict and mitigate the emergence of disease.
+So far, researchers have sampled little of the viral universe. Surveys of animals will undoubtedly result in the `discovery` of many thousands of new viruses. These data will benefit studies of diversity and evolution, and could tell us whether and why some pathogens might jump species boundaries more frequently than others. But, given the rarity of outbreaks and the complexity of host–pathogen interactions, it is arrogant to imagine that we could use such surveys to predict and mitigate the emergence of disease.
 
-New viruses will continue to emerge unexpectedly. There is a lot we can and must do to be better prepared.
+`New viruses will continue to emerge unexpectedly. There is a lot we can and must do to be better prepared.`
 
 Nature 558, 180-182 (2018)
 

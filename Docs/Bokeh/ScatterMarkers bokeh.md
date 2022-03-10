@@ -1,5 +1,5 @@
 
-## Scatter markers
+# Scatter markers
 
 Bokeh includes a large variety of markers for creating scatter plots. For example, to render circle scatter markers on a plot, use the circle() method of Figure:
 
@@ -21,5 +21,5 @@ p.circle([1, 2, 3, 4, 5], \
 # show the results
 show(p)
 ```
-`#figuresize` `#mark` `#annotation`
 
+`#figuresize` `#mark` `#annotation`

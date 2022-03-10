@@ -1,6 +1,8 @@
-DROP COLUMN : df = df.drop('col_name', 1)
+DROP COLUMN : df = df.drop (CN, 1)
+  - CN : 'COLUMN NAME'
  
-NEW COLUMN (oldcol + calc) :
-df['newcol'] = df['oldcol'] * Expressions
+NEW COLUMN (oldcol + calc) : df['newcol'] = df['oldcol'] * Expr
 
-FILTER BY COL VALUE : filterdf = df [df ['col'] == value]
+NEW DATAFRAME (cols & index) : df = pd.DataFrame (columns = collist, index = idlist)
+
+FILTER BY COL VALUE : filterdf = df [df['c'] == val]
