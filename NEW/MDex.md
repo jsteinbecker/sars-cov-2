@@ -1,4 +1,413 @@
 
+
+
+
+
+
+ (function(w, d) {
+ w.config = w.config || {};
+ w.config.mustardcut = false;
+
+ 
+ if (w.matchMedia && w.matchMedia('only print, only all and (prefers-color-scheme: no-preference), only all and (prefers-color-scheme: light), only all and (prefers-color-scheme: dark)').matches) {
+ w.config.mustardcut = true;
+ d.classList.add('js');
+ d.classList.remove('grade-c');
+ }
+ })(window, document.documentElement);
+ 
+
+ (function () {
+ if ( typeof window.CustomEvent === "function" ) return false;
+ function CustomEvent ( event, params ) {
+ params = params || { bubbles: false, cancelable: false, detail: null };
+ var evt = document.createEvent( 'CustomEvent' );
+ evt.initCustomEvent( event, params.bubbles, params.cancelable, params.detail );
+ return evt;
+ }
+
+ CustomEvent.prototype = window.Event.prototype;
+
+ window.CustomEvent = CustomEvent;
+ })();
+
+
+
+Pandemics: spend on surveillance, not prediction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(e){var t=e.documentElement,n=e.implementation;t.className='js';if(n&&n.hasFeature('http://www.w3.org/TR/SVG11/feature#Image','1.1')){t.className+=' svg'}})(document)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ window.dataLayer = [{"content":{"category":{"contentType":"comment","legacy":{"webtrendsPrimaryArticleType":"comments & opinion","webtrendsSubjectTerms":"diseases;ebola-virus;epidemiology","webtrendsContentCategory":null,"webtrendsContentCollection":null,"webtrendsContentGroup":"Nature","webtrendsContentGroupType":null,"webtrendsContentSubGroup":"Comment"}},"article":{"doi":"10.1038/d41586-018-05373-w"},"attributes":{"cms":"core media","deliveryPlatform":"oscar","copyright":{"open":false,"legacy":{"webtrendsLicenceType":null}}},"contentInfo":{"authors":["Edward C. Holmes","Andrew Rambaut","Kristian G. Andersen"],"publishedAt":1528329600,"publishedAtString":"2018-06-07","title":"Pandemics: spend on surveillance, not prediction","legacy":null,"publishedAtTime":null,"documentType":"aplusplus"},"journal":{"pcode":"nature","title":"nature","volume":"558","issue":"7709"},"authorization":{"status":true},"features":[{"name":"furtherReadingSection","present":false}],"collection":null},"page":{"category":{"pageType":"article"},"attributes":{"template":"magazine mosaic","featureFlags":[{"name":"ab\_test\_news\_feature","active":false},{"name":"ab\_test\_highlight\_supp\_info","active":false},{"name":"nature-oa-paywall","active":true},{"name":"nature-onwards-journey","active":false}],"testGroup":null},"search":null},"privacy":{},"version":"1.0.0","product":null,"session":null,"user":null,"backHalfContent":false,"country":"US","hasBody":false,"uneditedManuscript":false,"twitterId":["o3xnx","o43y9","o3ef7"]}];
+ window.dataLayer.push({
+ ga4MeasurementId: 'G-ERRNTNZ807',
+ ga360TrackingId: 'UA-71668177-1',
+ twitterId: ['3xnx', 'o43y9', 'o3ef7'],
+ ga4ServerUrl: 'https://collect.nature.com',
+ imprint: 'nature'
+ });
+
+
+ window.dataLayer.push({
+ cmpAndNewGtmFeatureFlag: true
+ });
+ 
+
+
+ window.initGTM = function() {
+ if (window.config.mustardcut) {
+ (function (w, d, s, l, i) {
+ w[l] = w[l] || [];
+ w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+ var f = d.getElementsByTagName(s)[0],
+ j = d.createElement(s),
+ dl = l != 'dataLayer' ? '&l=' + l : '';
+ j.async = true;
+ 
+ j.src = 'https://collect.nature.com/gtm.js?id=' + i + dl;
+ 
+ f.parentNode.insertBefore(j, f);
+ })(window, document, 'script', 'dataLayer', 'GTM-MRVXSHQ');
+ }
+ }
+
+
+
+ (function(w,d,t) {
+ function cc() {
+ var h = w.location.hostname;
+ if (h.indexOf('preview-www.nature.com') > -1) return;
+
+ var e = d.createElement(t),
+ s = d.getElementsByTagName(t)[0];
+
+ if (h.indexOf('nature.com') > -1) {
+ e.src = 'https://push-content.springernature.io/pcf\_sb\_5\_1617714720898560639/production\_live/consent-bundle-8-8.js';
+ e.setAttribute('onload', "initGTM(window,document,'script','dataLayer','GTM-MRVXSHQ')");
+ } else {
+ e.src = '/static/js/cookie-consent-es5-bundle-444fb65518.js';
+ e.setAttribute('data-consent', h);
+ }
+ s.insertAdjacentElement('afterend', e);
+ }
+
+ cc();
+ })(window,document,'script');
+
+
+ window.eligibleForRa21 = 'true'; // required by js files for displaying the cobranding box (entitlement-box.js)
+ window.idpVerifyPrefix = 'https://verify.nature.com';
+ window.ra21Host = 'https://wayf.springernature.com';
+ 
+
+ (function(w, d) {
+ w.idpVerifyPrefix = 'https://verify.nature.com';
+ w.ra21Host = 'https://wayf.springernature.com';
+ var moduleSupport = (function() {
+ return 'noModule' in d.createElement('script');
+ })();
+
+ var polyfillsUrl = function() {
+ var features = {
+ 'IntersectionObserver': window.IntersectionObserver,
+ 'Promise': window.Promise,
+ 'URLSearchParams': window.URLSearchParams,
+ 'Symbol.iterator': window.Symbol && Symbol.iterator,
+ 'Array.from': Array.from,
+ 'Array.prototype.includes': Array.prototype.includes,
+ 'Array.prototype.find': Array.prototype.find,
+ 'Array.prototype.forEach': Array.prototype.forEach,
+ 'NodeList.prototype.forEach': NodeList.prototype.forEach,
+ 'Element.prototype.closest': Element.prototype.closest,
+ 'Element.prototype.prepend': Element.prototype.prepend,
+ 'Element.prototype.remove': Element.prototype.remove,
+ 'Object.assign': Object.assign
+ };
+ var req = [];
+ for (var feature in features) {
+ if (Object.prototype.hasOwnProperty.call(features, feature) && !features[feature]) {
+ req.push(feature);
+ }
+ }
+ if (req.length) {
+ return 'https://polyfill.io/v3/polyfill.min.js?features=' + req.join('%2C') + '&flags=always';
+ }
+ return null;
+ };
+
+ if (w.config.mustardcut === true) {
+ w.loader = {
+ index: 0,
+ registered: [],
+ scripts: [
+ {src: polyfillsUrl(), test: 'polyfills-js', noinit: true},
+ 
+ {src: '/static/js/magazine/magazine-mosaic-fa774b60d8.js', test: 'magazine-mosaic-js'},
+ {src: '/static/js/shared-es6-bundle-52043d4c0f.js', test: 'shared-js', module: true},
+ {src: '/static/js/shared-es5-bundle-19fd0d3511.js', test: 'shared-js', nomodule: true},
+ {src: '/static/js/header-150-es6-bundle-5bb959eaa1.js', test: 'header-150-js', module: true},
+ {src: '/static/js/header-150-es5-bundle-88bc691ce2.js', test: 'header-150-js', nomodule: true}
+ 
+ ].filter(function (s) {
+ if (s.src === null) return false;
+ if (moduleSupport && s.nomodule) return false;
+ return !(!moduleSupport && s.module);
+ }),
+
+ register: function (value) {
+ this.registered.push(value);
+ },
+
+ ready: function () {
+ if (this.registered.length === this.scripts.length) {
+ this.registered.forEach(function (fn) {
+ if (typeof fn === 'function') {
+ setTimeout(fn, 0); 
+ }
+ });
+ this.ready = function () {};
+ }
+ },
+
+ insert: function (s) {
+ var t = d.getElementById('js-position' + this.index);
+ if (t && t.insertAdjacentElement) {
+ t.insertAdjacentElement('afterend', s);
+ } else {
+ d.head.appendChild(s);
+ }
+ ++this.index;
+ },
+
+ createScript: function (script, beforeLoad) {
+ var s = d.createElement('script');
+ s.id = 'js-position' + (this.index + 1);
+ s.setAttribute('data-test', script.test);
+ if (beforeLoad) {
+ s.defer = 'defer';
+ s.onload = function () {
+ if (script.noinit) {
+ loader.register(true);
+ }
+ if (d.readyState === 'interactive' || d.readyState === 'complete') {
+ loader.ready();
+ }
+ };
+ } else {
+ s.async = 'async';
+ }
+ s.src = script.src;
+ return s;
+ },
+
+ init: function () {
+ this.scripts.forEach(function (s) {
+ loader.insert(loader.createScript(s, true));
+ });
+
+ d.addEventListener('DOMContentLoaded', function () {
+ loader.ready();
+ 
+ var conditionalScripts = null;
+ 
+
+ if (conditionalScripts) {
+ conditionalScripts.filter(function (script) {
+ return !!document.querySelector(script.match) && !((moduleSupport && script.nomodule) || (!moduleSupport && script.module));
+ }).forEach(function (script) {
+ loader.insert(loader.createScript(script));
+ });
+ }
+ }, false);
+ }
+ };
+ loader.init();
+ }
+ })(window, document);
+ 
+
+
+
+[Skip to main content](#content)
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+ the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+ Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+ and JavaScript.
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-1386506511&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=728x90&c=-1386506511&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)
+
+
+
+
+
+
+
+
+
+[![Nature](//media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg)](/)
+
+* [View all journals](https://www.nature.com/siteindex)
+* [Search](#search-menu)
+* [My Account](/nams/svc/myaccount)
+[Login](https://idp.nature.com/authorize/natureuser?client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-018-05373-w)
+
+
+
+
+
+
+
+
+
+* [Explore content](#explore)
+* [About the journal](#about-the-journal)
+* [Publish with us](#publish-with-us)
+
+
+
+
+[Subscribe](https://www.nature.com/nature/subscribe)
+
+
+
+* [Sign up for alerts](https://www.nature.com/my-account/alerts/subscribe-journal?list-id=1)
+* [RSS feed](http://feeds.nature.com/nature/rss/current)
+
+
+
+
+
+
+
+
+1. [nature](/)
+2. [comment](/nature/articles?type=comment)
+3. article
+
+
+
+
+
+
+
+
+
+
+
+
+
+* COMMENT
+* 07 June 2018
+
+
 Pandemics: spend on surveillance, not prediction
 ================================================
 
@@ -110,7 +519,7 @@ The public has increasingly questioned the scientific credibility of researchers
 
 **Forecasting fallacy**
 
-_Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so._ With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather[6](#ref-CR6).
+Supporters of outbreak prediction maintain that if biologists genetically characterize all of the viruses circulating in animal populations (especially in groups such as bats and rodents that have previously acted as reservoirs for emerging viruses), they can determine which ones are likely to emerge next, and ultimately prevent them from doing so. With enough data, coupled with artificial intelligence and machine learning, they argue, the process could be similar to predicting the weather[6](#ref-CR6).
 
 
 
@@ -261,25 +670,25 @@ Diseases
 
 
 
-[![Wuhan market was epicentre of pandemic’s start, studies suggest](https://images.nature.com/w140h79/magazine-assets/d41586-022-00584-8/d41586-022-00584-8_20172876.jpg)
-### Wuhan market was epicentre of pandemic’s start, studies suggest
+[![African leadership underpins success of malaria drug trial](https://images.nature.com/w140h79/magazine-assets/d41586-022-00573-x/d41586-022-00573-x_20192694.jpg)
+### African leadership underpins success of malaria drug trial
 
 
-News 27 FEB 22](http://www.nature.com/articles/d41586-022-00584-8)
+Nature Index 09 MAR 22](http://www.nature.com/articles/d41586-022-00573-x)
 
 
-[![Mechanism underlying a risk gene in neurodegeneration](https://images.nature.com/w140h79/magazine-assets/d41586-022-00383-1/d41586-022-00383-1_20176130.png)
-### Mechanism underlying a risk gene in neurodegeneration
+[![Could drugs prevent Alzheimer’s? These trials aim to find out](https://images.nature.com/w140h79/magazine-assets/d41586-022-00651-0/d41586-022-00651-0_20188694.jpg)
+### Could drugs prevent Alzheimer’s? These trials aim to find out
 
 
-News & Views 23 FEB 22](http://www.nature.com/articles/d41586-022-00383-1)
+News Feature 09 MAR 22](http://www.nature.com/articles/d41586-022-00651-0)
 
 
-[![Genetic associations of protein-coding variants in human disease](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04394-w/MediaObjects/41586_2022_4394_Fig1_HTML.png)
-### Genetic associations of protein-coding variants in human disease
+[![Regulation of liver subcellular architecture controls metabolic homeostasis](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04488-5/MediaObjects/41586_2022_4488_Fig1_HTML.png)
+### Regulation of liver subcellular architecture controls metabolic homeostasis
 
 
-Article 23 FEB 22](http://www.nature.com/articles/s41586-022-04394-w)
+Article 09 MAR 22](http://www.nature.com/articles/s41586-022-04488-5)
 
 
 
@@ -358,41 +767,41 @@ Nature Careers
 
 
 * #### 
-[PhD Position - Neuromorphic systems for solving hard optimization problems](https://www.nature.com/naturecareers/job/phd-position-neuromorphic-systems-for-solving-hard-optimization-problems-julich-research-centre-fzj-755165)
+[Principal Investigator / Faculty](https://www.nature.com/naturecareers/job/principal-investigator-faculty-san-diego-biomedical-research-institute-sdbri-755398)
 
 
 
-Jülich Research Centre (FZJ)
+San Diego Biomedical Research Institute (SDBRI)
 
 
-Aachen, Germany
+Multiple locations
 * #### 
-[PhD Position – Mixed analog-digital VLSI circuit design for neuromorphic systems](https://www.nature.com/naturecareers/job/phd-position-mixed-analogdigital-vlsi-circuit-design-for-neuromorphic-systems-julich-research-centre-fzj-755166)
+[Research Associate / Light Microscopy Imaging Specialist (m/f/x)](https://www.nature.com/naturecareers/job/research-associate-light-microscopy-imaging-specialist-mfx-technische-universitat-dresden-tu-dresden-755396)
 
 
 
-Jülich Research Centre (FZJ)
+Technische Universität Dresden (TU Dresden)
 
 
-Aachen, Germany
+01069 Dresden, Germany
 * #### 
-[Scientific Coordinator (m/f/d)](https://www.nature.com/naturecareers/job/scientific-coordinator-mfd-alfred-wegener-institute-helmholtz-centre-for-polar-and-marine-research-awi-755167)
+[Bioinformatician (m/f/div)](https://www.nature.com/naturecareers/job/bioinformatician-mfdiv-max-planck-institute-for-plant-breeding-research-mpipz-755395)
 
 
 
-Alfred Wegener Institute - Helmholtz Centre for Polar and Marine Research (AWI)
+Max Planck Institute for Plant Breeding Research (MPIPZ)
 
 
-Oldenburg, Germany
+Cologne, Germany
 * #### 
-[Postdoctoral Fellowship in Next-Generation RNA Therapeutics](https://www.nature.com/naturecareers/job/postdoctoral-fellowship-in-nextgeneration-rna-therapeutics-the-university-of-british-columbia-ubc-755172)
+[Research Coordinator / Institute Manager (div/f/m)](https://www.nature.com/naturecareers/job/research-coordinator-institute-manager-divfm-max-planck-institute-for-astrophysics-mpa-755394)
 
 
 
-The University of British Columbia (UBC)
+Max Planck Institute for Astrophysics (MPA)
 
 
-Vancouver, Canada
+Garching near Munich, Germany
 
 
 
@@ -441,7 +850,7 @@ Subjects
 
 
 
-[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=-1841225851&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=300x250&c=-1841225851&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)
+[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=-150342402&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=300x250&c=-150342402&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)
 
 
 

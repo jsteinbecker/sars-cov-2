@@ -1,12 +1,18 @@
+import re
 
 def extract_md_quotes (file_path):
    """
    -----------------------
-   |  EXTRACT MARKDOWN QUOTES      
+   EXTRACT MARKDOWN QUOTES      
    -----------------------
+      Example text text...
+   \```` quote
+      This will be extracted.
+   \````
+      This will not be.
+   ===============================
+   >>> "This will be extracted."
    """
-   import re
-
    file_ = open (file_path , "r")
    data = file_.read()
 
