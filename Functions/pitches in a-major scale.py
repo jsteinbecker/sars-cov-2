@@ -11,4 +11,15 @@ def a_n ():
   n = np.linspace(oct1, oct2, steps)
   return n
 
-a_n()
+print(a_n())
+
+majorscale = [2,2,1,2,2,2,1]
+
+ct = 0
+out = []
+out.append(a_n()[0])
+for x in majorscale:
+  ct += x
+  out.append(a_n()[ct])
+  
+len(out)

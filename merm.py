@@ -29,16 +29,16 @@ mm(g)
 
 # %%
 g = """
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#aaaaaa', 'tertiaryColor': '#fff0f0', 'background':'#eeeeee'}}}%%
+%%{init: {'theme': 'dark'}%%
         graph TD
           A[fa:fa-tree Christmas] -.->| fa:fa-money Get money .| B(Go shopping)
           B -.-> C{fa:fa-cloud <br> Let me think...}
           C -.-> B
-          B ==> G[/fa:fa-gemini Another/]
+          B --> G[/fa:fa-gemini Another/]
           C ==>|One| D[fa:fa-laptop Laptop_ ]
           C -->|Two| E[fa:fa-mobile iPhone_ ]
           C -.->|Three| F(fa:fa-car Car_)
-          subgraph "  _section"
+          subgraph "section"
             C
             D
             E

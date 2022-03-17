@@ -2,9 +2,13 @@ import numpy as np
 ####### NUMPY Functions
 
 def getColumn (array:np.array, colID:int):
-    """Return COLUMN from np.array and col_ID#
+    """-----------------------------------------
+    Return COLUMN from np.array and col_ID#
+    --------------------------------------------
     >>> array [ : , colID ]
-    >>> Note: colID is *zero-indexed* """
+    >>> Note: colID is *zero-indexed* 
+    --------------------------------------------
+    """
 
     return array[:,colID]
 

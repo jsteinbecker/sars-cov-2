@@ -3,14 +3,21 @@ import random as rnd
 import pandas as pd
 import numpy as np
 # %%
-states = ["State " + x for x in "A B C D E".split(" ")]
+"DEFINING STATES NAMES"
+def make_states (n:int):
+    stateletters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z".split(" ")
+    states = ["State " + x for x in stateletters]
+    return states[0:n]
+states = make_states(26)
 states
 # %%
+"RANDOMLY GEN STATES POPULATIONS"
 rnd.seed(2)
-pops = [rnd.randint(1, 20000) for x in range(5)]
+pops = [rnd.randint(1, 20000) for x in range(len(states))]
 pops
 
 # %%
+"CALC TOTAL POPULATION"
 total_pop = sum(pops)
 total_pop
 # %%
@@ -21,7 +28,8 @@ df
 df['%pop'] = round (df["population"] / df["total_pop"]*100, 1)
 df
 # %%
-total_reps = 75
+"NATIONWIDE POP:REP RATIO"
+total_reps = 275
 people_per_rep =  total_pop / total_reps 
 people_per_rep
 # %%
@@ -50,6 +58,7 @@ seats_to_fill
 """INDEX DF FROM 0 : # OF SEATS TO FILL"""
 getsnewrep = df.sort_values("divisor")[0:seats_to_fill]
 getsnewrep
+print(list(getsnewrep.index))
 # %%
 df['addrep'] = getsnewrep['reps'] + 1
 df
