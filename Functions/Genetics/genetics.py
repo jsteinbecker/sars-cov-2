@@ -16,7 +16,6 @@ def cleanDNA (seq:str) -> str:
    seq = re.sub("\s","",seq) #spaces
    seq = re.sub("\n","",seq) #newlines
    seq = seq.lower()
-
    return seq
 def gcContent (seq:str) -> int:
    """

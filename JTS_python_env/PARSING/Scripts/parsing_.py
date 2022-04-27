@@ -14,6 +14,8 @@ def remove_MDTable_Bar (text:str) -> str:
    edit = re.sub(pattern,repl,text)
    return edit
 
+
+
 def pipe_to_comma (text:str) -> str:
    """
    Pipe To Comma (MDTable Convert)

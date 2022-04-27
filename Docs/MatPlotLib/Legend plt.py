@@ -15,8 +15,8 @@ yaxis2 = [12,8,2]
 
 lab = ["EMP_1","EMP_2"]
 
-bar = plt.bar(xaxis,yaxis,color='pink')
-bar2 = plt.bar(xaxis,yaxis2,color='gold')
+bar = plt.bar(xaxis,yaxis,color='navy')
+bar2 = plt.bar(xaxis,yaxis2,color='blue')
 
 plt.legend(handles=(bar,bar2),labels=lab) # <-- LEGEND GENERATED HERE
 

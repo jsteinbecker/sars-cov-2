@@ -238,8 +238,8 @@ Pandemics: spend on surveillance, not prediction
  {src: polyfillsUrl(), test: 'polyfills-js', noinit: true},
  
  {src: '/static/js/magazine/magazine-mosaic-fa774b60d8.js', test: 'magazine-mosaic-js'},
- {src: '/static/js/shared-es6-bundle-52043d4c0f.js', test: 'shared-js', module: true},
- {src: '/static/js/shared-es5-bundle-19fd0d3511.js', test: 'shared-js', nomodule: true},
+ {src: '/static/js/shared-es6-bundle-4109f44976.js', test: 'shared-js', module: true},
+ {src: '/static/js/shared-es5-bundle-d6834f1375.js', test: 'shared-js', nomodule: true},
  {src: '/static/js/header-150-es6-bundle-5bb959eaa1.js', test: 'header-150-js', module: true},
  {src: '/static/js/header-150-es5-bundle-88bc691ce2.js', test: 'header-150-js', nomodule: true}
  
@@ -342,7 +342,7 @@ Advertisement
 
 
 
-[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-1386506511&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=728x90&c=-1386506511&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)
+[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=728x90&c=-565669034&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=728x90&c=-565669034&t=pos%3Dtop%26type%3Darticle%26artid%3Dd41586-018-05373-w%26doi%3D10.1038/d41586-018-05373-w%26subjmeta%3D174,2042,326,478,596,631,692,699,700%26kwrd%3DDiseases,Ebola+virus,Epidemiology)
 
 
 
@@ -477,7 +477,9 @@ You have full access to this article via your institution.
 
 
 
+
 [Download PDF](//media.nature.com/original/magazine-assets/d41586-018-05373-w/d41586-018-05373-w.pdf)
+
 
 
 
@@ -670,25 +672,25 @@ Diseases
 
 
 
-[![African leadership underpins success of malaria drug trial](https://images.nature.com/w140h79/magazine-assets/d41586-022-00573-x/d41586-022-00573-x_20192694.jpg)
-### African leadership underpins success of malaria drug trial
+[![Genetic origins of schizophrenia find common ground](https://images.nature.com/w140h79/magazine-assets/d41586-022-00773-5/d41586-022-00773-5_20284646.png)
+### Genetic origins of schizophrenia find common ground
 
 
-Nature Index 09 MAR 22](http://www.nature.com/articles/d41586-022-00573-x)
+News & Views 11 APR 22](http://www.nature.com/articles/d41586-022-00773-5)
 
 
-[![Could drugs prevent Alzheimer’s? These trials aim to find out](https://images.nature.com/w140h79/magazine-assets/d41586-022-00651-0/d41586-022-00651-0_20188694.jpg)
-### Could drugs prevent Alzheimer’s? These trials aim to find out
+[![Rare coding variants in ten genes confer substantial risk for schizophrenia](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04556-w/MediaObjects/41586_2022_4556_Fig1_HTML.png)
+### Rare coding variants in ten genes confer substantial risk for schizophrenia
 
 
-News Feature 09 MAR 22](http://www.nature.com/articles/d41586-022-00651-0)
+Article 08 APR 22](http://www.nature.com/articles/s41586-022-04556-w)
 
 
-[![Regulation of liver subcellular architecture controls metabolic homeostasis](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04488-5/MediaObjects/41586_2022_4488_Fig1_HTML.png)
-### Regulation of liver subcellular architecture controls metabolic homeostasis
+[![Mapping genomic loci implicates genes and synaptic biology in schizophrenia](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04434-5/MediaObjects/41586_2022_4434_Fig1_HTML.png)
+### Mapping genomic loci implicates genes and synaptic biology in schizophrenia
 
 
-Article 09 MAR 22](http://www.nature.com/articles/s41586-022-04488-5)
+Article 08 APR 22](http://www.nature.com/articles/s41586-022-04434-5)
 
 
 
@@ -726,25 +728,25 @@ Epidemiology
 
 
 
-[![Had Omicron? You're unlikely to catch its rising variant](https://images.nature.com/w140h79/magazine-assets/d41586-022-00558-w/d41586-022-00558-w_20169024.jpg)
-### Had Omicron? You're unlikely to catch its rising variant
+[![Evidence from a statewide vaccination RCT shows the limits of nudges](https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-022-04526-2/MediaObjects/41586_2022_4526_Fig1_HTML.png)
+### Evidence from a statewide vaccination RCT shows the limits of nudges
 
 
-News 25 FEB 22](http://www.nature.com/articles/d41586-022-00558-w)
+Matters Arising 06 APR 22](http://www.nature.com/articles/s41586-022-04526-2)
 
 
-[![Fourth dose of COVID vaccine offers only slight boost against Omicron infection](https://images.nature.com/w140h79/magazine-assets/d41586-022-00486-9/d41586-022-00486-9_20151098.jpg)
-### Fourth dose of COVID vaccine offers only slight boost against Omicron infection
+[![COVID vaccine plus infection can lead to months of immunity](https://images.nature.com/w140h79/magazine-assets/d41586-022-00961-3/d41586-022-00961-3_20280032.jpg)
+### COVID vaccine plus infection can lead to months of immunity
 
 
-News 23 FEB 22](http://www.nature.com/articles/d41586-022-00486-9)
+News 06 APR 22](http://www.nature.com/articles/d41586-022-00961-3)
 
 
-[![Commit to transparent COVID data until the WHO declares the pandemic is over](https://images.nature.com/w140h79/magazine-assets/d41586-022-00424-9/d41586-022-00424-9_20083424.jpg)
-### Commit to transparent COVID data until the WHO declares the pandemic is over
+[![Lessons from the COVID data wizards](https://images.nature.com/w140h79/magazine-assets/d41586-022-00792-2/d41586-022-00792-2_20231580.jpg)
+### Lessons from the COVID data wizards
 
 
-World View 22 FEB 22](http://www.nature.com/articles/d41586-022-00424-9)
+News Feature 23 MAR 22](http://www.nature.com/articles/d41586-022-00792-2)
 
 
 
@@ -767,41 +769,41 @@ Nature Careers
 
 
 * #### 
-[Principal Investigator / Faculty](https://www.nature.com/naturecareers/job/principal-investigator-faculty-san-diego-biomedical-research-institute-sdbri-755398)
+[Postdoc](https://www.nature.com/naturecareers/job/postdoc-new-york-university-nyu-756972)
 
 
 
-San Diego Biomedical Research Institute (SDBRI)
+New York University (NYU)
 
 
-Multiple locations
+New York, NY, United States
 * #### 
-[Research Associate / Light Microscopy Imaging Specialist (m/f/x)](https://www.nature.com/naturecareers/job/research-associate-light-microscopy-imaging-specialist-mfx-technische-universitat-dresden-tu-dresden-755396)
+[Professor in experimental diabetes research](https://www.nature.com/naturecareers/job/professor-in-experimental-diabetes-research-uppsala-university-uu-756971)
 
 
 
-Technische Universität Dresden (TU Dresden)
+Uppsala University (UU)
 
 
-01069 Dresden, Germany
+Uppsala, Sweden
 * #### 
-[Bioinformatician (m/f/div)](https://www.nature.com/naturecareers/job/bioinformatician-mfdiv-max-planck-institute-for-plant-breeding-research-mpipz-755395)
+[Novo Nordisk Postdoctoral Research Fellowships](https://www.nature.com/naturecareers/job/novo-nordisk-postdoctoral-research-fellowships-university-of-oxford-756969)
 
 
 
-Max Planck Institute for Plant Breeding Research (MPIPZ)
+University of Oxford
 
 
-Cologne, Germany
+Oxford, United Kingdom
 * #### 
-[Research Coordinator / Institute Manager (div/f/m)](https://www.nature.com/naturecareers/job/research-coordinator-institute-manager-divfm-max-planck-institute-for-astrophysics-mpa-755394)
+[Associate or Senior Editor, Nature Biomedical Engineering](https://www.nature.com/naturecareers/job/associate-or-senior-editor-nature-biomedical-engineering-springer-nature-756964)
 
 
 
-Max Planck Institute for Astrophysics (MPA)
+Springer Nature
 
 
-Garching near Munich, Germany
+London, United Kingdom
 
 
 
@@ -822,7 +824,9 @@ You have full access to this article via your institution.
 
 
 
+
 [Download PDF](//media.nature.com/original/magazine-assets/d41586-018-05373-w/d41586-018-05373-w.pdf)
+
 
 
 Related Articles
@@ -850,7 +854,7 @@ Subjects
 
 
 
-[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=-150342402&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=300x250&c=-150342402&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)
+[![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&sz=300x250&c=986587727&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)](//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&sz=300x250&c=986587727&t=pos%3Dright%26artid%3D/articles/d41586-018-05373-w)
 
 
 
@@ -1018,7 +1022,7 @@ About the journal
 * [Journal Information](/nature/journal-information)
 * [Our publishing models](/nature/our-publishing-models)
 * [Editorial Values Statement](/nature/editorial-values-statement)
-* [Journal Impact](/nature/journal-impact)
+* [Journal Metrics](/nature/journal-impact)
 * [Awards](/nature/awards)
 * [Contact](/nature/contact)
 * [Editorial policies](/nature/editorial-policies)
@@ -1163,6 +1167,7 @@ nature.com sitemap
 * [Scientific editing](https://authorservices.springernature.com/scientific-editing/)
 * [Nature Masterclasses](https://masterclasses.nature.com/)
 * [Nature Research Academies](https://partnerships.nature.com/product/researcher-training/)
+* [Research Solutions](https://solutions.springernature.com/)
 
 
 
@@ -1234,6 +1239,9 @@ nature.com sitemap
 
 
 ![Springer Nature](/static/images/logos/sn-logo-white.svg)
+
+
+
 
 
 
