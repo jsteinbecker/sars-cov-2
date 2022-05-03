@@ -37,3 +37,8 @@ propanol : OCCC
 | aspirin            | c1(C(=O)C)c(N)cccc1                       |
 | propyne            | CC#C                                      |
 | propanol           | OCCC                                      |
+
+
+```py
+fuck = str(100)
+```

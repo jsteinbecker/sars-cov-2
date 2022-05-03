@@ -5,10 +5,11 @@ def cleanDNA (seq:str) -> str:
    """
    --------------------
    CLEAN DNA STRING
-   --------------------
+   ====================
    REMOVES DIGITS, SPACES AND 
    NEWLINE CHARACTERS FROM INPUT
    ----------------------------------
+   >>> seq     : str
    """
    import re
 
@@ -17,19 +18,21 @@ def cleanDNA (seq:str) -> str:
    seq = re.sub("\n","",seq) #newlines
    seq = seq.lower()
    return seq
-def gcContent (seq:str) -> int:
+def gcContent (seq:str) -> float:
    """
    ----------------
-   Function: -> int
+   GC CONTENT
    ---------------- 
    Return GC Content of Nucleic Acid Sequence. 
    Returned as decimal value. 
 
    >>> seq='accgtgacgtgtgacgtgccgtag'
    >>> gcContent(seq)
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    'SCRIPT EXAMPLE':
         accgtgacgtgtgacgtgccgtag :
         G/C%: 0.625
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    """
    seq = seq.lower()
    gcPerc = round((seq.count("g")+ seq.count("c")) \
@@ -124,8 +127,8 @@ class dnaseq ():
       self.rev = self.seq[::-1]
 
       def complement (seq):
-         nt = 'acgtn'
-         ntc = 'tgcan'
+         nt = 'acgtxn'
+         ntc = 'tgcayn'
          compl = ""
          for b in seq:
             cid = nt.index(b)
@@ -142,16 +145,17 @@ class dnaseq ():
       self.pur = self.a + self.g
       self.pyr = self.c + self.t
       self.gc = (self.g + self.c) / self.len
-
-      def hydrogenbonds(seq):
+      
+      @property
+      def hydrogenbonds(self):
          hb = 0
-         for x in seq:
+         for x in self.seq:
             if x == "g" or x == "c":
                hb += 3
             if x == "a" or x == "t":
                hb += 2
          return hb
-      self.hbonds = hydrogenbonds(self.seq)
+      
 class mutationchain ():
    def __init__ (self, sequence, risk, generations):
       self.seq = sequence
@@ -173,3 +177,9 @@ class mutationchain ():
                i += 1
          cd.append(i)
       self.chaindiff = cd
+
+
+gcContent ('acttcacttacg')
+# 0.4167
+dnaseq ('acttcgaccgccccc').hydrogenbonds
+

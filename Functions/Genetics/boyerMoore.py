@@ -93,7 +93,9 @@ def small_l_prime_array(n):
 
 
 def good_suffix_table(p):
-    """ Return tables needed to apply good suffix rule. """
+    """ GOOD SUFFIX TABLE FUNC.
+    Return tables needed to apply good suffix rule. 
+    """
     n = n_array(p)
     lp = big_l_prime_array(p, n)
     return lp, big_l_array(p, lp), small_l_prime_array(n)
@@ -292,8 +294,6 @@ class TestBoyerMoorePreproc(unittest.TestCase):
         self.assertEqual([0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 8], big_l)
         self.assertEqual([11, 4, 4, 4, 4, 4, 4, 4, 1, 1, 1], small_l_prime)
 
-if __name__ == '__main__':
-    unittest.main()
 
 
 def boyer_moore(p, p_bm, t):
@@ -324,4 +324,9 @@ def boyer_moore(p, p_bm, t):
         i += shift
 
     return occurrences
-#boyer_moore('act', 'ac', 'ttcgtacgtgaccgtgcgtaacttgcta')
+
+
+
+if __name__ == '__main__':
+    unittest.main()
+

@@ -18,6 +18,16 @@ tags : polisci
 
 ## Melitopol
 
-  `Situation in Occupied Melitopol` :: Russian occupation losing around 2 troops / wk. to resistance movement acting at night. Unsustainable for an occupying force.
+  `Situation in Occupied Melitopol` :: Russian occupation losing around 2 troops / wk. to resistance movement acting at night. Unsustainable for an occupying force. [^1]
 
 ---
+H~2~O $\sqrt6$
+The Worst
+---
+
+ 5 <= 7
+
+[1]: Southeast Ukraine
+
+
+$\app$
