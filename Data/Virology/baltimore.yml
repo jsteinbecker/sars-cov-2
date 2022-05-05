@@ -1,13 +1,13 @@
 BALTIMMORE CLASS
 
 class I : 
-  dsDNA
+  g : dsDNA
 class II:
-  ssDNA
+  g : ssDNA
 class III:
-  +ssRNA
+  g : +ssRNA
 class IV:
-  -ssRNA
+  g : -ssRNA
 class V:
-  dsRNA
+  g : dsRNA
 class VI:

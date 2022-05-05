@@ -14,11 +14,11 @@ def mm(graph,darkmode=1):
 mm("""
 graph LR;
 subgraph " "
-    A--> B & C & D;
-    B--> A & E;
-    C--> A & E;
-    D--> A & E;
-    E--> B & C & D;
+    A --> B & C & D;
+    B --> A & E;
+    C --> A & E;
+    D --> A & E;
+    E --> B & C & D;
 end
 """,1)
 # %%

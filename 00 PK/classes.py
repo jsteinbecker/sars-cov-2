@@ -24,6 +24,7 @@ class CrCl:
         self.CrCl = round(((140 - self.age) * self.weight_kg_ )/(72 * self.Serum_Creat),2)
         self.INFOSOURCE = "source: Cockroft-Gault Method"
         self.calcRefRange()
+        
     def calcRefRange (self):
         #REF RANGE
         if self.CrCl < 30:

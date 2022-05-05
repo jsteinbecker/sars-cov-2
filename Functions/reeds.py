@@ -26,3 +26,5 @@ class oboeReed:
       self.clips.append(amount)
       self.len = self.len - amount
       
+oboeReed.__bases__()
+

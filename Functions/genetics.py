@@ -39,6 +39,7 @@ def gcContent (seq:str) -> float:
                    / len(seq),4)
 
    return gcPerc
+
 def ntCenter(seq,nts,displaytype = True):
     """
     FUNCTION WILL RETURN AN ARRAY WITH VALUES:
@@ -70,6 +71,8 @@ def ntCenter(seq,nts,displaytype = True):
     if displaytype == False:
 
         return centers
+     
+     
 def randomOligo (length:int):
    """
    FUNCTION: Generate Oligonucleotide 
@@ -84,9 +87,12 @@ def randomOligo (length:int):
       seq += x
    
    return seq
+
 def rolig () -> str:
    length = int(input("Length (#bp): "))
    return randomOligo(length)
+
+
 def randomOligoSet (length:int, qty:int):
    """
    FUNCTION: Generate set of oligos 
@@ -99,10 +105,13 @@ def randomOligoSet (length:int, qty:int):
       seqs.append(x)
       
    return seqs
+
+
 def roligs () -> list:
    length = int(input("Length (#bp): "))
    qty = int(input("Quantity: "))
    return randomOligoSet(length, qty)
+
 def reverseSequence (seq:str):
    revs = seq[::-1]
    return revs
@@ -179,7 +188,5 @@ class mutationchain ():
       self.chaindiff = cd
 
 
-gcContent ('acttcacttacg')
-# 0.4167
-dnaseq ('acttcgaccgccccc').hydrogenbonds
+
 

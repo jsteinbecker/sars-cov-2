@@ -3,6 +3,9 @@ def solveEq(equation, solvefor):
     |--MARKDOWN DISPLAY FUNCTION--------------------|
     |  SOLVE SYMPY EQUATION, DISPLAYS BOXED ANSWER  |
     |===============================================|
+            >>> equation
+            >>> solvefor        : symbol
+    |===============================================|       
     """
     import sympy as sp
     from IPython.display import Markdown, display

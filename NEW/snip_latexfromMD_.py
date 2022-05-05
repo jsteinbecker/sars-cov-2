@@ -6,12 +6,15 @@ def extract_md_quotes (file_path):
    EXTRACT MARKDOWN QUOTES      
    -----------------------
       Example text text...
-   \```` quote
-      This will be extracted.
-   \````
-      This will not be.
-   ===============================
-   >>> "This will be extracted."
+   >>> ``` quote
+   >>> This will be extracted.
+   >>> ```
+   >>>   This will not be.
+   
+   >>> "This will also be extracted."
+   
+   ======================================================================================
+                                                              Output >>> List (of quotes)
    """
    file_ = open (file_path , "r")
    data = file_.read()
@@ -24,9 +27,6 @@ def extract_md_quotes (file_path):
       print(quote)
    return quotes
 # Runnng code ---
-\
-   extract_md_quotes ("/Users/joshsteinbecker/jts_project/CovidCVRisks.md")
-
 
 
 
@@ -36,7 +36,11 @@ def extract_md_latex (file_path):
    -----------------------
    |  EXTRACT MARKDOWN LATEX      
    -----------------------
-   Output >>> List of Latex Lines
+   >>> $$ x = y^2 $$  <-- Extracted
+   >>> x = y^3        <-- Not Extracted
+   
+   ==========================================================================================
+                                                              Output >>> List (of latex expr)
    """
    import re
 

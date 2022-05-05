@@ -11,9 +11,9 @@ def cleanDNA (seq:str) -> str:
    """
    import re
 
-   seq = re.sub("\d","",seq) #digits
-   seq = re.sub("\s","",seq) #spaces
-   seq = re.sub("\n","",seq) #newlines
+   seq = re.sub("\d","",seq) # digits
+   seq = re.sub("\s","",seq) # spaces
+   seq = re.sub("\n","",seq) # newlines
    seq = seq.lower()
 
    return seq
