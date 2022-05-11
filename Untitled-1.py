@@ -1,3 +1,5 @@
+# %%
+#import functions.math as math
 import sympy as sp
 from IPython.display import display, Markdown
 
@@ -6,13 +8,14 @@ from IPython.display import display, Markdown
 def solveEq(equation,  solvefor,   displayTable=True) -> display :
    """
    |--MARKDOWN DISPLAY FUNCTION--------------------|
-   |  SOLVE SYMPY EQUATION, DISPLAYS BOXED ANSWER  |
+   
+      SOLVE SYMPY EQUATION, DISPLAYS BOXED ANSWER  
    |===============================================|
    |
-            >>> equation         : sympy
-            >>> solveFor         : sp.Symbol
-    
-            >>> *displayTable    = True
+   |        >>> 1. equation    : sympy
+   |        >>> 2. solveFor    : sp.Symbol
+   |      
+   |        >>> *3. displayTable   = True
    |_______________________________________________|
    """
 
@@ -101,9 +104,9 @@ class s :
 
 class EQ_pH_POH (EQ_pH):
    symbols = s.pH, s.pOH
-   equation = sp.Eq(pH + pOH , 14)
-   def solve (pH=s.pH,pOH=s.pOH):
-      return sp.evalf(subs={pH:pH,pOH:pOH})
+   equation = sp.Eq(s.pH + s.pOH , 14)
+   def solve (pH_in=s.pH,pOH_in=s.pOH):
+      return EQ_pH_POH.equation.evalf(subs={s.pH:pH_in,s.pOH:pH_in})
 
 def roundUpToMultiple(number: float, multiple: int) -> int:
     """
@@ -125,3 +128,36 @@ def roundUpToMultiple(number: float, multiple: int) -> int:
 
     rounded = number + (multiple - 1)
     return int(rounded - (rounded % multiple))
+
+
+# %% [markdown]
+# # The pH Equation
+# 
+
+# %% [markdown]
+# ####  Calculate the concentration of protons in a solution with $pH = 7$
+
+# %%
+eq = EQ_pH    
+eq.equation._has
+
+# %%
+sub = eq.equation.subs({eq.pH: 7})
+EQ_pH.solve_pH(eq.equation, 10)[0]
+
+# %% [markdown]
+# #### Calculate the pOH of a solution with $pH = 2.2$
+
+# %%
+eq = EQ_pH_POH
+eq.equation
+
+# %%
+"Not working??"
+eq.solve()
+
+
+# %%
+
+
+

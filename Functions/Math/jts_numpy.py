@@ -15,7 +15,7 @@ def getColumn (array:np.array, colID:int):
 def getRow (array:np.array, rowID:int):
     """Return ROW from np.array and col_ID#
     >>> array [ rowID , : ]
-    >>> Note: rowID is *zero-indexed* """
+    'Note: rowID is *zero-indexed*' """
     
     return array[rowID,:]
 

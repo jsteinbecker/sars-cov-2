@@ -16,3 +16,4 @@ def generateCodons():
 
    print(nts)
 
+generateCodons()

@@ -8,6 +8,7 @@ def randomOligo (length:int):
    """
    FUNCTION: Generate Oligonucleotide 
    with specified length.
+   >>> Length (n Bases): int
    """
    base = 'acgt'
 

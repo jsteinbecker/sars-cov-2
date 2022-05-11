@@ -12,7 +12,7 @@ def a_n ():
   return n
 
 print(a_n())
-
+             #W W H W W W H
 majorscale = [2,2,1,2,2,2,1]
 
 ct = 0
