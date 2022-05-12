@@ -8,3 +8,10 @@
 55*kg --->  121.254244201683*pound
 60*kg --->  132.277357310927*pound
 61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+5*mol/liter --->  5.0*mol/liter
+5*mol/liter --->  5.0*mol/liter
+5*mol/liter --->  5.0*mol/liter
