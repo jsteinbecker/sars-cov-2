@@ -12,10 +12,11 @@ tags : polisci
 !!! danger
     *Putin used the term 2022/03/17, refering to protesters within as the Fifth Column.*
 
-  - Alternative view : _Putin_ and his _small group_ promoting war are the _true Fifth Column_, underming the establishment and pushing Russia toward a status as a failed state.
+  - ***Alternative view*** : _Putin_ and his _small group_ promoting war are the _true Fifth Column_, underming the establishment and pushing Russia toward a status as a failed state.
 
 
 
+---
 
 ## Melitopol
 
@@ -25,6 +26,7 @@ tags : polisci
 $\tt H_2O$ $\tt \sqrt6$
 
 $\tt The~Worst$
+
 ---
 
 $5 \le 7$
