@@ -1,0 +1,11 @@
+
+
+# FORMAT CODES
+#----------------------
+
+integer :     "{:g}"
+commas :      "{:,}"
+sigfigs (3) : "{:.3}"
+
+
+
