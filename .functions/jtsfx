@@ -1,0 +1,51 @@
+from IPython.display import Markdown
+import sympy as sp
+
+# FUNCTIONS FOR DISLAY SETTINGS
+
+def add_MD_Dollars_              (math_string) -> str: 
+   return "$" + math_string + "$"
+
+
+def add_MD_Dollars_Display_      (math_string) -> Markdown:  
+   return Markdown(add_MD_Dollars_(math_string))
+
+
+def solveEq                      (equation,  solvefor,   displayTable=True) -> Markdown :
+   """
+   |--MARKDOWN DISPLAY FUNCTION--------------------|
+   
+      SOLVE SYMPY EQUATION, DISPLAYS BOXED ANSWER  
+   |===============================================|
+   |
+   |        >>> 1. equation    : sympy
+   |        >>> 2. solveFor    : sp.Symbol
+   |      
+   |        >>> *3. displayTable   = True
+   |_______________________________________________|
+   """
+
+   try:
+      # GOOD RESPONSE ASSUMING SP PUT SOLUTION IN LIST
+      s = sp.solve(equation, solvefor)[0]
+   except:
+      return "UNSOLVABLE"
+   eq = sp.Eq(solvefor, s)
+
+   #display (Markdown("$~~~~~~~~~~\\boxed{"+eq._repr_latex_().replace("$","")+"}$"))
+   if displayTable == True:
+      solved = "$\\boxed{"+eq._repr_latex_().replace("$", "")+"}$"
+      equa = eq._repr_latex_()
+      table = f'Equation | *Solve for {solvefor._repr_latex_()} :*\n---|---------\n{equation._repr_latex_()} | {solved}'
+      MD = Markdown(table)
+
+      return display(MD)
+   
+   else:
+      pass
+   #===========================================
+def makespSymbols(symbol):
+   return [sp.Symbol(x) for x in symbol.split(" ")]
+
+A, B = makespSymbols("alpha beta")
+B / A

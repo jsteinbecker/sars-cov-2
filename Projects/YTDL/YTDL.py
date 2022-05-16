@@ -23,7 +23,9 @@ async def download_audio(video:pytube.YouTube,name:str):
     return path
 
 
-def main(videoURL:str,name:str="Untitled"):
+def main():
+    videoURL = input ("URL: ")
+    name = input ("Name [ENTER] to download: ")
     before_start()
     """ Main function """
     video = pytube.YouTube(videoURL)
@@ -32,4 +34,5 @@ def main(videoURL:str,name:str="Untitled"):
     
     
     
-main("https://www.youtube.com/watch?v=u2Rtd4tnFwU&t=1430s", "SHOSTAKOVICH: SYM-10 (FRSO)")
+if __name__ == "__main__":
+    main()
