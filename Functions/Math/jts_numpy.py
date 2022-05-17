@@ -13,7 +13,10 @@ def getColumn (array:np.array, colID:int):
     return array[:,colID]
 
 def getRow (array:np.array, rowID:int):
-    """Return ROW from np.array and col_ID#
+    """getRow
+    -------------------------------------------- 
+    | Return ROW from np.array and col_ID#
+    |-------------------------------------------
     >>> array [ rowID , : ]
     'Note: rowID is *zero-indexed*' """
     

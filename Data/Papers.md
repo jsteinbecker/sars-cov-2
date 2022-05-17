@@ -1,7 +1,7 @@
-| Paper                             | Author         | Link     |
-| --------------------------------- | :--------------: | -------- |
-|[The Proximal Origin of SARS-CoV-2](http://www.nature.com)| Andersen *et al* | $fc^2$ 
-The Origin of SARS CoV2: A Critical Review| Andersen et al|Science^2021^
+| Paper                                                      |      Author      | Link          |
+| ---------------------------------------------------------- | :--------------: | ------------- |
+| [The Proximal Origin of SARS-CoV-2](http://www.nature.com) | Andersen *et al* | $fc^2$        |
+| The Origin of SARS CoV2: A Critical Review                 |  Andersen et al  | Science^2021^ |
 
 ## Part II
 <>

@@ -12,3 +12,12 @@
 61*kg --->  134.481979932775*pound
 100*mile/hour --->  160.9344*km/hour
 61*kg --->  134.481979932775*pound
+<<<<<<< HEAD
+=======
+5*mol/liter --->  5.0*mol/liter
+5*mol/liter --->  5.0*mol/liter
+5*mol/liter --->  5.0*mol/liter
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+5*mol/liter --->  5.0*mol/liter
+>>>>>>> c63c681c1f20c0e9b9196cc96c6c1c8b422bfbea
