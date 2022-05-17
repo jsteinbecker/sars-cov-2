@@ -44,8 +44,9 @@ def solveEq                      (equation,  solvefor,   displayTable=True) -> M
    else:
       pass
    #===========================================
+   
 def makespSymbols(symbol):
    return [sp.Symbol(x) for x in symbol.split(" ")]
 
-A, B = makespSymbols("alpha beta")
-B / A
+def sp_PrintAll ():
+   sp.printing.str.StrPrinter._default_settings['abbrev'] = True
