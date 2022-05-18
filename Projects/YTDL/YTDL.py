@@ -17,13 +17,13 @@ def before_start():
 async def download_audio(video:pytube.YouTube,name:str):
     """ Download the audio of a video """
     audio = video.streams.filter(only_audio=True).first()
-    path = os.path.join(CACHE_PATH, name + '.mp3')
+    path = os.path.join(CACHE_PATH, name + '.wav')
     with open(path, 'wb') as f:
         audio.stream_to_buffer(f)
     return path
 
-
-def main(videoURL:str,name:str="Untitled"):
+# MAIN FUNCTION
+def yt_download(videoURL:str,name:str="Untitled"):
     before_start()
     """ Main function """
     video = pytube.YouTube(videoURL)
@@ -31,5 +31,6 @@ def main(videoURL:str,name:str="Untitled"):
     
     
     
-    
-main("https://www.youtube.com/watch?v=u2Rtd4tnFwU&t=1430s", "SHOSTAKOVICH: SYM-10 (FRSO)")
+
+if __name__ == "__main__":
+    yt_download("https://www.youtube.com/watch?v=kwA5GsQBVOk", "BLACK : DUET FOR 2 BASS CLARINETS")
