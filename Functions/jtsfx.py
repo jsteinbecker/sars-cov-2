@@ -1,5 +1,9 @@
 from IPython.display import Markdown
 import sympy as sp
+from matplotlib import rcParams
+import base64
+from IPython.display import Image, display
+import matplotlib.pyplot as plt
 
 # FUNCTIONS FOR DISLAY SETTINGS
 
@@ -50,3 +54,30 @@ def makespSymbols(symbol):
 
 def sp_PrintAll ():
    sp.printing.str.StrPrinter._default_settings['abbrev'] = True
+
+def derivative (func):
+   dfdx = sp.diff (func)
+   return dfdx
+
+def showDerivative (func):
+   dfdx = derivative(func)
+   display(func)
+   str_ddx = "$ \\frac {d}{dx} = <<>>"
+   ddx = str_ddx.replace("<<>>", dfdx._repr_latex_())
+   output = ddx.replace("$\\displaystyle", "")
+   display(Markdown(output))
+   
+   
+def snsFigSize (w,h):
+   rcParams['figure.figsize'] = w, h
+   
+
+# %%
+def mermaid (graph, darkmode=1) -> Image:
+  if darkmode == 1:
+    graph = "%%{init: {'theme': 'dark'}}%%" + graph
+  graphbytes = graph.encode("ascii")
+  base64_bytes = base64.b64encode(graphbytes)
+  base64_string = base64_bytes.decode("ascii")
+  display(Image(url="https://mermaid.ink/img/" + base64_string))
+# %%
