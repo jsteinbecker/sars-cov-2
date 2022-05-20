@@ -1,15 +1,16 @@
 import re
 
-def get_definitions (filename,filecontent):
+def get_definitions (filename, filecontent):
       """
-   ===================================================================
+   ========================================================================================
    
    FOR PROVIDED FILE, FUNCTION WILL EXTRACT DEFINITIONS CONTAINED.
    'DEFINITIONS' FIT THE PATTERN:
    
+   
          'TERM'  ::    'DESCRIPTION'
          
-   ===================================================================
+   ========================================================================================
       """
    
       lines = filecontent.split("\n")

@@ -10,14 +10,23 @@ DEXTROSE 5% WATER
 """
 
 
-def date_bactrim(bag_mL, drug_mL=0, drug_mg=0):
+def date_bactrim  (bag_mL,   drug_mL=0, drug_mg=0 ) -> str :
+   """:::::::::::::::::::::::::::::::::
+   IN Format A :  x mL BAG
+                  y mL Drug
+            
+   """
+
+   # both cannot be 0...
    if drug_mg == 0 :
-      if drug_mL == 0:
+      if drug_mL == 0 :
          return "Error: Add either drug_mL or drug_mg"
+         
    if drug_mg != 0 : 
       if drug_mL != 0:
          if drug_mL / 16 != drug_mg:
             return "Error: Mismatched Drug_mL / mg. Stock Sol  = 16mg/mL..."
+            
    if drug_mg == 0:
       drug = drug_mL  
    if drug_mL == 0:
