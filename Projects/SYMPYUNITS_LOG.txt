@@ -29,3 +29,15 @@
 100*mile/hour --->  160.9344*km/hour
 100*mile/hour --->  160.9344*km/hour
 61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
+100*mile/hour --->  160.9344*km/hour
+61*kg --->  134.481979932775*pound
