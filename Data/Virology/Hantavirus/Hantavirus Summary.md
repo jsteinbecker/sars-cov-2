@@ -1,5 +1,8 @@
 # HANTAVIRUS
 
-- -ssRNA
-- Chronic ifx in rodents
-- CFR: ~30%
+## Basic Details
+Hantavirus | value
+-----------|----------------
+Genome   | -ssRNA
+Reservior | Chronic infx in rodents
+CFR | ~30%
