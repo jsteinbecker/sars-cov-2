@@ -4,8 +4,9 @@ import re
 SAMPLE DATA
 ############
 """
-line = "Prokofiev,Russia Under the Mongolian Yolk (Nevsky),BC,15 min,4,5"
-header = "Composer,Work,Ins.,Time,Vibe,Quality"
+class sample :
+   line =   "Prokofiev,Russia Under the Mongolian Yolk (Nevsky),BC,15 min,4,5"
+   header = "Composer,Work,Ins.,Time,Vibe,Quality"
 
 
 """
@@ -30,7 +31,7 @@ def maketable  (head,body):
    MAKE TABLE FUNCTION
    -----------
    """
-   print(f'\n{ formatter(head) }\n{ makediv(head) }\n{ formatter(body) }\n')
+   print(f'\n{ formatter(sample.head) }\n{ makediv(sample:head) }\n{ formatter(body) }\n')
 
 """
 ####################

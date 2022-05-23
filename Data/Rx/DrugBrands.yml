@@ -1,0 +1,18 @@
+# DRUG BRANDS
+
+########################
+# format as :
+# GENERIC/INN  :  BRAND
+########################
+
+Adalimumab:       HUMIRA
+Cefazolin:        ANCEF
+Ceftazidime:      TAZICEF
+Ceftazidime/ Tazobactam: ZERBAXA
+Ceftriaxone:      ROCEPHIN
+Doxepin:          SINEQUAN
+Mirtazapine:      REMERON
+Quetiapine:       SEROQUEL
+Ramelteon:        ROZEREM
+Tozinameran:      COVID-19 VACCINE (PFIZER)
+Zaleplon:         SONATA
