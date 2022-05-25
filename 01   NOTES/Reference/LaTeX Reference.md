@@ -11,6 +11,10 @@ Floor Division :    \lfloor \rfloor
 ```
 --
 
+$$\leftarrow$$
+
+$$\rightarrow$$
+
 | Function      | Ex                            | Symbols           | 
 |---------------|-------------------------------|-------------------| 
 | ARROWS        | $\leftarrow ~~~\rightarrow$   | `\leftarrow`      | 
