@@ -3,9 +3,9 @@
 # FORMAT CODES
 #----------------------
 
-integer :     "{:g}"
-commas :      "{:,}"
-sigfigs (3) : "{:.3}"
+integer    :  "{:g}"
+commas     :  "{:,}"
+sigfigs 3  :  "{:.3}"
 
 
 
