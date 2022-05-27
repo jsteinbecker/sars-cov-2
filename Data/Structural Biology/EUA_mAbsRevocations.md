@@ -16,7 +16,6 @@
 
 # EUA Active
 !!!  Treatment, High Risk of Progression post-seroconversion:
-    ---
     - Sotrovimab `VIR`
     - Bebtelovimab
 
