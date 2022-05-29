@@ -17,3 +17,5 @@ G ==I have you==. Suck it.
 
 smiles
 CC(cccccc)C(cccccc)C(=O)O
+
+$$ \frac{-2a^2}{3a^3b^2} = 3x/t$$ 

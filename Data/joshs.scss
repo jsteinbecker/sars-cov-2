@@ -1,12 +1,31 @@
-$flgreen: #A1FCA4;
-$flyellow: #FFC648;
-$flpurple: #ECABFF;
-$flred: #80263F;
-$fllightblue: #CDCFDF;
+$flgreen:      #A1FCA4;
+$flyellow:     #FFC648;
+$flpurple:     #ECABFF;
+$flred:        #80263F;
+$fllightblue:  #CDCFDF;
+$flbg:         #181b26;
+
+* {
+   background-color: $flbg;
+   color: $fllightblue;
+   font-family: 'Gill Sans', 'Jetbrains Mono', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 h1 {
-   color: $flpurple
+   color: $flpurple;
 }
+
 h2 {
-   color: $fllightblue
+   color: $fllightblue;
+}
+mark {
+   color: $flbg;
+   background-color: $flyellow;
+   padding: 2px;
+   
+}
+p {
+   border-color: $fllightblue;
+
+   
 }
