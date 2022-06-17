@@ -5,11 +5,15 @@ from rdkit.Chem import Draw
 import yaml
 from yaml import load, Loader
 
+
+
 rawd = open('Functions/Chemistry/smilesData.yml','r')
 rawd
 data = rawd,yaml.load(rawd,Loader=Loader)
 df =data[1]
 
+
+   
 n = [ x for x in df ]
 s = [ x for x in df.values() ]
 

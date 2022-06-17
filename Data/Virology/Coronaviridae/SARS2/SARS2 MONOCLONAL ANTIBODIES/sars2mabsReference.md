@@ -3,8 +3,8 @@
 
 Research Reference |        Brand
 ------------------:|:-------------------:
-            CoV555 | Bamlanivimab (Lilly)
-            CoV016 |  Etesevimab (Lilly)
+$$CoV555$$         | Bamlanivimab (Lilly)
+$$CoV016$$         |  Etesevimab (Lilly)
 
 
 ---

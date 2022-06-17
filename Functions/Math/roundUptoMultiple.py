@@ -7,6 +7,7 @@ def roundUpToMultiple(number:float, multiple:int) -> int:
     
     (Reduces sig figs by factor of provided multiple when 
     multiple is a factor of 10)
+    
     ------------------------------------------------
     Example: 
         Multiple of 100

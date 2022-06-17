@@ -34,7 +34,7 @@ The formation of each neutron releases a neutrino, and so the core’s collapse 
 
 ![Supernova SN 1987A from the NASA/ESA Hubble Space Telescope.](https://media.nature.com/lw800/magazine-assets/d41586-022-00425-8/d41586-022-00425-8_20137360.jpg)
 
-The Hubble Space Telescope captured SN 1987A in 2011 surrounded by a set of glowing rings.Credit: ESA/Hubble & NASA
+The Hubble Space Telescope captured SN 1987A in 2011 surrounded by a set of glowing rings.Credit: ESA/Hubble & <red>NASA</red>
 
 During the collapse itself, the energy released by the falling matter smashes elementary particles together as happens in a high-energy collider, continuously turning energy into new particles of all kinds. “It’s so incredibly hot and dense, everything is happening,” says Kate Scholberg, an astrophysicist at Duke University in Durham, North Carolina.
 

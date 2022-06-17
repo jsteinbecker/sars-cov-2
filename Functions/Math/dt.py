@@ -12,8 +12,8 @@ bds = {"Josh"  : dt.date(1995, 3, 27),
 
 # %% 
 "LAMBDA FUNCTIONS"
-getWeekday = lambda x: "SUN MON TUE WED THU FRI SAT".split(" ")[x.isoweekday()]
-getAge = lambda x: (dt.date.today() - x).days
+getWeekday =  lambda x: "SUN MON TUE WED THU FRI SAT".split(" ")[x.isoweekday()]
+getAge =      lambda x: (dt.date.today() - x).days
 
 ###############################################################################
 # %%
@@ -22,6 +22,7 @@ for x in bds.values():
    y = getAge (x)
    agelist.append(y)
 agelist
+
 # %%
 "COMPARISON WITH JOSH'S AGE"
 for x in range(len(bds)):

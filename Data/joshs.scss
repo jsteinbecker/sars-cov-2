@@ -6,24 +6,30 @@ $fllightblue:  #CDCFDF;
 $flbg:         #181b26;
 
 * {
-   background-color: $flbg;
-   color: $fllightblue;
-   font-family: 'Gill Sans', 'Jetbrains Mono', Calibri, 'Trebuchet MS', sans-serif;
+   background-color:    $flbg;
+   color:               $fllightblue;
+   font-family:         'Gill Sans', 'Jetbrains Mono', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 
 h1 {
    color: $flpurple;
 }
 
+
 h2 {
    color: $fllightblue;
 }
+
+
 mark {
-   color: $flbg;
+   color:            $flbg;
    background-color: $flyellow;
-   padding: 2px;
+   padding:          2px;
    
 }
+
+
 p {
    border-color: $fllightblue;
 

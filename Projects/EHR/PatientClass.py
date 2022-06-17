@@ -4,7 +4,8 @@ from IPython.display import Markdown
 import pandas as pd
 
 class Patient:
-   """### Class: PATIENT
+   """
+   ### Class: PATIENT
    ----------------------------------
    *INITS*
    >>> name
@@ -12,6 +13,7 @@ class Patient:
    >>> age
    >>> SerCreat
    """
+   
    def __init__(self, name, weight, age, SerCreat, female:bool):
       """### Class: PATIENT
       ***

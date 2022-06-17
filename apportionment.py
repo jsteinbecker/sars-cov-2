@@ -2,14 +2,21 @@
 import random as rnd
 import pandas as pd
 import numpy as np
+
 # %%
 "DEFINING STATES NAMES"
+
 def make_states (n:int):
     stateletters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z".split(" ")
     states = ["State " + x for x in stateletters]
     return states[0:n]
+
+ 
 states = make_states(26)
 states
+
+
+
 # %%
 "RANDOMLY GEN STATES POPULATIONS"
 rnd.seed(2)

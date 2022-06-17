@@ -1,0 +1,8 @@
+n: REGEX EXTRACTION
+
+f: df.colnane.str.extract("(C\d*)")
+
+
+
+notes:
+    - Regex must contain () capture grp
