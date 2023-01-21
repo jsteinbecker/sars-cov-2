@@ -1,3 +1,5 @@
+""" Round Up To Multiple (.py) """
+__author__= "Josh Steinbecker"
 
 
 def roundUpToMultiple(number:float, multiple:int) -> int:
