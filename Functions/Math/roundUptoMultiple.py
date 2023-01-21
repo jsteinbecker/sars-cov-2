@@ -1,9 +1,11 @@
+
+
 def roundUpToMultiple(number:float, multiple:int) -> int:
     """
     RETURNS VALUE ROUNDED TO A NEAREST MULTIPLE 
     >>> number
     >>> multiple    to round up to
-    ======================================================
+    ===================================================
     
     (Reduces sig figs by factor of provided multiple when 
     multiple is a factor of 10)
@@ -40,7 +42,7 @@ def accumulate (Set, specialReturn= None) -> list:
       md_str = ""
       for x in range(len(Set)):
          ob = '{'; cb = '}'
-         md_str += f'\\xrightarrow{ob}+{Set[x]}{cb} {accum[x+1]}'
+         md_str += f'\\xrightarrow{ob} + {Set[x]}{cb} {accum[x+1]}'
       
       md = "$" + md_str + "$"
       
